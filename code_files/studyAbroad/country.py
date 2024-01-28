@@ -8,6 +8,8 @@ class Abroad:
     university_country = []
     university_name = []
     university_place = []
+    tuition_fees = []
+    living_fees = []
 
     # class default method------
     def __init__(self, country_name):
@@ -43,19 +45,34 @@ class Abroad:
                 
                 for university in universities:        
 
-                    university_info = university.find('span', class_="jsx-3255989801 flex-fill")
+                    try:
+                        university_info = university.find('span', class_="jsx-3255989801 flex-fill")
 
-                    name = university_info.find('h3').text
-                    Abroad.university_name.append(name)
+                        name = university_info.find('h3').text
+                        Abroad.university_name.append(name)
 
-                    place = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text
-                    Abroad.university_place.append(place)
+                        place = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text
+                        Abroad.university_place.append(place)
 
-                    country = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text.split(',')[1]
-                    Abroad.university_country.append(country)
+                        country = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text.split(',')[1]
+                        Abroad.university_country.append(country)
 
-                    # tuition_living = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column").text.split()
+                        tuition = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column").text.split()[1]
+                        if tuition.startswith("₹"):
+                            Abroad.tuition_fees.append(tuition)
+                        else:
+                            Abroad.tuition_fees.append('NA')
+                        
 
+                        living = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column").text.split()[3]
+                        if living.startswith("₹"):
+                            Abroad.living_fees.append(living)
+                        else:
+                            Abroad.living_fees.append('NA')
+                            
+                    except Exception as e:
+                        print(e)
+                    
 
         except Exception as e:
             print(e)

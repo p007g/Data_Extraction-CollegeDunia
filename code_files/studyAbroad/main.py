@@ -3,8 +3,7 @@ import numpy as np
 from country import Abroad
 
 
-countries = ['canada', 'australia', 'germany', 'hong-kong', 'ireland', 'malaysia', 'netherlands', 
-             'new-zealand', 'singapore', 'sweden', 'uk', 'usa', 'france', 'italy', 'uae']
+countries = ['france', 'malaysia']
 
 for country in countries:
     # make an object------
@@ -16,13 +15,17 @@ for country in countries:
     info = {
         "Country":data.university_country,
         "Universities Names":data.university_name, 
-        "University Place":data.university_place
+        "University Place":data.university_place,
+        "Tuition Fees":data.tuition_fees,
+        "Living Fees":data.living_fees
         }
-
-    df = pd.DataFrame(info)
+    
+    df = pd.DataFrame.from_dict(info, orient='index')
+    df = df.transpose()
     df.index = np.arange(1, len(df) + 1)
 
 
-# Save to Excel file------
 print(df)
-df.to_excel('Abroad Universities Data.xlsx', sheet_name='All Universities')
+# Save to files------
+# excel_file = 'Abroad Universities Data.xlsx'
+# df.to_excel(excel_file, sheet_name='All Universities')

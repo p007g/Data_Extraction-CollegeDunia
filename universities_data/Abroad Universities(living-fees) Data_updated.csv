@@ -1,0 +1,1771 @@
+﻿,Country,Universities Names,University Place,Tuition Fees,Living Fees
+1, UK,"University of Oxford, Oxford","England, UK",₹36.5L/Yr,₹16.8L/Yr
+2, USA,"Stanford University, Stanford","California, USA",₹41.02L/Yr,₹25.46L/Yr
+3, USA,"Massachusetts Institute of Technology, Cambridge","Massachusetts, USA",₹56.04L/Yr,₹13.63L/Yr
+4, USA,"Harvard University, Cambridge","Massachusetts, USA",₹47.65L/Yr,₹26.36L/Yr
+5, UK,"University of Cambridge, Cambridge","England, UK",₹45.41L/Yr,₹70.5K/Yr
+6, USA,"Princeton University, Princeton","New Jersey, USA",₹56.03L/Yr,₹15.5L/Yr
+7, USA,"California Institute of Technology, Pasadena","California, USA",₹51.77L/Yr,₹12.31L/Yr
+8, UK,"Imperial College London, London","England, UK",₹40.31L/Yr,₹12.15L/Yr
+9, USA,"University of California, Berkeley","California, USA",₹33.9L/Yr,₹34.38L/Yr
+10, USA,"Yale University, New Haven","Connecticut, USA",₹51.11L/Yr,₹21.45L/Yr
+11, Switzerland,"ETH Zurich, Zurich","Zurich, Switzerland",₹1.75L/Yr,₹2.04L/Yr
+12, USA,"University of Chicago, Chicago","Illinois, USA",₹58.19L/Yr,₹15.3L/Yr
+13, USA,"Johns Hopkins University, Baltimore","Maryland, USA",₹59.96L/Yr,₹14.67L/Yr
+14, USA,"University of Pennsylvania, Philadelphia","Pennsylvania, USA",₹50.7L/Yr,₹14.88L/Yr
+15, USA,"Columbia University, New York City","New York, USA",₹41.73L/Yr,₹8.66L/Yr
+16, USA,"University of California, Los Angeles","California, USA",₹43.11L/Yr,₹14.26L/Yr
+17, Singapore,"National University of Singapore, Singapore","Singapore, Singapore",₹21.07L/Yr,₹4.8L/Yr
+18, USA,"Cornell University, Ithaca","New York, USA",₹46.16L/Yr,₹29.36L/Yr
+19, Canada,"University of Toronto, Toronto","Ontario, Canada",₹35.35L/Yr,₹23.27L/Yr
+20, UK,"University College London, London","England, UK",₹33.44L/Yr,₹36.01L/Yr
+21, USA,"University of Michigan, Ann Arbor","Michigan, USA",₹47.92L/Yr,₹10.01L/Yr
+22, USA,"Carnegie Mellon University, Pittsburgh","Pennsylvania, USA",₹48.99L/Yr,₹11.47L/Yr
+23, USA,"University of Washington, Seattle","Washington, USA",₹32.21L/Yr,₹10.08L/Yr
+24, USA,"Duke University, Durham","North Carolina, USA",₹53.96L/Yr,₹32.58L/Yr
+25, USA,"New York University, New York City","New York, USA",₹52.97L/Yr,₹17.48L/Yr
+26, USA,"Northwestern University, Evanston","Illinois, USA",₹46.61L/Yr,₹13.35L/Yr
+27, Germany,"Technical University Munich, Munich","Bavaria, Germany",₹10.05L/Yr,₹21.31L/Yr
+28, UK,"University of Edinburgh, Edinburgh","Scotland, UK",₹31.68L/Yr,₹10.48L/Yr
+29, Singapore,"Nanyang Technological University, Singapore","Singapore, Singapore",₹12.84L/Yr,₹44.1K/Yr
+30, USA,"University of California, San Diego","California, USA",₹34.51L/Yr,NA
+31, Hong-Kong,"The University of Hong Kong, Pokfulam","Hong Kong, Hong-Kong",₹19.38L/Yr,NA
+32, USA,"Georgia Institute of Technology, Atlanta","Georgia, USA",₹33.56L/Yr,₹6.68L/Yr
+33, Australia,"University of Melbourne, Melbourne","Victoria, Australia",₹28.15L/Yr,₹11.17L/Yr
+34, Germany,"Ludwig Maximilian University of Munich, Munich","Bavaria, Germany",₹82.8K/Yr,₹1.28L/Yr
+35, UK,"King's College London, London","England, UK",₹29.89L/Yr,₹1.33L/Yr
+36, Canada,"The University of British Columbia, Vancouver","British Columbia, Canada",₹20.82L/Yr,₹18.4L/Yr
+37, USA,"University of Illinois, Urbana","Illinois, USA",₹36.66L/Yr,NA
+38, UK,"London School of Economics and Political Science, London","England, UK",₹29.53L/Yr,₹45.88L/Yr
+39, Germany,"Heidelberg University, Heidelberg","Baden-Wurttemberg, Germany",₹2.85L/Yr,₹20.45L/Yr
+40, Netherlands,"Delft University of Technology, Delft","South Holland, Netherlands",₹19.27L/Yr,₹9.32L/Yr
+41, Canada,"McGill University, Montreal","Quebec, Canada",₹20.1L/Yr,₹25.42L/Yr
+42, Sweden,"Karolinska Institute, Stockholm","Uppland, Sweden",₹15.13L/Yr,NA
+43, UK,"The University of Manchester, Manchester","England, UK",₹31.02L/Yr,₹19.42L/Yr
+44, USA,"University of Texas, Austin","Texas, USA",₹34.07L/Yr,₹10.22L/Yr
+45, Hong-Kong,"Chinese University of Hong Kong, Shatin","Hong Kong, Hong-Kong",₹15.44L/Yr,NA
+46, Australia,"Monash University, Melbourne","Victoria, Australia",₹27.78L/Yr,₹9.86L/Yr
+47, USA,"University of California, Davis","California, USA",₹44.27L/Yr,₹13.42L/Yr
+48, Australia,"The University of Sydney, Sydney","New South Wales, Australia",₹28.02L/Yr,₹11.33L/Yr
+49, Netherlands,"University of Amsterdam, Amsterdam","North Holland, Netherlands",₹24.24L/Yr,₹84.6K/Yr
+50, USA,"University of Wisconsin, Madison","Wisconsin, USA",₹27.48L/Yr,₹14.26L/Yr
+51, Hong-Kong,"The Hong Kong University of Science & Technology, Hong Kong","Hong Kong, Hong-Kong",₹10.24L/Yr,NA
+52, Netherlands,"Wageningen University & Research, Wageningen","Gelderland, Netherlands",₹17.38L/Yr,NA
+53, USA,"Brown University, Providence","Rhode Island, USA",₹58.24L/Yr,₹8.13L/Yr
+54, Australia,"Australian National University, Canberra","Australian Capital Territory , Australia",₹26.93L/Yr,₹29.99L/Yr
+55, USA,"Washington University, St. Louis","Missouri, USA",₹48.74L/Yr,₹12.9L/Yr
+56, USA,"University of California, Santa Barbara","California, USA",₹37.67L/Yr,₹12.62L/Yr
+57, Australia,"The University of Queensland, Brisbane","Queensland, Australia",₹23.73L/Yr,₹12.94L/Yr
+58, USA,"University of North Carolina, Chapel Hill","North Carolina, USA",₹39.48L/Yr,₹9.61L/Yr
+59, USA,"University of Southern California, Los Angeles","California, USA",₹24.89L/Yr,₹13.92L/Yr
+60, France,"Sorbonne University, Paris","Ile-De-France, France",₹20.2K/Yr,₹5.4L/Yr
+61, Netherlands,"Leiden University, Leiden","South Holland, Netherlands",₹17.44L/Yr,₹92K/Yr
+62, USA,"Boston University, Boston","Massachusetts, USA",₹57.76L/Yr,₹32.78L/Yr
+63, Netherlands,"University of Groningen, Groningen","Groningen, Netherlands",₹15.27L/Yr,₹82.3K/Yr
+64, UK,"University of Bristol, Bristol","England, UK",₹27.16L/Yr,₹27.21L/Yr
+65, Hong-Kong,"City University of Hong Kong, Kowloon Tong","Hong Kong, Hong-Kong",₹18.26L/Yr,NA
+66, Australia,"University of New South Wales, Sydney","New South Wales, Australia",₹17.58L/Yr,₹38.55L/Yr
+67, USA,"University of Minnesota - Twin Cities, Minneapolis","Minnesota, USA",₹34.3L/Yr,₹8.19L/Yr
+68, USA,"Purdue University, West Lafayette","Indiana, USA",₹24.14L/Yr,₹26.57L/Yr
+69, Germany,"Humboldt University of Berlin, Berlin","Berlin, Germany",₹20.7K/Yr,₹6.7L/Yr
+70, Hong-Kong,"The Hong Kong Polytechnic University, Hung Hom","Hong Kong, Hong-Kong",₹18.82L/Yr,NA
+71, UK,"University of Glasgow, Glasgow","Scotland, UK",₹32.09L/Yr,₹10.13L/Yr
+72, Germany,"RWTH Aachen University, Aachen","North Rhine-Westphalia, Germany",₹2.39L/Yr,₹79.5K/Yr
+73, Germany,"University of Bonn, Bonn","North Rhine-Westphalia, Germany",₹59.1K/Yr,NA
+74, USA,"University of California, Irvine","California, USA",₹35.22L/Yr,₹13.87L/Yr
+75, USA,"Vanderbilt University, Nashville","Tennessee, USA",₹57.09L/Yr,₹9.6L/Yr
+76, Germany,"University of Tuebingen, Tubingen","Baden-Wurttemberg, Germany",₹2.74L/Yr,₹5.64L/Yr
+77, Sweden,"KTH Royal Institute of Technology, Stockholm","Uppland, Sweden",₹13.88L/Yr,₹6.5K/Yr
+78, UK,"University of Southampton, Southampton","England, UK",₹27.98L/Yr,₹26.62L/Yr
+79, Netherlands,"Erasmus University Rotterdam, Rotterdam","South Holland, Netherlands",₹18.2L/Yr,₹91.4K/Yr
+80, USA,"Ohio State University, Columbus","Ohio, USA",₹53.09L/Yr,₹11.62L/Yr
+81, UK,"University of Birmingham, Birmingham","England, UK",₹26.43L/Yr,₹22.89L/Yr
+82, Germany,"Free University of Berlin, Berlin","Berlin, Germany",₹15.9K/Yr,₹9.21L/Yr
+83, Canada,"McMaster University, Hamilton","Ontario, Canada",₹25.06L/Yr,₹17.92L/Yr
+84, UK,"University of Sheffield, Sheffield","England, UK",₹28.09L/Yr,₹27.03L/Yr
+85, Sweden,"Lund University, Lund","Skane, Sweden",₹7.24L/Yr,₹1.52L/Yr
+86, UK,"University of Warwick, Coventry","England, UK",₹29.41L/Yr,₹84.2K/Yr
+87, USA,"Emory University, Atlanta","Georgia, USA",₹54.09L/Yr,₹16.43L/Yr
+88, Canada,"University of Alberta, Edmonton","Alberta, Canada",₹16.9L/Yr,₹9.68L/Yr
+89, Canada,"University of Montreal, Montreal","Quebec, Canada",₹13.18L/Yr,₹59K/Yr
+90, Australia,"University of Adelaide, Adelaide","South Australia, Australia",₹26.74L/Yr,₹10.92L/Yr
+91, Germany,"University of Goettingen, Gottingen","Lower Saxony, Germany",₹62.7K/Yr,NA
+92, USA,"University of Maryland, College Park","Maryland, USA",₹28.15L/Yr,₹7.66L/Yr
+93, USA,"Michigan State University, East Lansing","Michigan, USA",₹33.32L/Yr,₹8.88L/Yr
+94, USA,"Texas A&M University, College Station","Texas, USA",₹32.23L/Yr,₹6.99L/Yr
+95, USA,"Rice University, Houston","Texas, USA",₹46.91L/Yr,₹12.06L/Yr
+96, USA,"Pennsylvania State University, State College","Pennsylvania, USA",₹35.22L/Yr,₹9.38L/Yr
+97, USA,"University of Massachusetts, Amherst","Massachusetts, USA",₹22.87L/Yr,₹10.82L/Yr
+98, Netherlands,"Vrije Universiteit Amsterdam, Amsterdam","North Holland, Netherlands",₹12.33L/Yr,₹68.6K/Yr
+99, Germany,"University of Freiburg, Freiburg","Baden-Wurttemberg, Germany",₹2.74L/Yr,NA
+100, UK,"University of Leeds, Leeds","England, UK",₹27.77L/Yr,₹16.58L/Yr
+101, UK,"University of Nottingham, Nottingham","England, UK",₹27.61L/Yr,₹8.98L/Yr
+102, USA,"University of Florida, Gainesville","Florida, USA",₹24.9L/Yr,₹9.57L/Yr
+103, USA,"University of Rochester, Rochester","New York, USA",₹52.95L/Yr,₹8.73L/Yr
+104, Ireland,"Trinity College Dublin, Dublin","Dublin, Ireland",₹21.39L/Yr,₹23.54L/Yr
+105, UK,"Queen Mary, University of London, London","England, UK",₹26.74L/Yr,₹40.92L/Yr
+106, Germany,"Technical University Berlin, Berlin","Berlin, Germany",₹19.6K/Yr,₹15.14L/Yr
+107, Germany,"University of Hamburg, Hamburg","Hamburg, Germany",₹62.2K/Yr,NA
+108, Netherlands,"Maastricht University, Maastricht","Limburg, Netherlands",₹16.43L/Yr,₹12.58L/Yr
+109, USA,"University of Colorado, Boulder","Colorado, USA",₹35.87L/Yr,₹11.64L/Yr
+110, Germany,"Karlsruhe Institute of Technology, Karlsruhe","Baden-Wurttemberg, Germany",₹1.37L/Yr,NA
+111, Sweden,"Uppsala University, Uppsala","Uppland, Sweden",₹10.55L/Yr,₹52.7K/Yr
+112, Australia,"University of Western Australia, Perth","Western Australia, Australia",₹20.79L/Yr,₹11.42L/Yr
+113, USA,"University of Pittsburgh, Pittsburgh","Pennsylvania, USA",₹32.2L/Yr,₹11.14L/Yr
+114, UK,"University of York, York","England, UK",₹26.63L/Yr,₹13.48L/Yr
+115, Australia,"University of Technology Sydney, Sydney","New South Wales, Australia",₹12.77L/Yr,₹12.81L/Yr
+116, New-Zealand,"University of Auckland, Auckland","North Island, New-Zealand",₹25.03L/Yr,₹3.24L/Yr
+117, UK,"Lancaster University, Lancaster","England, UK",₹26.03L/Yr,₹13.21L/Yr
+118, USA,"University of Arizona, Tucson","Arizona, USA",₹36.83L/Yr,₹24.38L/Yr
+119, Italy,"University of Bologna, Carpi","Basilicata, Italy",₹1.1L/Yr,NA
+120, Canada,"University of Waterloo, Waterloo","Ontario, Canada",₹29.08L/Yr,₹12.78L/Yr
+121, Germany,"University of Cologne, Cologne","North Rhine-Westphalia, Germany",₹45.7K/Yr,₹12.95L/Yr
+122, Germany,"Technical University Dresden, Dresden","Saxony, Germany",₹24.1K/Yr,₹14.49L/Yr
+123, USA,"Dartmouth College, Hanover","New Hampshire, USA",₹57.31L/Yr,₹8.62L/Yr
+124, USA,"Case Western Reserve University, Cleveland","Ohio, USA",₹35.52L/Yr,₹5.43L/Yr
+125, USA,"University of Virginia, Charlottesville","Virginia, USA",₹43.32L/Yr,₹11.6L/Yr
+126, Netherlands,"Eindhoven University of Technology, Eindhoven","North Brabant, Netherlands",₹16.4L/Yr,NA
+127, UK,"University of Liverpool, Liverpool","England, UK",₹26.96L/Yr,₹41.92L/Yr
+128, UK,"Newcastle University, Newcastle upon Tyne","England, UK",₹29.02L/Yr,₹80.9K/Yr
+129, UK,"Durham University, Durham","England, UK",₹28.08L/Yr,₹21.59L/Yr
+130, Germany,"University of Wuerzburg, Wurzburg","Bavaria, Germany",₹28.5K/Yr,NA
+131, Canada,"University of Ottawa, Ottawa","Ontario, Canada",₹14.5L/Yr,₹27.47L/Yr
+132, UK,"University of Exeter, Exeter","England, UK",₹26.82L/Yr,₹8.39L/Yr
+133, Australia,"Macquarie University, Sydney","New South Wales, Australia",₹23.28L/Yr,₹15.83L/Yr
+134, Italy,"Sapienza University of Rome, San Severo","Lazio, Italy",₹2.66L/Yr,NA
+135, USA,"Arizona State University, Tempe","Arizona, USA",₹36.99L/Yr,₹14.66L/Yr
+136, Netherlands,"University of Twente, Enschede","Overijssel, Netherlands",₹14.2L/Yr,NA
+137, Sweden,"Stockholm University, Stockholm","Uppland, Sweden",₹9.46L/Yr,₹56.8K/Yr
+138, Germany,"University of Mannheim, Mannheim","Baden-Wurttemberg, Germany",₹2.74L/Yr,NA
+139, USA,"Georgetown University, Washington","District Of Columbia, USA",₹55.23L/Yr,₹14.67L/Yr
+140, Sweden,"Chalmers University of Technology, Gothenburg","Bohuslan, Sweden",₹13.16L/Yr,₹77K/Yr
+141, UK,"Cardiff University, Cardiff","Wales, UK",₹25.04L/Yr,₹9.13L/Yr
+142, USA,"Tufts University, Medford","Massachusetts, USA",₹54.7L/Yr,₹30.04L/Yr
+143, Germany,"University of Muenster, Munster","North Rhine-Westphalia, Germany",₹31.3K/Yr,NA
+144, Germany,"Ulm University, Ulm","Baden-Wurttemberg, Germany",₹2.74L/Yr,₹8.07L/Yr
+145, UK,"University of St Andrews, St Andrews","Scotland, UK",₹28.93L/Yr,₹42.7L/Yr
+146, USA,"Indiana University, Bloomington","Indiana, USA",₹33.27L/Yr,₹9.01L/Yr
+147, Australia,"Queensland University of Technology, Brisbane","Queensland, Australia",₹20.99L/Yr,NA
+148, USA,"University of Notre Dame, Notre Dame","Indiana, USA",₹52.82L/Yr,₹12.39L/Yr
+149, Canada,"University of Calgary, Calgary","Alberta, Canada",₹18.37L/Yr,₹13.62L/Yr
+150, Canada,"Western University, London","Ontario, Canada",₹23.38L/Yr,₹16.57L/Yr
+151, Australia,"Swinburne University of Technology, Melbourne","Victoria, Australia",₹14.54L/Yr,₹55.8K/Yr
+152, Australia,"University of Newcastle, Newcastle","New South Wales, Australia",₹16.28L/Yr,₹16.06L/Yr
+153, Australia,"Curtin University, Perth","Western Australia, Australia",₹18.9L/Yr,₹26K/Yr
+154, Australia,"University of Wollongong, Wollongong","New South Wales, Australia",₹18.75L/Yr,₹21.78L/Yr
+155, Germany,"Goethe University Frankfurt, Frankfurt am Main","Hesse, Germany",₹74.2K/Yr,₹7.09L/Yr
+156, Germany,"Friedrich Schiller University Jena, Jena","Thuringia, Germany",₹43.9K/Yr,₹5.48L/Yr
+157, Germany,"University of Potsdam, Potsdam","Brandenburg, Germany",₹57.8K/Yr,NA
+158, Ireland,"University College Dublin, Belfield","Dublin, Ireland",₹22.33L/Yr,₹36.36L/Yr
+159, Sweden,"University of Gothenburg, Gothenburg","Bohuslan, Sweden",₹5.19L/Yr,NA
+160, UK,"University of Aberdeen, Aberdeen","Scotland, UK",₹28.1L/Yr,₹53.7K/Yr
+161, UK,"Queen's University Belfast, Belfast","Northern Ireland, UK",₹19.93L/Yr,₹16.8K/Yr
+162, UK,"University of Reading, Berkshire","England, UK",₹21.7L/Yr,₹10.32L/Yr
+163, UK,"University of Sussex, Brighton","England, UK",₹24.14L/Yr,₹15.63L/Yr
+164, UK,"University of Leicester, Leicester","England, UK",₹22.06L/Yr,₹7.05L/Yr
+165, USA,"Northeastern University, Boston","Massachusetts, USA",₹45.16L/Yr,₹22.15L/Yr
+166, USA,"University of Illinois, Chicago","Illinois, USA",₹22.74L/Yr,₹10.38L/Yr
+167, USA,"University of Miami, Coral Gables","Florida, USA",₹46.98L/Yr,₹11.37L/Yr
+168, USA,"University of Iowa, Iowa City","Iowa, USA",₹24.36L/Yr,₹8.69L/Yr
+169, USA,"Rutgers University - New Jersey, New Brunswick","New Jersey, USA",₹31.76L/Yr,₹10.36L/Yr
+170, USA,"University of Utah, Salt Lake City","Utah, USA",₹28.12L/Yr,₹10.36L/Yr
+171, USA,"University of California, Santa Cruz","California, USA",₹41.54L/Yr,₹13.35L/Yr
+172, USA,"George Washington University, Washington","District Of Columbia, USA",₹50.3L/Yr,₹10.81L/Yr
+173, UAE,"Abu Dhabi University, Dubai","Dubai, UAE",₹12.92L/Yr,NA
+174, Italy,"Sant'Anna School of Advanced Studies, Pisa","Tuscany, Italy",₹118.8L/Yr,NA
+175, Italy,"Politecnico Di Milano, Milan","Apulia, Italy",₹3.48L/Yr,₹6.57L/Yr
+176, Canada,"Queen's University, Kingston","Ontario, Canada",₹18.74L/Yr,₹6.78L/Yr
+177, Canada,"Simon Fraser University, Burnaby","British Columbia, Canada",₹26.9L/Yr,₹3.69L/Yr
+178, Canada,"Laval University, Quebec City","Quebec, Canada",₹13.32L/Yr,NA
+179, Australia,"Griffith University, Brisbane","Queensland, Australia",₹20.7L/Yr,₹4.51L/Yr
+180, Australia,"Deakin University, Geelong","Victoria, Australia",₹19.79L/Yr,₹6.53L/Yr
+181, Australia,"University of Tasmania, Hobart","Tasmania, Australia",₹20.35L/Yr,₹34.8K/Yr
+182, Australia,"La Trobe University, Melbourne","Victoria, Australia",₹21.19L/Yr,₹71.2K/Yr
+183, Australia,"RMIT University, Melbourne","Victoria, Australia",₹22.27L/Yr,₹7.68L/Yr
+184, Germany,"Ruhr University Bochum, Bochum","North Rhine-Westphalia, Germany",₹1.09L/Yr,NA
+185, Germany,"Technical University Darmstadt, Darmstadt","Hesse, Germany",₹41.7K/Yr,NA
+186, Germany,"University of Duesseldorf, Dusseldorf","North Rhine-Westphalia, Germany",₹54.8K/Yr,NA
+187, Germany,"University of Konstanz, Konstanz","Baden-Wurttemberg, Germany",₹2.29L/Yr,₹10.77L/Yr
+188, Germany,"Johannes Gutenberg University of Mainz, Mainz","Rhineland-Palatinate, Germany",₹61.2K/Yr,₹8.52L/Yr
+189, Germany,"University of Hohenheim, Stuttgart","Baden-Wurttemberg, Germany",₹2.74L/Yr,NA
+190, Germany,"University of Stuttgart, Stuttgart","Baden-Wurttemberg, Germany",₹3.05L/Yr,₹38.04L/Yr
+191, Malaysia,"University of Malaya, Kuala Lumpur","Kuala Lumpur, Malaysia",₹5.04L/Yr,₹17.9K/Yr
+192, Sweden,"Linkoping University, Linkoping","Ostergotland, Sweden",₹11.03L/Yr,NA
+193, UK,"University of Bath, Bath","England, UK",₹28.33L/Yr,₹16.93L/Yr
+194, UK,"University of Surrey, Guildford","England, UK",₹23.03L/Yr,₹38.1K/Yr
+195, UK,"Loughborough University, Loughborough","England, UK",₹27.14L/Yr,₹9.17L/Yr
+196, UK,"University of East Anglia, Norwich","England, UK",₹22.89L/Yr,₹27.88L/Yr
+197, UK,"Swansea University, Swansea","Wales, UK",₹20.87L/Yr,₹8.77L/Yr
+198, USA,"Boston College, Chestnut Hill","Massachusetts, USA",₹43.04L/Yr,₹11.76L/Yr
+199, USA,"North Carolina State University, Raleigh","North Carolina, USA",₹37.98L/Yr,₹26.56L/Yr
+200, USA,"University of California, Riverside","California, USA",₹36.14L/Yr,₹12.93L/Yr
+201, USA,"Stony Brook University, Stony Brook","New York, USA",₹22.19L/Yr,₹11.18L/Yr
+202, USA,"Florida State University, Tallahassee","Florida, USA",₹22.25L/Yr,₹8.7L/Yr
+203, USA,"University of South Florida, Tampa","Florida, USA",₹14.55L/Yr,₹16.01L/Yr
+204, USA,"Brandeis University, Waltham","Massachusetts, USA",₹42.67L/Yr,₹12.4L/Yr
+205, UAE,"Khalifa University, Abu Dhabi","Abu Dhabi, UAE",₹25.27L/Yr,NA
+206, Italy,"Humanitas University, Pavia","Lombardy, Italy",₹9.28L/Yr,₹13.71L/Yr
+207, Canada,"Dalhousie University, Halifax","Nova Scotia, Canada",₹18.46L/Yr,₹19.9L/Yr
+208, Australia,"Flinders University, Adelaide","South Australia, Australia",₹19.15L/Yr,₹14.63L/Yr
+209, Australia,"University of South Australia, Adelaide","South Australia, Australia",₹19.16L/Yr,₹11.27L/Yr
+210, Australia,"Western Sydney University, Sydney","New South Wales, Australia",₹18.43L/Yr,₹15.08L/Yr
+211, Germany,"University of Bremen, Bremen","Bremen, Germany",NA,NA
+212, Germany,"University of Kiel, Kiel","Schleswig-Holstein, Germany",₹47.6K/Yr,NA
+213, Hong-Kong,"Hong Kong Baptist University, Kowloon Tong","Hong Kong, Hong-Kong",₹23.25L/Yr,NA
+214, Ireland,"University College Cork, Cork","Cork, Ireland",₹19.46L/Yr,₹19.71L/Yr
+215, Malaysia,"Universiti Teknologi Petronas, Seri Iskander","Perak, Malaysia",₹13.75L/Yr,NA
+216, New-Zealand,"University of Otago, Dunedin","South Island, New-Zealand",₹21.89L/Yr,₹24.07L/Yr
+217, Sweden,"Swedish University of Agricultural Sciences, Uppsala","Uppland, Sweden",₹21.64L/Yr,NA
+218, UK,"University of Essex, Colchester","England, UK",₹20.52L/Yr,₹6.92L/Yr
+219, UK,"University of Dundee, Dundee","Scotland, UK",₹22.27L/Yr,₹14.43L/Yr
+220, UK,"Royal Holloway, University of London, Egham","England, UK",₹24.69L/Yr,₹23.35L/Yr
+221, UK,"University of Strathclyde, Glasgow","Scotland, UK",₹22.35L/Yr,₹9.37L/Yr
+222, UK,"St George's, University of London, London","England, UK",₹23.54L/Yr,NA
+223, USA,"University at Buffalo, Buffalo","New York, USA",₹22.53L/Yr,₹30.97L/Yr
+224, USA,"University of Tennessee, Knoxville","Tennessee, USA",₹13.33L/Yr,₹8.9L/Yr
+225, USA,"Drexel University, Philadelphia","Pennsylvania, USA",₹37.17L/Yr,₹18.1L/Yr
+226, USA,"Oregon Health & Science University, Portland","Oregon, USA",₹21.35L/Yr,NA
+227, USA,"Washington State University, Pullman","Washington, USA",₹37.03L/Yr,₹9.45L/Yr
+228, UAE,"United Arab Emirates University, Al Ain","Abu Dhabi, UAE",₹16.14L/Yr,₹34.5K/Yr
+229, France,"Montpellier Business School, Montpellier","Occitania, France",₹66.51L/Yr,NA
+230, Canada,"University of Manitoba, Winnipeg","Manitoba, Canada",₹9.96L/Yr,₹10.07L/Yr
+231, Canada,"University of Saskatchewan, Saskatoon","Saskatchewan, Canada",₹14.39L/Yr,₹12.49L/Yr
+232, Canada,"University of Victoria, Victoria","British Columbia, Canada",₹12.25L/Yr,₹22.32L/Yr
+233, Canada,"York University, Toronto","Ontario, Canada",₹23.45L/Yr,₹24.15L/Yr
+234, Australia,"University of Canberra, Canberra","Australian Capital Territory , Australia",₹19.42L/Yr,₹7.52L/Yr
+235, Australia,"Edith Cowan University, Perth","Western Australia, Australia",₹16.89L/Yr,₹12.6K/Yr
+236, Australia,"Murdoch University, Perth","Western Australia, Australia",₹23.57L/Yr,₹18.4K/Yr
+237, Australia,"University of Southern Queensland, Toowoomba","Queensland, Australia",₹14.86L/Yr,NA
+238, Australia,"James Cook University, Townsville","Queensland, Australia",₹7.27L/Yr,₹6.79L/Yr
+239, Germany,"University of Bayreuth, Bayreuth","Bavaria, Germany",₹55K/Yr,NA
+240, Germany,"Leibniz University of Hannover, Hannover","Lower Saxony, Germany",₹72.4K/Yr,NA
+241, UK,"Heriot-Watt University, Edinburgh","Scotland, UK",₹23.65L/Yr,₹6.7L/Yr
+242, UK,"City, University of London, London","England, UK",₹23.27L/Yr,₹37.25L/Yr
+243, UK,"Brunel University, London","England, UK",₹22.71L/Yr,₹23.28L/Yr
+244, USA,"Iowa State University, Ames","Iowa, USA",₹24.12L/Yr,₹7.11L/Yr
+245, USA,"University of Georgia, Athens","Georgia, USA",₹22.43L/Yr,₹8.37L/Yr
+246, USA,"Illinois Institute of Technology, Chicago","Illinois, USA",₹45.18L/Yr,₹11.3L/Yr
+247, USA,"University of Colorado, Denver","Colorado, USA",₹21.26L/Yr,₹9.71L/Yr
+248, USA,"University of Kansas, Lawrence","Kansas, USA",₹21.13L/Yr,₹8.55L/Yr
+249, USA,"Temple University, Philadelphia","Pennsylvania, USA",₹31.27L/Yr,₹15.37L/Yr
+250, USA,"University of Texas Dallas, Richardson","Texas, USA",₹36.1L/Yr,₹7.69L/Yr
+251, USA,"University of Connecticut, Storrs","Connecticut, USA",₹36.33L/Yr,₹10.41L/Yr
+252, UAE,"University of Sharjah, Sharjah","Sharjah, UAE",₹10.21L/Yr,₹45.2K/Yr
+253, Italy,"University of Milan, Milan","Apulia, Italy",₹2.38L/Yr,NA
+254, Canada,"University of Quebec at Montreal, Montreal","Quebec, Canada",₹10.92L/Yr,₹2.68L/Yr
+255, Canada,"University of Guelph, Guelph","Ontario, Canada",₹15.24L/Yr,₹14.47L/Yr
+256, Australia,"Australian Catholic University, Brisbane","Queensland, Australia",₹16.06L/Yr,₹21.16L/Yr
+257, Australia,"Charles Darwin University, Darwin","Northern Territory , Australia",₹18L/Yr,₹9.66L/Yr
+258, Australia,"Bond University, Gold Coast","Queensland, Australia",₹23.14L/Yr,NA
+259, Australia,"Victoria University, Melbourne","Victoria, Australia",₹20.69L/Yr,₹7.26L/Yr
+260, Germany,"Technical University Dortmund, Dortmund","North Rhine-Westphalia, Germany",₹9.36L/Yr,₹50.7K/Yr
+261, Germany,"University of Greifswald, Greifswald","Mecklenburg-Vorpommern, Germany",₹22.7K/Yr,₹4.63L/Yr
+262, Germany,"University of Passau, Passau","Bavaria, Germany",₹29.3K/Yr,NA
+263, Ireland,"Dublin City University, Dublin","Dublin, Ireland",₹15.29L/Yr,₹10.87L/Yr
+264, Ireland,"University of Limerick, Limerick","Limerick, Ireland",₹17.2L/Yr,NA
+265, Ireland,"Maynooth University, Maynooth","Kildare, Ireland",₹6.93L/Yr,NA
+266, Malaysia,"Universiti Utara Malaysia, Changlun","Kedah, Malaysia",₹1.72L/Yr,NA
+267, Malaysia,"Universiti Sains Malaysia, George Town","Penang, Malaysia",₹87.8K/Yr,NA
+268, Malaysia,"Universiti Teknologi Malaysia, Skudai","Johor, Malaysia",₹10.27L/Yr,NA
+269, New-Zealand,"Auckland University of Technology, Auckland","North Island, New-Zealand",₹22.72L/Yr,₹28.57L/Yr
+270, Sweden,"Umea University, Umea","Vasterbotten, Sweden",₹45.76L/Yr,NA
+271, UK,"Aston University, Birmingham","England, UK",₹21.67L/Yr,₹14.36L/Yr
+272, UK,"University of Kent, Canterbury","England, UK",₹20.22L/Yr,NA
+273, UK,"Bangor University, Bangor","Wales, UK",₹19.29L/Yr,₹15.69L/Yr
+274, UK,"University of Hull, Hull","England, UK",₹16.27L/Yr,₹48.3K/Yr
+275, UK,"Goldsmiths, University of London, London","England, UK",₹28.85L/Yr,NA
+276, UK,"School of Oriental and African Studies, University of London, London","England, UK",₹25.22L/Yr,NA
+277, UK,"Royal Veterinary College, University of London, London","England, UK",₹28.33L/Yr,NA
+278, UK,"University of Plymouth, Plymouth","England, UK",₹18.48L/Yr,NA
+279, UK,"Bournemouth University, Poole","England, UK",₹17.43L/Yr,₹37.82L/Yr
+280, UK,"University of Portsmouth, Portsmouth","England, UK",₹17.96L/Yr,₹14.5K/Yr
+281, UK,"University of Stirling, Stirling","Scotland, UK",₹20.85L/Yr,₹3.64L/Yr
+282, USA,"Georgia State University, Atlanta","Georgia, USA",₹30.9L/Yr,₹10.18L/Yr
+283, USA,"University of South Carolina, Columbia","South Carolina, USA",₹21.62L/Yr,₹33.56L/Yr
+284, USA,"University of Oregon, Eugene","Oregon, USA",₹35.16L/Yr,₹9.52L/Yr
+285, USA,"George Mason University, Fairfax","Virginia, USA",₹36.64L/Yr,₹10.91L/Yr
+286, USA,"Colorado State University, Fort Collins","Colorado, USA",₹28.3L/Yr,₹9.96L/Yr
+287, USA,"Stevens Institute of Technology, Hoboken","New Jersey, USA",₹42.48L/Yr,₹15.51L/Yr
+288, USA,"University of Kentucky, Lexington","Kentucky, USA",₹30.83L/Yr,₹10.7L/Yr
+289, USA,"University of Nebraska, Lincoln","Nebraska, USA",₹21.52L/Yr,₹9.19L/Yr
+290, USA,"University of California, Merced","California, USA",₹39.51L/Yr,₹13.97L/Yr
+291, USA,"Florida International University, Miami","Florida, USA",₹16.59L/Yr,₹9.05L/Yr
+292, USA,"University of Delaware, Newark","Delaware, USA",₹19.39L/Yr,₹10.26L/Yr
+293, USA,"New Jersey Institute of Technology, Newark","New Jersey, USA",₹31.89L/Yr,₹11.06L/Yr
+294, USA,"Lincoln University, Philadelphia","Pennsylvania, USA",₹17.43L/Yr,₹7.9L/Yr
+295, USA,"University of Central Florida, Orlando","Florida, USA",₹24.11L/Yr,₹8.12L/Yr
+296, USA,"Missouri University of Science and Technology, Rolla","Missouri, USA",₹25.72L/Yr,₹8.4L/Yr
+297, USA,"Saint Louis University, Saint Louis","Missouri, USA",₹38.52L/Yr,₹9.15L/Yr
+298, USA,"Syracuse University, Syracuse","New York, USA",₹49.89L/Yr,₹12.77L/Yr
+299, USA,"Rensselaer Polytechnic Institute, Troy","New York, USA",₹52.19L/Yr,₹12.44L/Yr
+300, Italy,"University of Pisa, Pisa","Tuscany, Italy",₹2.19L/Yr,NA
+301, Canada,"Concordia University, Montreal","Quebec, Canada",₹14.41L/Yr,₹7.22L/Yr
+302, Canada,"University of Windsor, Windsor","Ontario, Canada",₹15.13L/Yr,₹6.91L/Yr
+303, Germany,"Technical University of Braunschweig, Braunschweig","Lower Saxony, Germany",₹66.7K/Yr,₹4.87L/Yr
+304, New-Zealand,"Massey University, Palmerston North","North Island, New-Zealand",₹18.79L/Yr,₹25.64L/Yr
+305, UK,"University of The West of England, Bristol","England, UK",₹17.06L/Yr,₹9.53L/Yr
+306, UK,"Anglia Ruskin University, Cambridge","England, UK",₹17.48L/Yr,₹23.03L/Yr
+307, UK,"Edinburgh Napier University, Edinburgh","Scotland, UK",₹17.43L/Yr,₹6.97L/Yr
+308, UK,"University of Greenwich, London","England, UK",₹17.19L/Yr,₹1.4L/Yr
+309, UK,"Northumbria University, Newcastle upon Tyne","England, UK",₹20.67L/Yr,₹18.54L/Yr
+310, USA,"University of Alaska, Fairbanks","Alaska, USA",₹22.82L/Yr,₹7.26L/Yr
+311, USA,"University of Tulsa, Tulsa","Oklahoma, USA",₹41.57L/Yr,₹11.18L/Yr
+312, Germany,"Leuphana University of Luneburg, Luneburg","Lower Saxony, Germany",₹53.93L/Yr,₹6.09L/Yr
+313, Canada,"Toronto Metropolitan University, Toronto","Ontario, Canada",₹21.91L/Yr,₹22.64L/Yr
+314, Canada,"University of New Brunswick (Fredericton), Fredericton","Newbrunswick, Canada",₹8.56L/Yr,₹10.72L/Yr
+315, Canada,"University of Ontario Institute of Technology, Oshawa","Ontario, Canada",₹18.79L/Yr,NA
+316, Germany,"Otto von Guericke University, Magdeburg","Saxony, Germany",₹26.05L/Yr,NA
+317, Germany,"University of Siegen, Siegen","North Rhine-Westphalia, Germany",₹59.6K/Yr,NA
+318, Malaysia,"Universiti Tenaga Nasional (UNITEN), kajang","Selangor, Malaysia",₹3.61L/Yr,NA
+319, Sweden,"Orebro University, Orebro","Narke, Sweden",₹9.14L/Yr,NA
+320, UK,"Coventry University, Coventry","England, UK",₹19.97L/Yr,₹15.57L/Yr
+321, UK,"University of Derby, Derby","England, UK",₹15.69L/Yr,₹33.6L/Yr
+322, UK,"De Montfort University, Leicester","England, UK",₹16.76L/Yr,₹18.56L/Yr
+323, UK,"The Open University, Milton Keynes","England, UK",₹7.58L/Yr,₹2.87L/Yr
+324, USA,"University of Texas, Arlington","Texas, USA",₹24.06L/Yr,₹7.42L/Yr
+325, USA,"Ohio University, Athens","Ohio, USA",₹23.6L/Yr,₹9.65L/Yr
+326, USA,"University of Maryland Baltimore County, Baltimore","Maryland, USA",₹24.53L/Yr,₹9.85L/Yr
+327, USA,"Binghamton University, Binghamton","New York, USA",₹21.77L/Yr,₹12.13L/Yr
+328, USA,"University of North Carolina, Charlotte","North Carolina, USA",₹19.97L/Yr,₹10.73L/Yr
+329, USA,"Northern Illinois University, DeKalb","Illinois, USA",₹15.44L/Yr,₹9.05L/Yr
+330, USA,"University of Arkansas, Fayetteville","Arkansas, USA",₹25.54L/Yr,₹8.9L/Yr
+331, USA,"University of Nevada, Las Vegas","Nevada, USA",₹25.19L/Yr,₹8.99L/Yr
+332, USA,"Texas Tech University, Lubbock","Texas, USA",₹21.74L/Yr,₹7.61L/Yr
+333, USA,"Mississippi State University, Mississippi State","Mississippi, USA",₹22.11L/Yr,₹8L/Yr
+334, USA,"Oklahoma State University, Stillwater","Oklahoma, USA",₹37.01L/Yr,₹7.44L/Yr
+335, USA,"University of Alabama, Tuscaloosa","Alabama, USA",₹26.95L/Yr,₹17.51L/Yr
+336, USA,"American University, Washington","District Of Columbia, USA",₹48.68L/Yr,₹13.22L/Yr
+337, USA,"College of William & Mary, Williamsburg","Virginia, USA",₹32.76L/Yr,₹9.81L/Yr
+338, Australia,"Federation University, Ballarat","Victoria, Australia",₹14.31L/Yr,₹44.2K/Yr
+339, Sweden,"Jonkoping University, Jonkoping","Jonkoping, Sweden",₹10.23L/Yr,NA
+340, Malaysia,"Sunway University, Petaling Jaya","Selangor, Malaysia",₹12.38L/Yr,NA
+341, Canada,"Lakehead University, Thunder Bay","Ontario, Canada",₹16.94L/Yr,₹14.07L/Yr
+342, Canada,"University of Northern British Columbia, Prince George","British Columbia, Canada",₹12.74L/Yr,₹6.13L/Yr
+343, USA,"University of Texas, El Paso","Texas, USA",₹32.64L/Yr,₹7.9L/Yr
+344, USA,"New Mexico State University, Las Cruces","New Mexico, USA",₹22.28L/Yr,₹10.66L/Yr
+345, USA,"Montana State University, Bozeman","Montana, USA",₹28.39L/Yr,₹7.69L/Yr
+346, USA,"The New School, New York City","New York, USA",₹39.98L/Yr,₹15.47L/Yr
+347, Malaysia,"Universiti Tunku Abdul Rahman (UTAR), Kampar","Perak, Malaysia",₹8.89L/Yr,NA
+348, UK,"University of East London, London","England, UK",₹15.06L/Yr,₹22.36L/Yr
+349, UK,"University of Bedfordshire, Luton","England, UK",₹15.38L/Yr,₹7.99L/Yr
+350, UK,"Teesside University, Middlesbrough","England, UK",₹15.47L/Yr,₹5.9L/Yr
+351, UK,"University of South Wales, Pontypridd","Wales, UK",₹16.36L/Yr,₹22.77L/Yr
+352, UK,"University of Central Lancashire, Preston","England, UK",₹15.72L/Yr,₹19.3K/Yr
+353, USA,"Bowling Green State University, Bowling Green","Ohio, USA",₹10.09L/Yr,₹7.4L/Yr
+354, USA,"Rowan University, Glassboro","New Jersey, USA",₹20.28L/Yr,₹10.18L/Yr
+355, USA,"Western Michigan University, Kalamazoo","Michigan, USA",₹18.84L/Yr,₹8.19L/Yr
+356, USA,"Northwest University, Kirkland","Washington, USA",₹30.19L/Yr,₹6.99L/Yr
+357, USA,"Central Michigan University, Mount Pleasant","Michigan, USA",₹19.14L/Yr,₹8.1L/Yr
+358, USA,"Oakland University, Rochester","Michigan, USA",₹19.09L/Yr,₹6.81L/Yr
+359, USA,"Texas State University, San Marcos","Texas, USA",₹19.86L/Yr,₹7.89L/Yr
+360, USA,"Florida Agricultural & Mechanical University, Tallahassee","Florida, USA",₹15.42L/Yr,₹8.81L/Yr
+361, USA,"University of South Dakota, Vermillion","South Dakota, USA",₹16.12L/Yr,₹6.68L/Yr
+362, Germany,"Technical University Ilmenau, Ilmenau","Thuringia, Germany",₹24.4K/Yr,₹4.87L/Yr
+363, Sweden,"Karlstad University, Karlstad","Varmland, Sweden",₹10.76L/Yr,NA
+364, UK,"Edge Hill University, Ormskirk","England, UK",₹17.53L/Yr,NA
+365, UK,"Canterbury Christ Church University, Canterbury","England, UK",₹16.31L/Yr,₹8.32L/Yr
+366, UK,"University of Winchester, Winchester","England, UK",₹16.71L/Yr,NA
+367, UK,"University of West London, London","England, UK",₹15.31L/Yr,₹17.31L/Yr
+368, Ireland,"Technological University Dublin, Dublin","Dublin, Ireland",₹12.05L/Yr,NA
+369, Canada,"University of Lethbridge, Lethbridge","Alberta, Canada",₹12.04L/Yr,₹9.2L/Yr
+370, USA,"Morgan State University, Baltimore","Maryland, USA",₹20.64L/Yr,₹8.14L/Yr
+371, USA,"University of Texas - Rio Grande Valley, Edinburg","Texas, USA",₹26.09L/Yr,₹6.64L/Yr
+372, USA,"Georgia Southern University, Statesboro","Georgia, USA",₹21.71L/Yr,₹8.03L/Yr
+373, Malaysia,"Multimedia University, cyberjaya","Selangor, Malaysia",₹4.29L/Yr,NA
+374, UK,"Cardiff Metropolitan University, Cardiff","Wales, UK",₹16.32L/Yr,₹75.1K/Yr
+375, UK,"University of Chester, Chester","England, UK",₹14.62L/Yr,NA
+376, UK,"University of Sunderland, Sunderland","England, UK",₹15.3L/Yr,₹7.83L/Yr
+377, Malaysia,"Universiti Teknologi MARA, Shah Alam","Selangor, Malaysia",₹3.91L/Yr,NA
+378, USA,"College of Charleston, Charleston","South Carolina, USA",₹27.72L/Yr,₹10.02L/Yr
+379, USA,"Adelphi University, Garden City","New York, USA",₹37.41L/Yr,₹12.58L/Yr
+380, USA,"Sofia University, Palo Alto","California, USA",₹21.66L/Yr,NA
+381, Netherlands,"Utrecht University, Utrecht","Utrecht, Netherlands",₹17.63L/Yr,₹1.01L/Yr
+382, Malaysia,"Universiti Putra Malaysia, Seri Kembangan","Selangor, Malaysia",₹2.69L/Yr,NA
+383, UK,"Edinburgh Business School, Edinburgh","Scotland, UK",₹23.83L/Yr,₹15.04L/Yr
+384, Netherlands,"Radboud University, Nijmegen","Gelderland, Netherlands",₹2.4L/Yr,NA
+385, Germany,"University of Erlangen-Nuremberg, Erlangen","Bavaria, Germany",₹26.3K/Yr,NA
+386, Germany,"Karlsruhe School of Optics & Photonics, Karlsruhe","Baden-Wurttemberg, Germany",₹1.37L/Yr,₹7.31L/Yr
+387, New-Zealand,"Victoria University of Wellington, Wellington","North Island, New-Zealand",₹16.49L/Yr,₹32.04L/Yr
+388, New-Zealand,"University of Waikato, Hamilton","North Island, New-Zealand",₹23.78L/Yr,₹22.58L/Yr
+389, New-Zealand,"University of Canterbury, Christchurch","South Island, New-Zealand",₹18.97L/Yr,₹2.3L/Yr
+390, Malaysia,"Taylor's University, Subang Jaya","Selangor, Malaysia",₹2.07L/Yr,NA
+391, Malaysia,"UCSI University, Kuala Lumpur","Kuala Lumpur, Malaysia",₹6.42L/Yr,NA
+392, USA,"Virginia Tech, Blacksburg","Virginia, USA",₹38.31L/Yr,₹10.54L/Yr
+393, France,"Sciences Po, Valence","Auvergne-Rhone-Alpes, France",₹16.37L/Yr,₹51.2K/Yr
+394, New-Zealand,"Lincoln University, Lincoln","South Island, New-Zealand",₹15.78L/Yr,NA
+395, USA,"Yeshiva University, New York City","New York, USA",₹38.84L/Yr,₹9.94L/Yr
+396, UK,"Birkbeck, University of London, London","England, UK",₹17.31L/Yr,NA
+397, USA,"University of Hawaii at Manoa, Honolulu","Hawaii, USA",₹13.92L/Yr,₹11.37L/Yr
+398, USA,"Colorado State University, Pueblo","Colorado, USA",₹19.54L/Yr,₹8.49L/Yr
+399, UK,"Oxford Brookes University, Oxford","England, UK",₹18.8L/Yr,₹16.91L/Yr
+400, USA,"Colorado School of Mines, Golden","Colorado, USA",₹38.16L/Yr,₹9.9L/Yr
+401, Germany,"Leipzig University, Leipzig","Saxony, Germany",₹91.4K/Yr,NA
+402, UK,"Ulster University, Belfast","Northern Ireland, UK",₹16.93L/Yr,₹23.36L/Yr
+403, USA,"Oregon State University, Corvallis","Oregon, USA",₹29.44L/Yr,₹26.75L/Yr
+404, Singapore,"Singapore Management University, Singapore","Singapore, Singapore",₹35.64L/Yr,₹11.11L/Yr
+405, USA,"Lehigh University, Bethlehem","Pennsylvania, USA",₹43.99L/Yr,₹10.91L/Yr
+406, UK,"University of Huddersfield, Huddersfield","England, UK",₹18.65L/Yr,NA
+407, USA,"University of Missouri, Columbia","Missouri, USA",₹24.31L/Yr,₹8.88L/Yr
+408, Australia,"Central Queensland University, Rockhampton","Queensland, Australia",₹19.7L/Yr,NA
+409, UK,"Manchester Metropolitan University, Manchester","England, UK",₹19.7L/Yr,₹27.77L/Yr
+410, UK,"Nottingham Trent University, Nottingham","England, UK",₹17.4L/Yr,₹15.54L/Yr
+411, Germany,"Saarland University, Saarbrucken","Saarland, Germany",₹54.1K/Yr,₹96K/Yr
+412, USA,"Tulane University, New Orleans","Louisiana, USA",₹45.06L/Yr,₹12.09L/Yr
+413, UK,"Kingston University, Kingston upon Thames","England, UK",₹19.1L/Yr,₹28.01L/Yr
+414, Germany,"Martin Luther University Halle-Wittenberg, Halle","Saxony, Germany",₹8.4K/Yr,₹2.37L/Yr
+415, USA,"University of New Mexico, Albuquerque","New Mexico, USA",₹25.97L/Yr,₹14.31L/Yr
+416, Canada,"Memorial University of Newfoundland, St. John's","Newfoundland & Labrador, Canada",₹6.28L/Yr,₹8.79L/Yr
+417, Hong-Kong,"Lingnan University, Tuen Mun","Hong Kong, Hong-Kong",₹19.42L/Yr,NA
+418, UK,"University of Bradford, Bradford","England, UK",₹22.34L/Yr,₹10.97L/Yr
+419, USA,"University of Houston, Houston","Texas, USA",₹24.77L/Yr,₹8.3L/Yr
+420, USA,"University of Oklahoma, Norman","Oklahoma, USA",₹24.68L/Yr,₹8.81L/Yr
+421, Australia,"Southern Cross University, Lismore","New South Wales, Australia",₹6.48L/Yr,NA
+422, UK,"Aberystwyth University, Aberystwyth","Wales, UK",₹17.67L/Yr,NA
+423, UK,"Middlesex University, London","England, UK",₹17.08L/Yr,₹31.94L/Yr
+424, Canada,"Carleton University, Ottawa","Ontario, Canada",₹19.91L/Yr,₹8.27L/Yr
+425, USA,"University of Cincinnati, Cincinnati","Ohio, USA",₹26.14L/Yr,₹14.97L/Yr
+426, USA,"Wake Forest University, Winston-Salem","North Carolina, USA",₹56.69L/Yr,₹11.58L/Yr
+427, UAE,"Zayed University, Dubai","Dubai, UAE",₹17.55L/Yr,₹18.5K/Yr
+428, Malaysia,"International Islamic University Malaysia, Gombak","Selangor, Malaysia",₹32.8K/Yr,NA
+429, UK,"University of Westminster, London","England, UK",₹15.96L/Yr,₹12.47L/Yr
+430, Germany,"University of Regensburg, Regensburg","Bavaria, Germany",₹1.22L/Yr,NA
+431, USA,"Swarthmore College, Swarthmore","Pennsylvania, USA",₹51.56L/Yr,₹12.44L/Yr
+432, UK,"Liverpool John Moores University, Liverpool","England, UK",₹18.4L/Yr,₹39.3K/Yr
+433, USA,"Wayne State University, Detroit","Michigan, USA",₹35.59L/Yr,₹8.4L/Yr
+434, Germany,"Philipps University Marburg, Marburg","Hesse, Germany",₹68K/Yr,NA
+435, Germany,"University of Rostock, Rostock","Mecklenburg-Vorpommern, Germany",₹42.4K/Yr,NA
+436, USA,"Virginia Commonwealth University, Richmond","Virginia, USA",₹30.3L/Yr,₹9.57L/Yr
+437, Germany,"University of Duisburg-Essen, Duisburg","North Rhine-Westphalia, Germany",₹94.9K/Yr,NA
+438, UK,"University of Brighton, Brighton","England, UK",₹15.62L/Yr,NA
+439, USA,"University at Albany, Albany","New York, USA",₹25.13L/Yr,₹11.2L/Yr
+440, UK,"Keele University, Newcastle","England, UK",₹22.07L/Yr,NA
+441, USA,"Clarkson University, Potsdam","New York, USA",₹47.64L/Yr,₹12.05L/Yr
+442, Canada,"University of Sherbrooke, Sherbrooke","Quebec, Canada",₹15.2L/Yr,₹5.71L/Yr
+443, Australia,"Charles Sturt University, Sydney","New South Wales, Australia",₹18.07L/Yr,₹44.7K/Yr
+444, USA,"Auburn University, Auburn","Alabama, USA",₹27.7L/Yr,₹8.26L/Yr
+445, USA,"Louisiana State University, Baton Rouge","Louisiana, USA",₹24.92L/Yr,₹9.77L/Yr
+446, USA,"University of Massachusetts, Boston","Massachusetts, USA",₹31.91L/Yr,₹15.63L/Yr
+447, USA,"Clark University, Worcester","Massachusetts, USA",₹33.9L/Yr,₹7.37L/Yr
+448, UK,"University of Hertfordshire, Hatfield","England, UK",₹16.2L/Yr,₹94.8K/Yr
+449, UK,"University of Lincoln, Lincoln","England, UK",₹16.69L/Yr,NA
+450, UK,"London South Bank University, London","England, UK",₹17.11L/Yr,₹37.71L/Yr
+451, UK,"University of Salford, Salford","England, UK",₹16.76L/Yr,NA
+452, USA,"Clemson University, Clemson","South Carolina, USA",₹21.38L/Yr,₹7.98L/Yr
+453, USA,"Michigan Technological University, Houghton","Michigan, USA",₹31.44L/Yr,₹8.71L/Yr
+454, USA,"Kansas State University, Manhattan","Kansas, USA",₹20.16L/Yr,₹8.3L/Yr
+455, USA,"Wesleyan University, Middletown","Connecticut, USA",₹57.72L/Yr,₹12.03L/Yr
+456, USA,"Worcester Polytechnic Institute, Worcester","Massachusetts, USA",₹34.73L/Yr,₹35.6L/Yr
+457, UK,"Robert Gordon University, Aberdeen","Scotland, UK",₹17.25L/Yr,₹14.54L/Yr
+458, UK,"London Metropolitan University, London","England, UK",₹18.45L/Yr,₹70.1K/Yr
+459, USA,"University of Alabama, Birmingham","Alabama, USA",₹28.62L/Yr,₹10.11L/Yr
+460, USA,"University of Vermont, Burlington","Vermont, USA",₹38.59L/Yr,₹10L/Yr
+461, USA,"Loyola University, Chicago","Illinois, USA",₹39.61L/Yr,₹11.71L/Yr
+462, USA,"University of Denver, Denver","Colorado, USA",₹51.47L/Yr,₹10.49L/Yr
+463, USA,"West Virginia University, Morgantown","West Virginia, USA",₹22.66L/Yr,₹8.8L/Yr
+464, Australia,"University of New England, Armidale","New South Wales, Australia",₹18.06L/Yr,₹3L/Yr
+465, Germany,"Bielefeld University, Bielefeld","North Rhine-Westphalia, Germany",₹1.28L/Yr,NA
+466, USA,"Indiana University - Purdue University Indianapolis, Indianapolis","Indiana, USA",₹37.94L/Yr,₹8L/Yr
+467, Canada,"University of Regina, Regina","Saskatchewan, Canada",₹27.51L/Yr,₹11.21L/Yr
+468, Canada,"Vancouver Island University, Nanaimo","British Columbia, Canada",₹15.68L/Yr,₹5.03L/Yr
+469, Australia,"University of the Sunshine Coast, Sippy Downs","Queensland, Australia",₹14.15L/Yr,₹14.87L/Yr
+470, UK,"Glasgow Caledonian University, Glasgow","Scotland, UK",₹16.58L/Yr,₹52.6K/Yr
+471, UK,"Leeds Beckett University, Leeds","England, UK",₹17.46L/Yr,₹92.4K/Yr
+472, UK,"Sheffield Hallam University, Sheffield","England, UK",₹15.58L/Yr,₹19.27L/Yr
+473, USA,"Fordham University, Bronx","New York, USA",₹50.01L/Yr,₹14.51L/Yr
+474, USA,"University of New Hampshire, Durham","New Hampshire, USA",₹26.18L/Yr,₹9.37L/Yr
+475, USA,"Southern Methodist University, Dallas","Texas, USA",₹40.81L/Yr,₹13.73L/Yr
+476, USA,"University of North Texas, Denton","Texas, USA",₹34.75L/Yr,₹19.54L/Yr
+477, USA,"Northern Arizona University, Flagstaff","Arizona, USA",₹28.56L/Yr,₹8.27L/Yr
+478, USA,"University of Missouri, Kansas City","Missouri, USA",₹34.13L/Yr,₹9.17L/Yr
+479, USA,"Kent State University, Kent","Ohio, USA",₹21.99L/Yr,₹9.08L/Yr
+480, USA,"University of Rhode Island, Kingston","Rhode Island, USA",₹28.78L/Yr,₹10.36L/Yr
+481, USA,"University of Wyoming, Laramie","Wyoming, USA",₹18.33L/Yr,₹8.58L/Yr
+482, USA,"Utah State University, Logan","Utah, USA",₹10.17L/Yr,₹5.89L/Yr
+483, USA,"University of Wisconsin, Milwaukee","Wisconsin, USA",₹29.66L/Yr,₹8.78L/Yr
+484, USA,"University of Idaho, Moscow","Idaho, USA",₹24.77L/Yr,₹7.21L/Yr
+485, USA,"University of Mississippi, University","Mississippi, USA",₹29.76L/Yr,₹8.74L/Yr
+486, USA,"Brigham Young University, Provo","Utah, USA",₹12.7L/Yr,₹6.26L/Yr
+487, USA,"Rochester Institute of Technology, Rochester","New York, USA",₹47.95L/Yr,₹10.54L/Yr
+488, USA,"University of Texas, San Antonio","Texas, USA",₹14.7L/Yr,₹9.34L/Yr
+489, USA,"San Diego State University, San Diego","California, USA",₹18.1L/Yr,₹17.99L/Yr
+490, USA,"University of San Francisco, San Francisco","California, USA",₹37.56L/Yr,₹11.92L/Yr
+491, USA,"University of Toledo, Toledo","Ohio, USA",₹20.66L/Yr,₹9.15L/Yr
+492, USA,"Baylor University, Waco","Texas, USA",₹47.32L/Yr,₹10.12L/Yr
+493, USA,"Howard University, Washington","District Of Columbia, USA",₹30.1L/Yr,₹11.23L/Yr
+494, UK,"Birmingham City University, Birmingham","England, UK",₹17.63L/Yr,₹9.8L/Yr
+495, UK,"Harper Adams University, Newport","Wales, UK",₹13.95L/Yr,NA
+496, UK,"University of Wolverhampton, Wolverhampton","England, UK",₹16.24L/Yr,₹13.35L/Yr
+497, UK,"University of Northampton, Northampton","England, UK",₹17.04L/Yr,₹14.2L/Yr
+498, Canada,"Brock University, St. Catharines","Ontario, Canada",₹18.43L/Yr,₹11L/Yr
+499, USA,"Florida Atlantic University, Boca Raton","Florida, USA",₹21.45L/Yr,₹9.9L/Yr
+500, USA,"Cleveland State University, Cleveland","Ohio, USA",₹14.1L/Yr,NA
+501, USA,"University of Central Oklahoma, Edmond","Oklahoma, USA",₹13.85L/Yr,₹6.63L/Yr
+502, USA,"Nova Southeastern University, Fort Lauderdale","Florida, USA",₹32.3L/Yr,₹10.44L/Yr
+503, USA,"University of North Carolina, Greensboro","North Carolina, USA",₹31.78L/Yr,₹8.47L/Yr
+504, USA,"Pacific University, Forest Grove","Oregon, USA",₹43.69L/Yr,₹10.12L/Yr
+505, USA,"University of Memphis, Memphis","Tennessee, USA",₹22.85L/Yr,₹5.74L/Yr
+506, USA,"Miami University, Oxford","Ohio, USA",₹31.64L/Yr,₹13.79L/Yr
+507, USA,"Marquette University, Milwaukee","Wisconsin, USA",₹34.46L/Yr,₹9.89L/Yr
+508, USA,"University of Montana, Missoula","Montana, USA",₹21.96L/Yr,₹7.63L/Yr
+509, USA,"University of South Alabama, Mobile","Alabama, USA",₹20.69L/Yr,₹6.23L/Yr
+510, USA,"The City College of New York, New York City","New York, USA",₹21.7L/Yr,₹12.93L/Yr
+511, USA,"Portland State University, Portland","Oregon, USA",₹29.21L/Yr,₹16.78L/Yr
+512, USA,"University of San Diego, San Diego","California, USA",₹49.88L/Yr,₹10.51L/Yr
+513, USA,"San Francisco State University, San Francisco","California, USA",₹7.37L/Yr,₹12.06L/Yr
+514, USA,"Seattle University, Seattle","Washington, USA",₹39.75L/Yr,₹10.04L/Yr
+515, USA,"University of Missouri, St. Louis","Missouri, USA",₹35.83L/Yr,₹8.43L/Yr
+516, Germany,"Hamburg University of Technology, Hamburg","Hamburg, Germany",₹71.5K/Yr,₹2.09L/Yr
+517, USA,"Humboldt State University, Arcata","California, USA",₹9.39L/Yr,₹10.83L/Yr
+518, USA,"Western Washington University, Bellingham","Washington, USA",₹20.25L/Yr,₹9.13L/Yr
+519, USA,"California State University, Los Angeles","California, USA",₹14.15L/Yr,₹11.11L/Yr
+520, USA,"Illinois State University, Normal","Illinois, USA",₹21.23L/Yr,₹8.19L/Yr
+521, Australia,"The University of Notre Dame, Fremantle","Western Australia, Australia",₹35.51L/Yr,₹8.73L/Yr
+522, USA,"Santa Clara University, Santa Clara","California, USA",₹41.65L/Yr,₹12.05L/Yr
+523, USA,"Villanova University, Villanova","Pennsylvania, USA",₹44.27L/Yr,₹11.27L/Yr
+524, USA,"Pepperdine University, Malibu","California, USA",₹54.21L/Yr,₹12.37L/Yr
+525, USA,"Loyola Marymount University, Los Angeles","California, USA",₹40.61L/Yr,₹11.03L/Yr
+526, USA,"Gonzaga University, Spokane","Washington, USA",₹40.79L/Yr,₹9.61L/Yr
+527, USA,"Texas Christian University, Fort Worth","Texas, USA",₹36.53L/Yr,₹10.28L/Yr
+528, USA,"California State University, Long Beach","California, USA",₹8.6L/Yr,₹10.38L/Yr
+529, USA,"Fairfield University, Fairfield","Connecticut, USA",₹44.7L/Yr,₹11.88L/Yr
+530, USA,"James Madison University, Harrisonburg","Virginia, USA",₹28.06L/Yr,₹8.41L/Yr
+531, USA,"Creighton University, Omaha","Nebraska, USA",₹37.58L/Yr,₹8.9L/Yr
+532, USA,"University of Dayton, Dayton","Ohio, USA",₹36.5L/Yr,₹12.8L/Yr
+533, USA,"California State University, Fullerton","California, USA",₹8.69L/Yr,₹13.01L/Yr
+534, USA,"Chapman University, Orange","California, USA",₹52.32L/Yr,₹12.4L/Yr
+535, USA,"Thomas Jefferson University, Philadelphia","Pennsylvania, USA",₹36.01L/Yr,₹10.82L/Yr
+536, USA,"Simmons University, Boston","Massachusetts, USA",₹34.31L/Yr,NA
+537, USA,"DePaul University, Chicago","Illinois, USA",₹31.56L/Yr,₹11.48L/Yr
+538, USA,"Duquesne University, Pittsburgh","Pennsylvania, USA",₹37.73L/Yr,₹10.08L/Yr
+539, USA,"Seton Hall University, South Orange","New Jersey, USA",₹37.98L/Yr,₹11.23L/Yr
+540, USA,"Stockton University, Galloway","New Jersey, USA",₹22.25L/Yr,₹12.71L/Yr
+541, USA,"UMass Lowell, Lowell","Massachusetts, USA",₹29.69L/Yr,₹10.39L/Yr
+542, USA,"Montclair State University, Montclair","New Jersey, USA",₹24.16L/Yr,₹12.03L/Yr
+543, USA,"St. John's University, Jamaica","New York, USA",₹34.59L/Yr,₹13.84L/Yr
+544, USA,"Quinnipiac University, Hamden","Connecticut, USA",₹43.06L/Yr,₹11.8L/Yr
+545, USA,"University of La Verne, La Verne","California, USA",₹33.82L/Yr,₹10.96L/Yr
+546, USA,"Mercer University, Macon","Georgia, USA",₹29.3L/Yr,₹9.41L/Yr
+547, USA,"California State University, San Bernardino","California, USA",₹9.77L/Yr,₹11L/Yr
+548, USA,"Drake University, Des Moines","Iowa, USA",₹35.51L/Yr,₹8.45L/Yr
+549, USA,"Samford University, Birmingham","Alabama, USA",₹30.89L/Yr,₹8.55L/Yr
+550, USA,"University of Detroit Mercy, Detroit","Michigan, USA",₹41.03L/Yr,₹7.86L/Yr
+551, USA,"California State University, Fresno","California, USA",₹5.4L/Yr,₹8.07L/Yr
+552, USA,"Hofstra University, Hempstead","New York, USA",₹36.59L/Yr,₹11.85L/Yr
+553, USA,"Bradley University, Peoria","Illinois, USA",₹38.07L/Yr,₹8.58L/Yr
+554, USA,"East Carolina University, Greenville","North Carolina, USA",₹8.73L/Yr,₹8.18L/Yr
+555, USA,"University of Louisville, Louisville","Kentucky, USA",₹24.08L/Yr,₹6.97L/Yr
+556, USA,"University of Nevada, Reno","Nevada, USA",₹22.76L/Yr,₹9.1L/Yr
+557, USA,"Robert Morris University - Illinois, Chicago","Illinois, USA",₹27.06L/Yr,₹11.8L/Yr
+558, USA,"Xavier University, Cincinnati","Ohio, USA",₹34.26L/Yr,₹10.11L/Yr
+559, USA,"La Salle University, Philadelphia","Pennsylvania, USA",₹28.51L/Yr,₹11.63L/Yr
+560, USA,"Valparaiso University, Valparaiso","Indiana, USA",₹34.08L/Yr,₹9.48L/Yr
+561, USA,"University of North Carolina, Wilmington","North Carolina, USA",₹19.73L/Yr,₹8.73L/Yr
+562, USA,"Sacred Heart University, Fairfield","Connecticut, USA",₹39.96L/Yr,₹14.57L/Yr
+563, USA,"University of Massachusetts, North Dartmouth","Massachusetts, USA",₹33.46L/Yr,₹10.76L/Yr
+564, USA,"Chatham University, Pittsburgh","Pennsylvania, USA",₹36.58L/Yr,₹9.47L/Yr
+565, USA,"West Chester University, West Chester","Pennsylvania, USA",₹16.98L/Yr,₹10.77L/Yr
+566, USA,"Ball State University, Muncie","Indiana, USA",₹21.58L/Yr,₹8.35L/Yr
+567, USA,"Springfield College, Springfield","Massachusetts, USA",₹33.4L/Yr,₹10.18L/Yr
+568, USA,"Widener University, Chester","Pennsylvania, USA",₹36.24L/Yr,₹11.67L/Yr
+569, USA,"Western Carolina University, Cullowhee","North Carolina, USA",₹11.05L/Yr,₹7.95L/Yr
+570, USA,"University of Alabama, Huntsville","Alabama, USA",₹32.22L/Yr,₹8.11L/Yr
+571, USA,"Grand Valley State University, Allendale","Michigan, USA",₹16.21L/Yr,₹7.61L/Yr
+572, USA,"Azusa Pacific University, Azusa","California, USA",₹42.43L/Yr,₹8.15L/Yr
+573, USA,"University of North Dakota, Grand Forks","North Dakota, USA",₹9.93L/Yr,₹7.11L/Yr
+574, USA,"University of North Florida, Jacksonville","Florida, USA",₹32.83L/Yr,₹8.13L/Yr
+575, USA,"Biola University, La Mirada","California, USA",₹35.78L/Yr,₹9.13L/Yr
+576, USA,"Belmont University, Nashville","Tennessee, USA",₹45.48L/Yr,₹9.72L/Yr
+577, USA,"Lipscomb University, Nashville","Tennessee, USA",₹32.27L/Yr,₹10.02L/Yr
+578, USA,"Bethel University, Saint Paul","Minnesota, USA",₹34.58L/Yr,₹8.6L/Yr
+579, USA,"Western New England University, Springfield","Massachusetts, USA",₹35.16L/Yr,₹11.18L/Yr
+580, USA,"Gallaudet University, Washington","District Of Columbia, USA",₹10.75L/Yr,₹11.25L/Yr
+581, USA,"Suffolk University, Boston","Massachusetts, USA",₹36.01L/Yr,₹12.52L/Yr
+582, USA,"Tennessee Technological University, Cookeville","Tennessee, USA",₹15.59L/Yr,₹7.82L/Yr
+583, USA,"North Dakota State University, Fargo","North Dakota, USA",₹20.19L/Yr,₹7.14L/Yr
+584, USA,"Sam Houston State University, Huntsville","Texas, USA",₹16.28L/Yr,₹7.63L/Yr
+585, USA,"University of Wisconsin, La Crosse","Wisconsin, USA",₹31.74L/Yr,₹5.16L/Yr
+586, USA,"Pace University, New York City","New York, USA",₹40L/Yr,₹39.81L/Yr
+587, USA,"University of Maine, Orono","Maine, USA",₹28.44L/Yr,₹8.43L/Yr
+588, USA,"Maryville University, St. Louis","Missouri, USA",₹20.77L/Yr,₹8.39L/Yr
+589, USA,"Regis University, Denver","Colorado, USA",₹34.96L/Yr,₹8.96L/Yr
+590, USA,"Gannon University, Erie","Pennsylvania, USA",₹28.72L/Yr,₹12.64L/Yr
+591, USA,"Loyola University, New Orleans","Louisiana, USA",₹42.54L/Yr,₹10.54L/Yr
+592, USA,"Winston Salem State University, Winston-Salem","North Carolina, USA",₹16.4L/Yr,₹8.34L/Yr
+593, USA,"Lincoln Memorial University, Harrogate","Tennessee, USA",₹20.12L/Yr,₹6.9L/Yr
+594, USA,"Florida Institute of Technology, Melbourne","Florida, USA",₹35.67L/Yr,₹11.32L/Yr
+595, USA,"Seattle Pacific University, Seattle","Washington, USA",₹29.52L/Yr,₹9.34L/Yr
+596, USA,"Wilkes University, Wilkes-Barre","Pennsylvania, USA",₹33.4L/Yr,₹11.87L/Yr
+597, USA,"Southern Illinois University, Carbondale","Illinois, USA",₹21.38L/Yr,₹8.84L/Yr
+598, USA,"North Carolina Agricultural & Technical State University, Greensboro","North Carolina, USA",₹27.36L/Yr,₹6.04L/Yr
+599, USA,"Hampton University, Hampton","Virginia, USA",₹43.58L/Yr,₹9.33L/Yr
+600, USA,"California State University - East Bay, Hayward","California, USA",₹13.48L/Yr,₹11.8L/Yr
+601, USA,"University of St Francis, Joliet","Illinois, USA",₹28.09L/Yr,₹7.78L/Yr
+602, USA,"Bellarmine University, Louisville","Kentucky, USA",₹35.34L/Yr,₹10.13L/Yr
+603, USA,"Old Dominion University, Norfolk","Virginia, USA",₹26.68L/Yr,₹9.37L/Yr
+604, USA,"Oklahoma City University, Oklahoma City","Oklahoma, USA",₹27.97L/Yr,₹7.17L/Yr
+605, USA,"South Dakota State University, Brookings","South Dakota, USA",₹11.71L/Yr,₹7.12L/Yr
+606, USA,"University of Incarnate Word, San Antonio","Texas, USA",₹27.98L/Yr,₹10.34L/Yr
+607, USA,"Saint Mary's University of Minnesota, Winona","Minnesota, USA",₹31.21L/Yr,₹7.39L/Yr
+608, USA,"Aurora University, Aurora","Illinois, USA",₹21.59L/Yr,₹8.02L/Yr
+609, USA,"Ferris State University, Big Rapids","Michigan, USA",₹18.73L/Yr,₹8.23L/Yr
+610, USA,"Florida Gulf Coast University, Fort Myers","Florida, USA",₹20.59L/Yr,₹8.05L/Yr
+611, USA,"University of Hartford, West Hartford","Connecticut, USA",₹39.47L/Yr,₹10.27L/Yr
+612, USA,"University of Houston - Clear Lake, Houston","Texas, USA",₹18.73L/Yr,₹8.1L/Yr
+613, USA,"University of Indianapolis, Indianapolis","Indiana, USA",₹26.26L/Yr,₹8.31L/Yr
+614, USA,"Concordia University - Wisconsin, Mequon","Wisconsin, USA",₹27.28L/Yr,₹8.76L/Yr
+615, USA,"Middle Tennessee State University, Murfreesboro","Tennessee, USA",₹25.26L/Yr,₹6.98L/Yr
+616, USA,"University of Nebraska Omaha, Omaha","Nebraska, USA",₹21.37L/Yr,₹7.82L/Yr
+617, USA,"Radford University, Radford","Virginia, USA",₹21.47L/Yr,₹7.09L/Yr
+618, USA,"Louisiana Tech University, Ruston","Louisiana, USA",₹3.36L/Yr,₹5.29L/Yr
+619, USA,"Harding University, Searcy","Arkansas, USA",₹18.7L/Yr,₹5.73L/Yr
+620, USA,"Abilene Christian University, Abilene","Texas, USA",₹34.86L/Yr,₹8.63L/Yr
+621, USA,"Marymount University, Arlington","Virginia, USA",₹31.29L/Yr,₹10.65L/Yr
+622, USA,"Andrews University, Berrien Springs","Michigan, USA",₹28.15L/Yr,₹7.55L/Yr
+623, USA,"Campbell University, Buies Creek","North Carolina, USA",₹30.01L/Yr,₹9.27L/Yr
+624, USA,"Saint Ambrose University, Davenport","Iowa, USA",₹28.99L/Yr,₹8.45L/Yr
+625, USA,"Indiana University of Pennsylvania, Indiana","Pennsylvania, USA",₹13.3L/Yr,₹10.25L/Yr
+626, USA,"East Tennessee State University, Johnson City","Tennessee, USA",₹26.04L/Yr,₹6.61L/Yr
+627, USA,"Kean University, Union","New Jersey, USA",₹18.24L/Yr,₹11.24L/Yr
+628, USA,"Southern Illinois University, Edwardsville","Illinois, USA",₹17.34L/Yr,₹12.51L/Yr
+629, USA,"Augusta University, Augusta","Georgia, USA",₹16.96L/Yr,₹7.36L/Yr
+630, USA,"Boise State University, Boise","Idaho, USA",₹23.23L/Yr,₹8.35L/Yr
+631, USA,"Texas Woman's University, Denton","Texas, USA",₹32.84L/Yr,₹6.8L/Yr
+632, USA,"University of Findlay, Findlay","Ohio, USA",₹44.26L/Yr,₹8.09L/Yr
+633, USA,"Marshall University, Huntington","West Virginia, USA",₹17.42L/Yr,₹8.42L/Yr
+634, USA,"Wichita State University, Wichita","Kansas, USA",₹15.81L/Yr,₹11.47L/Yr
+635, USA,"Lesley University, Cambridge","Massachusetts, USA",₹28.14L/Yr,₹13.1L/Yr
+636, USA,"Missouri State University, Springfield","Missouri, USA",₹16.87L/Yr,₹7.1L/Yr
+637, USA,"Baker University, Baldwin City","Kansas, USA",₹11.52L/Yr,₹6.91L/Yr
+638, USA,"Concordia University, Irvine","California, USA",₹32.65L/Yr,₹9.12L/Yr
+639, USA,"University of Louisiana, Lafayette","Louisiana, USA",₹10.22L/Yr,₹8.56L/Yr
+640, USA,"University of Northern Colorado, Greeley","Colorado, USA",₹24.51L/Yr,₹9.13L/Yr
+641, USA,"University of Southern Mississippi, Hattiesburg","Mississippi, USA",₹11.05L/Yr,₹8.01L/Yr
+642, USA,"Texas A&M University, Kingsville","Texas, USA",₹49.06L/Yr,₹7.29L/Yr
+643, USA,"Walsh University, North Canton","Ohio, USA",₹9.79L/Yr,₹8.76L/Yr
+644, USA,"Point Park University, Pittsburgh","Pennsylvania, USA",₹37.14L/Yr,₹9.23L/Yr
+645, USA,"Eastern Kentucky University, Richmond","Kentucky, USA",₹17.24L/Yr,₹8.09L/Yr
+646, USA,"Georgia Southern University, Savannah","Georgia, USA",₹29.04L/Yr,NA
+647, USA,"University of Akron, Akron","Ohio, USA",₹18.31L/Yr,₹10.23L/Yr
+648, USA,"Clark Atlanta University, Atlanta","Georgia, USA",₹21.02L/Yr,₹9.05L/Yr
+649, USA,"Husson University, Bangor","Maine, USA",₹10.22L/Yr,₹7.9L/Yr
+650, USA,"Western Kentucky University, Bowling Green","Kentucky, USA",₹22.9L/Yr,₹6.95L/Yr
+651, USA,"Arkansas State University, Jonesboro","Arkansas, USA",₹14.76L/Yr,₹6.4L/Yr
+652, USA,"University of Texas, Tyler","Texas, USA",₹27.57L/Yr,₹7.73L/Yr
+653, USA,"Long Island University, Brooklyn","New York, USA",₹36.55L/Yr,NA
+654, USA,"Mississippi College, Clinton","Mississippi, USA",₹12.56L/Yr,₹7.99L/Yr
+655, USA,"Texas A&M University, Commerce","Texas, USA",₹28.51L/Yr,₹6.99L/Yr
+656, USA,"University of Louisiana, Monroe","Louisiana, USA",₹15.4L/Yr,₹6.53L/Yr
+657, USA,"University of Maryland - Eastern Shore, Princess Anne","Maryland, USA",₹15.52L/Yr,₹8L/Yr
+658, USA,"Dominican University, San Rafael","California, USA",₹39.32L/Yr,₹12.19L/Yr
+659, USA,"Regent University, Virginia Beach","Virginia, USA",₹14.65L/Yr,₹5.93L/Yr
+660, USA,"Dallas Baptist University, Dallas","Texas, USA",₹27.1L/Yr,₹6.44L/Yr
+661, USA,"Tarleton State University, Stephenville","Texas, USA",₹33.8L/Yr,₹6.34L/Yr
+662, USA,"Wingate University, Wingate","North Carolina, USA",₹29.82L/Yr,₹8.97L/Yr
+663, USA,"Eastern Michigan University, Ypsilanti","Michigan, USA",₹17.2L/Yr,₹8.2L/Yr
+664, USA,"University of West Georgia, Carrollton","Georgia, USA",₹15.36L/Yr,₹7.86L/Yr
+665, USA,"Northern Kentucky University, Highland Heights","Kentucky, USA",₹21.25L/Yr,₹8.1L/Yr
+666, USA,"Palm Beach Atlantic University, West Palm Beach","Florida, USA",₹30.09L/Yr,₹8.04L/Yr
+667, USA,"University of Bridgeport, Bridgeport","Connecticut, USA",₹26.83L/Yr,NA
+668, USA,"Roosevelt University, Chicago","Illinois, USA",₹43.31L/Yr,₹10.75L/Yr
+669, USA,"University of Michigan, Flint","Michigan, USA",₹48.71L/Yr,₹6.98L/Yr
+670, USA,"University of Arkansas, Little Rock","Arkansas, USA",₹18.59L/Yr,₹7.67L/Yr
+671, USA,"Saint Leo University, Saint Leo","Florida, USA",₹19.35L/Yr,₹10.23L/Yr
+672, USA,"Alabama State University, Montgomery","Alabama, USA",₹14.76L/Yr,₹4.51L/Yr
+673, Canada,"St. Thomas University, Fredericton","Newbrunswick, Canada",₹11.62L/Yr,₹13.66L/Yr
+674, USA,"Lamar University, Beaumont","Texas, USA",₹18.71L/Yr,₹7.27L/Yr
+675, USA,"University of Mary Hardin Baylor, Belton","Texas, USA",₹20.42L/Yr,₹6.57L/Yr
+676, USA,"University of Charleston, Charleston","West Virginia, USA",₹28.57L/Yr,₹7.57L/Yr
+677, USA,"Colorado Technical University, Colorado Springs","Colorado, USA",₹36.38L/Yr,₹7.22L/Yr
+678, USA,"University of Colorado, Colorado Springs","Colorado, USA",₹22.14L/Yr,₹8.65L/Yr
+679, USA,"University of Central Arkansas, Conway","Arkansas, USA",₹22.9L/Yr,₹5.42L/Yr
+680, USA,"Texas A&M University, Corpus Christi","Texas, USA",₹22.06L/Yr,₹7.65L/Yr
+681, USA,"Wright State University, Dayton","Ohio, USA",₹21.92L/Yr,₹6.04L/Yr
+682, USA,"Trinity International University, Deerfield","Illinois, USA",₹15.99L/Yr,₹7.94L/Yr
+683, USA,"Texas Wesleyan University, Fort Worth","Texas, USA",₹32.1L/Yr,₹8.28L/Yr
+684, USA,"Texas Southern University, Houston","Texas, USA",₹20.56L/Yr,₹8.04L/Yr
+685, USA,"Purdue University Global, Indianapolis","Indiana, USA",₹9.43L/Yr,NA
+686, USA,"Jackson State University, Jackson","Mississippi, USA",₹24.57L/Yr,₹7.45L/Yr
+687, USA,"Kennesaw State University, Kennesaw","Georgia, USA",₹23.92L/Yr,₹9.54L/Yr
+688, USA,"Southeastern University - Florida, Lakeland","Florida, USA",₹29.9L/Yr,₹8.36L/Yr
+689, USA,"Liberty University, Lynchburg","Virginia, USA",₹18.87L/Yr,₹8L/Yr
+690, USA,"Barry University, Miami Shores","Florida, USA",₹30.17L/Yr,₹9.23L/Yr
+691, USA,"Tennessee State University, Nashville","Tennessee, USA",₹23.74L/Yr,₹6.24L/Yr
+692, USA,"Wilmington University, New Castle","Delaware, USA",₹11.3L/Yr,₹6.49L/Yr
+693, USA,"University of New Orleans, New Orleans","Louisiana, USA",₹29.89L/Yr,₹8.8L/Yr
+694, USA,"Grand Canyon University, Phoenix","Arizona, USA",₹13.72L/Yr,₹7.11L/Yr
+695, USA,"Idaho State University, Pocatello","Idaho, USA",₹24.69L/Yr,₹5.84L/Yr
+696, USA,"Prairie View A&M University, Prairie View","Texas, USA",₹23.23L/Yr,₹6.99L/Yr
+697, USA,"American International College, Springfield","Massachusetts, USA",₹17.26L/Yr,₹11.27L/Yr
+698, USA,"Valdosta State University, Valdosta","Georgia, USA",₹17.13L/Yr,₹6.94L/Yr
+699, USA,"University of California, San Francisco","California, USA",₹27.65L/Yr,NA
+700, UK,"Cranfield University, Bedford","England, UK",₹29.83L/Yr,₹8.9L/Yr
+701, USA,"Rockefeller University, New York City","New York, USA",NA,NA
+702, USA,"University of Texas M. D. Anderson Cancer Center, Houston","Texas, USA",₹16.1L/Yr,NA
+703, USA,"Icahn School of Medicine at Mount Sinai, New York City","New York, USA",₹36.8L/Yr,NA
+704, UK,"London School of Hygiene & Tropical Medicine, London","England, UK",₹29.28L/Yr,₹1.73L/Yr
+705, USA,"Baylor College of Medicine, Houston","Texas, USA",₹31.51L/Yr,NA
+706, USA,"University of Texas Health Science Center, Houston","Texas, USA",₹17.55L/Yr,₹36.5K/Yr
+707, Sweden,"Stockholm School of Economics, Stockholm","Uppland, Sweden",₹9.73L/Yr,NA
+708, USA,"The Medical University of South Carolina, Charleston","South Carolina, USA",₹18.63L/Yr,NA
+709, USA,"The Graduate Center City University of New York, New York City","New York, USA",₹21.34L/Yr,NA
+710, USA,"University of Texas Health Science Center, San Antonio","Texas, USA",₹22.38L/Yr,₹78.6K/Yr
+711, Ireland,"National University of Ireland, Galway, Galway","Galway, Ireland",₹16.6L/Yr,NA
+712, USA,"Rush University, Chicago","Illinois, USA",₹30.34L/Yr,NA
+713, USA,"SUNY Downstate Medical Center, Brooklyn","New York, USA",₹21.91L/Yr,NA
+714, Germany,"University of Luebeck, Lubeck","Schleswig-Holstein, Germany",₹65.87L/Yr,NA
+715, USA,"Medical College of Wisconsin, Milwaukee","Wisconsin, USA",₹24.85L/Yr,NA
+716, USA,"University of Nebraska Medical Center, Omaha","Nebraska, USA",₹25.87L/Yr,₹10.33L/Yr
+717, UK,"Liverpool School of Tropical Medicine, Liverpool","England, UK",₹21.06L/Yr,NA
+718, Germany,"University of Kassel, Kassel","Hesse, Germany",₹43.3K/Yr,NA
+719, Sweden,"Linnaeus University, Vaxjo","Kronoberg, Sweden",₹6L/Yr,₹11.8L/Yr
+720, USA,"Amherst College, Amherst","Massachusetts, USA",₹58.71L/Yr,NA
+721, Germany,"University of Wuppertal, Wuppertal","North Rhine-Westphalia, Germany",₹59.79L/Yr,NA
+722, Australia,"Carnegie Mellon University, Adelaide","South Australia, Australia",₹30.32L/Yr,₹10.32L/Yr
+723, Singapore,"INSEAD, Singapore","Singapore, Singapore",₹31.97L/Yr,₹61.2K/Yr
+724, France,"HEC Paris, Valence","Auvergne-Rhone-Alpes, France",₹29.45L/Yr,NA
+725, USA,"University of Maryland, Baltimore","Maryland, USA",₹42.05L/Yr,₹8.99L/Yr
+726, USA,"University of South Florida, St. Petersburg","Florida, USA",₹14.05L/Yr,₹13.27L/Yr
+727, USA,"Haverford College, Haverford","Pennsylvania, USA",₹58.22L/Yr,NA
+728, USA,"University of Oklahoma Health Sciences Center, Oklahoma City","Oklahoma, USA",₹24.49L/Yr,NA
+729, Germany,"Carl von Ossietzky University of Oldenburg, Oldenburg","Lower Saxony, Germany",₹47.4K/Yr,NA
+730, Germany,"University of Kaiserslautern, Kaiserslautern","Rhineland-Palatinate, Germany",₹1.63L/Yr,₹68.28L/Yr
+731, UK,"London Business School, London","England, UK",₹22.16L/Yr,₹13.49L/Yr
+732, USA,"Claremont McKenna College, Claremont","California, USA",₹55.61L/Yr,₹10.94L/Yr
+733, USA,"Bucknell University, Lewisburg","Pennsylvania, USA",₹54.33L/Yr,₹11.25L/Yr
+734, USA,"Colgate University, Hamilton","New York, USA",₹58.43L/Yr,₹13.43L/Yr
+735, USA,"Pomona College, Claremont","California, USA",₹56.15L/Yr,₹6.89L/Yr
+736, USA,"Hunter College, New York City","New York, USA",₹16.73L/Yr,₹17.29L/Yr
+737, USA,"Babson College, Wellesley","Massachusetts, USA",₹51.72L/Yr,NA
+738, Germany,"Brandenburg University of Technology, Cottbus","Brandenburg, Germany",₹23.9K/Yr,₹12.98L/Yr
+739, USA,"Manhattan College, Riverdale","New York, USA",₹38.41L/Yr,₹4.63L/Yr
+740, Germany,"Paderborn University, Paderborn","North Rhine-Westphalia, Germany",₹37.1K/Yr,NA
+741, Germany,"University of Augsburg, Augsburg","Bavaria, Germany",₹29.37L/Yr,₹13.92L/Yr
+742, USA,"Smith College, Northampton","Massachusetts, USA",₹53.16L/Yr,₹11.99L/Yr
+743, USA,"University of Puerto Rico, Mayaguez","Puerto Rico, USA",₹7.48L/Yr,₹7.38L/Yr
+744, USA,"College of Holy Cross, Worcester","Massachusetts, USA",₹52.32L/Yr,NA
+745, USA,"Loma Linda University, Loma Linda","California, USA",₹48.53L/Yr,NA
+746, Germany,"Chemnitz University of Technology, Chemnitz","Saxony, Germany",₹45.7K/Yr,NA
+747, USA,"New York Medical College, Valhalla","New York, USA",₹50.92L/Yr,₹11.75L/Yr
+748, USA,"Bowdoin College, Brunswick","Maine, USA",₹55.57L/Yr,NA
+749, Sweden,"Lulea University of Technology, Lulea","Norrbotten, Sweden",₹12.68L/Yr,NA
+750, Germany,"Jacobs University, Bremen","Bremen, Germany",₹18.28L/Yr,₹10.92L/Yr
+751, USA,"California Polytechnic State University, San Luis Obispo","California, USA",₹13.06L/Yr,₹5.19L/Yr
+752, Canada,"Wilfrid Laurier University, Waterloo","Ontario, Canada",₹16.03L/Yr,NA
+753, USA,"Albany Medical College, Albany","New York, USA",₹24.12L/Yr,₹8.65L/Yr
+754, USA,"California State University, Northridge","California, USA",₹8.82L/Yr,₹14.28L/Yr
+755, Canada,"Trent University, Peterborough","Ontario, Canada",₹17.19L/Yr,₹10.51L/Yr
+756, USA,"San Jose State University, San Jose","California, USA",₹45.52L/Yr,₹11.34L/Yr
+757, USA,"Carleton College, Northfield","Minnesota, USA",₹55.66L/Yr,₹10.31L/Yr
+758, USA,"Grinnell College, Grinnell","Iowa, USA",₹57.78L/Yr,₹11.77L/Yr
+759, USA,"Williams College, Williamstown","Massachusetts, USA",₹55.72L/Yr,₹10.38L/Yr
+760, USA,"College of Business, California State University - Long Beach, Long Beach","California, USA",₹16.9L/Yr,₹6.33L/Yr
+761, USA,"University of Minnesota- Duluth, Duluth","Minnesota, USA",₹34.3L/Yr,₹14.91L/Yr
+762, USA,"Baruch College, New York City","New York, USA",₹20.2L/Yr,NA
+763, Germany,"Witten/Herdecke University, Witten","North Rhine-Westphalia, Germany",₹24.08L/Yr,₹11.95L/Yr
+764, USA,"Queens College, Queens","New York, USA",₹23.99L/Yr,₹10.93L/Yr
+765, USA,"Trinity University, San Antonio","Texas, USA",₹41.52L/Yr,₹10.36L/Yr
+766, USA,"Ohio Wesleyan University, Delaware","Ohio, USA",₹45.44L/Yr,NA
+767, USA,"Claremont Graduate University, Claremont","California, USA",₹51.58L/Yr,NA
+768, Germany,"University of Trier, Trier","Rhineland-Palatinate, Germany",₹26.9K/Yr,₹14.74L/Yr
+769, USA,"Brooklyn College, Brooklyn","New York, USA",₹18.58L/Yr,₹9L/Yr
+770, Canada,"Laurentian University, Sudbury","Ontario, Canada",₹15.26L/Yr,₹4.72L/Yr
+771, Canada,"University of Quebec at Trois-Rivieres, Trois-Rivieres","Quebec, Canada",₹7.93L/Yr,NA
+772, USA,"Naval Postgraduate School, Monterey","California, USA",₹21.63L/Yr,NA
+773, UK,"University of the West of Scotland, Glasgow","Scotland, UK",₹16.53L/Yr,₹6.8L/Yr
+774, USA,"Appalachian State University, Boone","North Carolina, USA",₹22.13L/Yr,₹6.8L/Yr
+775, USA,"South Dakota School of Mines & Technology, Rapid City","South Dakota, USA",₹14.04L/Yr,₹10.82L/Yr
+776, Canada,"Saint Mary's University, Halifax","Nova Scotia, Canada",₹33.27L/Yr,₹9.91L/Yr
+777, USA,"Washington and Lee University, Lexington","Virginia, USA",₹56.65L/Yr,₹11.97L/Yr
+778, USA,"California State University, Sacramento","California, USA",₹8.82L/Yr,NA
+779, Germany,"University of Koblenz - Landau, Mainz","Rhineland-Palatinate, Germany",₹21.9K/Yr,₹11.15L/Yr
+780, USA,"Hamilton College, Clinton","New York, USA",₹54.14L/Yr,₹10.13L/Yr
+781, USA,"Towson University, Towson","Maryland, USA",₹52.71L/Yr,NA
+782, Sweden,"Mid Sweden University, Sundsvall","Vasternorrland, Sweden",₹6.53L/Yr,₹13.17L/Yr
+783, USA,"Wellesley College, Wellesley","Massachusetts, USA",₹58.31L/Yr,₹7.44L/Yr
+784, Canada,"University of Winnipeg, Winnipeg","Manitoba, Canada",₹11.61L/Yr,₹9.23L/Yr
+785, USA,"Embry-Riddle Aeronautical University, Daytona Beach","Florida, USA",₹12.16L/Yr,₹9.95L/Yr
+786, USA,"University of Alaska, Anchorage","Alaska, USA",₹23.16L/Yr,₹22.06L/Yr
+787, UK,"University of Highlands and Islands, Inverness","Scotland, UK",₹15.65L/Yr,NA
+788, Sweden,"Malmo University, Malmo","Skane, Sweden",₹21.47L/Yr,₹11.39L/Yr
+789, USA,"Drew University, Madison","New Jersey, USA",₹38.63L/Yr,₹6.69L/Yr
+790, USA,"Kettering University, Flint","Michigan, USA",₹35.8L/Yr,₹14.85L/Yr
+791, USA,"College of Staten Island, Staten Island","New York, USA",₹18.08L/Yr,₹9.83L/Yr
+792, USA,"University of Richmond, Richmond","Virginia, USA",₹52.52L/Yr,₹11.79L/Yr
+793, UK,"University of Roehampton, London","England, UK",₹16.48L/Yr,₹4.02L/Yr
+794, Germany,"Technical University of Clausthal, Clausthal-Zellerfeld","Lower Saxony, Germany",₹72.4K/Yr,₹6.98L/Yr
+795, Canada,"University of Quebec at Chicoutimi, Chicoutimi","Quebec, Canada",₹6.63L/Yr,₹11.37L/Yr
+796, USA,"Reed College, Portland","Oregon, USA",₹59.39L/Yr,₹11.27L/Yr
+797, USA,"Sonoma State University, Rohnert Park","California, USA",₹16.03L/Yr,₹14.63L/Yr
+798, USA,"Harvey Mudd College, Claremont","California, USA",₹55.53L/Yr,₹12.45L/Yr
+799, USA,"Middlebury College, Middlebury","Vermont, USA",₹48.22L/Yr,₹12.21L/Yr
+800, USA,"Bates College, Lewiston","Maine, USA",₹55.96L/Yr,₹11.61L/Yr
+801, USA,"Davidson College, Davidson","North Carolina, USA",₹51.95L/Yr,₹13.39L/Yr
+802, USA,"Barnard College, New York City","New York, USA",₹56.88L/Yr,₹13.53L/Yr
+803, USA,"Pitzer College, Claremont","California, USA",₹52.81L/Yr,₹12.51L/Yr
+804, USA,"Lafayette College, Easton","Massachusetts, USA",₹51.97L/Yr,₹10.73L/Yr
+805, USA,"Vassar College, Poughkeepsie","New York, USA",₹56.4L/Yr,₹10.21L/Yr
+806, USA,"Kenyon College, Gambier","Ohio, USA",₹58.21L/Yr,₹11.36L/Yr
+807, USA,"Colby College, Waterville","Maine, USA",₹72.86L/Yr,₹9.71L/Yr
+808, USA,"Macalester College, Saint Paul","Minnesota, USA",₹57.34L/Yr,₹10.42L/Yr
+809, USA,"Whitman College, Walla Walla","Washington, USA",₹51.96L/Yr,₹10.04L/Yr
+810, USA,"Colorado College, Colorado Springs","Colorado, USA",₹61.48L/Yr,₹11.65L/Yr
+811, USA,"Skidmore College, Saratoga Springs","New York, USA",₹53.97L/Yr,₹12.45L/Yr
+812, USA,"Occidental College, Los Angeles","California, USA",₹54.83L/Yr,₹10.91L/Yr
+813, USA,"Union College, Schenectady","New York, USA",₹44.49L/Yr,₹13.08L/Yr
+814, USA,"Bentley University, Waltham","Massachusetts, USA",₹49.67L/Yr,₹11.7L/Yr
+815, USA,"Rose-Hulman Institute of Technology, Terre Haute","Indiana, USA",₹46.99L/Yr,₹13.23L/Yr
+816, USA,"Bryn Mawr College, Bryn Mawr","Pennsylvania, USA",₹51.34L/Yr,₹10.85L/Yr
+817, USA,"Rhode Island School of Design, Providence","Rhode Island, USA",₹51.59L/Yr,₹11.01L/Yr
+818, USA,"Dickinson College, Carlisle","Pennsylvania, USA",₹53.42L/Yr,₹10.11L/Yr
+819, USA,"Furman University, Greenville","South Carolina, USA",₹46.7L/Yr,₹12.14L/Yr
+820, USA,"Connecticut College, New London","Connecticut, USA",₹72.32L/Yr,₹10.42L/Yr
+821, USA,"DePauw University, Greencastle","Indiana, USA",₹47.83L/Yr,₹11.7L/Yr
+822, USA,"Mount Holyoke College, South Hadley","Massachusetts, USA",₹53.08L/Yr,₹10.46L/Yr
+823, USA,"Gettysburg College, Gettysburg","Pennsylvania, USA",₹55.26L/Yr,₹10.98L/Yr
+824, USA,"The College of New Jersey, Ewing Township","New Jersey, USA",₹17.22L/Yr,₹9.39L/Yr
+825, USA,"Rhodes College, Memphis","Tennessee, USA",₹44.98L/Yr,₹10.26L/Yr
+826, USA,"Denison University, Granville","Ohio, USA",₹53.24L/Yr,₹12.36L/Yr
+827, USA,"Sarah Lawrence College, Bronxville","New York, USA",₹50.57L/Yr,₹11.36L/Yr
+828, USA,"St. Lawrence University, Canton","New York, USA",₹52.78L/Yr,₹13.31L/Yr
+829, USA,"Manhattan School of Music, New York City","New York, USA",₹45.75L/Yr,₹7.81L/Yr
+830, USA,"Kalamazoo College, Kalamazoo","Michigan, USA",₹49.48L/Yr,₹11.84L/Yr
+831, USA,"Providence College, Providence","Rhode Island, USA",₹49.77L/Yr,₹11.77L/Yr
+832, USA,"Loyola University Maryland, Baltimore","Maryland, USA",₹43.01L/Yr,₹9.5L/Yr
+833, USA,"Muhlenberg College, Allentown","Pennsylvania, USA",₹49.5L/Yr,₹9.98L/Yr
+834, USA,"Lewis and Clark College, Portland","Oregon, USA",₹53.81L/Yr,₹12.56L/Yr
+835, USA,"Marist College, Poughkeepsie","New York, USA",₹38.77L/Yr,₹8.34L/Yr
+836, USA,"Lawrence University, Appleton","Wisconsin, USA",₹47.62L/Yr,₹8.83L/Yr
+837, USA,"Hillsdale College, Hillsdale","Michigan, USA",₹25.6L/Yr,₹8.36L/Yr
+838, USA,"University of St. Thomas, Saint Paul","Minnesota, USA",₹34.34L/Yr,₹12.56L/Yr
+839, USA,"Bryant University, Smithfield","Rhode Island, USA",₹44.46L/Yr,₹9.08L/Yr
+840, USA,"University of Mary Washington, Fredericksburg","Virginia, USA",₹23.3L/Yr,₹8.47L/Yr
+841, USA,"Centre College, Danville","Kentucky, USA",₹41.8L/Yr,₹9.88L/Yr
+842, USA,"Willamette University, Salem","Oregon, USA",₹44.9L/Yr,₹10.84L/Yr
+843, USA,"Butler University, Indianapolis","Indiana, USA",₹36.15L/Yr,₹9.37L/Yr
+844, USA,"University of Washington, Bothell","Washington, USA",₹11.62L/Yr,₹14.13L/Yr
+845, USA,"Emerson College, Boston","Massachusetts, USA",₹43.24L/Yr,₹7.69L/Yr
+846, USA,"Taylor University, Upland","Indiana, USA",₹33.08L/Yr,₹12.53L/Yr
+847, USA,"Bard College, Annandale-On-Hudson","New York, USA",₹53.46L/Yr,₹7.19L/Yr
+848, USA,"Truman State University, Kirksville","Missouri, USA",₹16.43L/Yr,₹8.8L/Yr
+849, USA,"Illinois Wesleyan University, Bloomington","Illinois, USA",₹46.15L/Yr,₹10.99L/Yr
+850, USA,"State University of New York at Geneseo, Geneseo","New York, USA",₹14.56L/Yr,₹5.9L/Yr
+851, USA,"Cedarville University, Cedarville","Ohio, USA",₹30.96L/Yr,₹11.11L/Yr
+852, USA,"University of Pacific, Stockton","California, USA",₹40.92L/Yr,₹12.25L/Yr
+853, USA,"Rollins College, Winter Park","Florida, USA",₹49.13L/Yr,₹12.7L/Yr
+854, USA,"Ithaca College, Ithaca","New York, USA",₹42.59L/Yr,₹8.32L/Yr
+855, USA,"Hope College, Holland","Michigan, USA",₹35.77L/Yr,₹9.48L/Yr
+856, USA,"The College of Wooster, Wooster","Ohio, USA",₹49.53L/Yr,₹12.16L/Yr
+857, USA,"University of Scranton, Scranton","Pennsylvania, USA",₹39.05L/Yr,₹11.08L/Yr
+858, USA,"California Lutheran University, Thousand Oaks","California, USA",₹39.94L/Yr,₹7.02L/Yr
+859, USA,"Beloit College, Beloit","Wisconsin, USA",₹49.42L/Yr,₹7.79L/Yr
+860, USA,"Rockhurst University, Kansas City","Missouri, USA",₹18.17L/Yr,₹8.44L/Yr
+861, USA,"Point Loma Nazarene University, San Diego","California, USA",₹32.09L/Yr,₹8.31L/Yr
+862, USA,"Calvin College, Grand Rapids","Michigan, USA",₹30.87L/Yr,₹9.34L/Yr
+863, USA,"Christopher Newport University, Newport News","Virginia, USA",₹23.38L/Yr,₹10.01L/Yr
+864, USA,"Juniata College, Huntingdon","Pennsylvania, USA",₹46.92L/Yr,₹12.07L/Yr
+865, USA,"California State Polytechnic University, Pomona","California, USA",₹11.84L/Yr,₹11.53L/Yr
+866, USA,"University of Redlands, Redlands","California, USA",₹47.05L/Yr,₹9.95L/Yr
+867, USA,"University of Dallas, Irving","Texas, USA",₹44.37L/Yr,₹9.18L/Yr
+868, USA,"Washington College, Chestertown","Maryland, USA",₹43.03L/Yr,₹10.24L/Yr
+869, USA,"Massachusetts Maritime Academy, Buzzards Bay","Massachusetts, USA",₹15.51L/Yr,₹12.1L/Yr
+870, USA,"Siena College, Loudonville","New York, USA",₹42.72L/Yr,₹9.63L/Yr
+871, USA,"John Carroll University, University Heights","Ohio, USA",₹34.44L/Yr,₹8.5L/Yr
+872, USA,"Messiah University, Mechanicsburg","Pennsylvania, USA",₹32.65L/Yr,₹9.37L/Yr
+873, USA,"Ohio Northern University, Ada","Ohio, USA",₹30.71L/Yr,₹9.29L/Yr
+874, USA,"Southwestern University, Georgetown","Texas, USA",₹44.48L/Yr,₹10.11L/Yr
+875, USA,"University of Evansville, Evansville","Indiana, USA",₹35.63L/Yr,₹8.25L/Yr
+876, USA,"Earlham College, Richmond","Indiana, USA",₹44.96L/Yr,₹7.83L/Yr
+877, USA,"Milwaukee School of Engineering, Milwaukee","Wisconsin, USA",₹35.33L/Yr,₹8.75L/Yr
+878, USA,"Pacific Lutheran University, Tacoma","Washington, USA",₹42.05L/Yr,₹10L/Yr
+879, USA,"Pratt Institute, Brooklyn","New York, USA",₹48.9L/Yr,₹8.07L/Yr
+880, USA,"Knox College, Galesburg","Illinois, USA",₹46.24L/Yr,₹10.09L/Yr
+881, USA,"SUNY Maritime College, Bronx","New York, USA",₹27.31L/Yr,₹10.57L/Yr
+882, USA,"California State University, Chico","California, USA",₹30.55L/Yr,₹11.35L/Yr
+883, USA,"Wagner College, Staten Island","New York, USA",₹43.69L/Yr,₹10.13L/Yr
+884, USA,"Ramapo College of New Jersey, Mahwah","New Jersey, USA",₹20.62L/Yr,₹7.69L/Yr
+885, USA,"Westminster College Salt Lake City, Salt Lake City","Utah, USA",₹34.14L/Yr,₹11.32L/Yr
+886, USA,"Mills College, Oakland","California, USA",₹51.25L/Yr,₹10.26L/Yr
+887, USA,"Austin College, Sherman","Texas, USA",₹39.33L/Yr,₹9.69L/Yr
+888, USA,"Allegheny College, Meadville","Pennsylvania, USA",₹47.14L/Yr,₹10.55L/Yr
+889, USA,"State University of New York at New Paltz, New Paltz","New York, USA",₹12.53L/Yr,₹11.52L/Yr
+890, USA,"Wentworth Institute of Technology, Boston","Massachusetts, USA",₹35.17L/Yr,₹11.15L/Yr
+891, USA,"Millsaps College, Jackson","Mississippi, USA",₹33.54L/Yr,₹7.52L/Yr
+892, USA,"John Brown University, Siloam Springs","Arkansas, USA",₹24.35L/Yr,₹9.55L/Yr
+893, USA,"Salisbury University, Salisbury","Maryland, USA",₹18.92L/Yr,₹6.69L/Yr
+894, USA,"Concordia College, Moorhead","Minnesota, USA",₹26.66L/Yr,₹6.24L/Yr
+895, USA,"University of Wisconsin, Eau Claire","Wisconsin, USA",₹15.71L/Yr,₹9.34L/Yr
+896, USA,"Hanover College, Hanover","Indiana, USA",₹36.49L/Yr,₹11.32L/Yr
+897, USA,"Hampshire College, Amherst","Massachusetts, USA",₹48.4L/Yr,₹6.78L/Yr
+898, USA,"University of Minnesota, Morris","Minnesota, USA",₹34.2L/Yr,₹12.95L/Yr
+899, USA,"Roger Williams University, Bristol","Rhode Island, USA",₹32.35L/Yr,₹9.53L/Yr
+900, USA,"Lebanon Valley College, Annville","Pennsylvania, USA",₹39.99L/Yr,₹10.14L/Yr
+901, USA,"Assumption College, Worcester","Massachusetts, USA",₹37.44L/Yr,₹12.66L/Yr
+902, USA,"Merrimack College, North Andover","Massachusetts, USA",₹16.94L/Yr,₹9.9L/Yr
+903, USA,"Saint Edward's University, Austin","Texas, USA",₹41.46L/Yr,₹8.58L/Yr
+904, USA,"Augustana College, Rock Island","Illinois, USA",₹40.69L/Yr,₹12.34L/Yr
+905, USA,"Iona College, New Rochelle","New York, USA",₹36.2L/Yr,₹10.2L/Yr
+906, USA,"Berry College, Mount Berry","Georgia, USA",₹33.03L/Yr,₹9.14L/Yr
+907, USA,"Elizabethtown College, Elizabethtown","Pennsylvania, USA",₹30.08L/Yr,₹6.66L/Yr
+908, USA,"Augustana University, Sioux Falls","South Dakota, USA",₹35.11L/Yr,₹9.78L/Yr
+909, USA,"California Institute of the Arts, Valencia","California, USA",₹50.78L/Yr,₹10.3L/Yr
+910, USA,"Linfield College, McMinnville","Oregon, USA",₹40.49L/Yr,₹7.3L/Yr
+911, USA,"University of Northern Iowa, Cedar Falls","Iowa, USA",₹29.61L/Yr,₹3.82L/Yr
+912, USA,"Brigham Young University - Idaho, Rexburg","Idaho, USA",₹8.82L/Yr,₹8.36L/Yr
+913, USA,"Lake Forest College, Lake Forest","Illinois, USA",₹44.33L/Yr,₹10.16L/Yr
+914, USA,"Albion College, Albion","Michigan, USA",₹46.64L/Yr,₹11.1L/Yr
+915, USA,"High Point University, High Point","North Carolina, USA",₹37.43L/Yr,₹11.07L/Yr
+916, USA,"Whittier College, Whittier","California, USA",₹41.94L/Yr,₹8.74L/Yr
+917, USA,"University of Tampa, Tampa","Florida, USA",₹24.49L/Yr,₹8.12L/Yr
+918, USA,"California State University - Stanislaus, Turlock","California, USA",₹5.78L/Yr,₹7.58L/Yr
+919, USA,"Cornell College, Mount Vernon","Iowa, USA",₹42.56L/Yr,₹9.82L/Yr
+920, USA,"Washington and Jefferson College, Washington","Pennsylvania, USA",₹22.96L/Yr,₹10.55L/Yr
+921, USA,"Stetson University, DeLand","Florida, USA",₹46.27L/Yr,₹10.56L/Yr
+922, USA,"Moravian College, Bethlehem","Pennsylvania, USA",₹35.81L/Yr,₹10.06L/Yr
+923, USA,"Susquehanna University, Selinsgrove","Pennsylvania, USA",₹48.41L/Yr,₹8.45L/Yr
+924, USA,"Hamline University, Saint Paul","Minnesota, USA",₹41.32L/Yr,₹5.43L/Yr
+925, USA,"Berea College, Berea","Kentucky, USA",₹41.01L/Yr,₹9.48L/Yr
+926, USA,"Saint Vincent College, Latrobe","Pennsylvania, USA",₹32.23L/Yr,₹11.2L/Yr
+927, USA,"Spelman College, Atlanta","Georgia, USA",₹20.92L/Yr,₹8.42L/Yr
+928, USA,"Wittenberg University, Springfield","Massachusetts, USA",₹35.84L/Yr,₹7.6L/Yr
+929, USA,"Coe College, Cedar Rapids","Iowa, USA",₹44.27L/Yr,₹12.36L/Yr
+930, USA,"Rider University, Lawrenceville","New Jersey, USA",₹32.08L/Yr,₹8.6L/Yr
+931, USA,"Elmhurst College, Elmhurst","Illinois, USA",₹35.35L/Yr,NA
+932, Netherlands,"Amsterdam Business School, Amsterdam","North Holland, Netherlands",₹25.51L/Yr,₹11.09L/Yr
+933, USA,"Lehman College, Bronx","New York, USA",₹17.08L/Yr,₹7.57L/Yr
+934, USA,"University of North Carolina, Asheville","North Carolina, USA",₹20.42L/Yr,₹8.11L/Yr
+935, USA,"Ashland University, Ashland","Ohio, USA",₹24.79L/Yr,₹7.9L/Yr
+936, USA,"Lawrence Technological University, Southfield","Michigan, USA",₹35.09L/Yr,₹8.68L/Yr
+937, USA,"University of North Georgia, Dahlonega","Georgia, USA",₹8.29L/Yr,₹9.19L/Yr
+938, USA,"Webster University, Webster Groves","Missouri, USA",₹24.38L/Yr,₹7.28L/Yr
+939, USA,"Christian Brothers University, Memphis","Tennessee, USA",₹26.45L/Yr,₹7.9L/Yr
+940, USA,"Carroll University, Waukesha","Wisconsin, USA",₹35.33L/Yr,₹9.96L/Yr
+941, USA,"Lynn University, Boca Raton","Florida, USA",₹30.69L/Yr,₹7.6L/Yr
+942, USA,"Baldwin Wallace University, Berea","Ohio, USA",₹30.76L/Yr,₹8.76L/Yr
+943, USA,"Otterbein University, Westerville","Ohio, USA",₹33.26L/Yr,₹9.85L/Yr
+944, USA,"Queens University of Charlotte, Charlotte","North Carolina, USA",₹38.6L/Yr,₹7.57L/Yr
+945, USA,"Minnesota State University Mankato, Mankato","Minnesota, USA",₹18.02L/Yr,₹6.78L/Yr
+946, USA,"Ripon College, Ripon","Wisconsin, USA",₹42.55L/Yr,₹8.98L/Yr
+947, USA,"St. Mary's University, San Antonio","Texas, USA",₹30.13L/Yr,₹7.64L/Yr
+948, USA,"Illinois College, Jacksonville","Illinois, USA",₹30.67L/Yr,₹8.89L/Yr
+949, USA,"Central Washington University, Ellensburg","Washington, USA",₹11.14L/Yr,₹10.46L/Yr
+950, USA,"Hood College, Frederick","Maryland, USA",₹30.7L/Yr,₹10.88L/Yr
+951, USA,"Fairleigh Dickinson University, Teaneck","New Jersey, USA",₹28.6L/Yr,₹8.32L/Yr
+952, USA,"Benedictine University, Lisle","Illinois, USA",₹23.97L/Yr,₹7.82L/Yr
+953, USA,"Hastings College, Hastings","Nebraska, USA",₹27.85L/Yr,₹7.84L/Yr
+954, USA,"Bloomsburg University of Pennsylvania, Bloomsburg","Pennsylvania, USA",₹16.05L/Yr,₹7.3L/Yr
+955, USA,"Oral Roberts University, Tulsa","Oklahoma, USA",₹30.44L/Yr,₹7.73L/Yr
+956, USA,"Montana Tech, Butte","Montana, USA",₹20.34L/Yr,₹10.21L/Yr
+957, USA,"Alfred University, Alfred","New York, USA",₹31.94L/Yr,₹8.85L/Yr
+958, USA,"Alma College, Alma","Michigan, USA",₹39.23L/Yr,₹7.12L/Yr
+959, USA,"Saint Cloud State University, St. Cloud","Minnesota, USA",₹16.25L/Yr,₹8.47L/Yr
+960, USA,"Capital University, Columbus","Ohio, USA",₹32.95L/Yr,NA
+961, USA,"Oglethorpe University, Atlanta","Georgia, USA",₹37.78L/Yr,₹8.4L/Yr
+962, USA,"University of Mount Union, Alliance","Ohio, USA",₹28.32L/Yr,₹6.99L/Yr
+963, USA,"Weber State University, Ogden","Utah, USA",₹16.65L/Yr,₹10.73L/Yr
+964, USA,"Sweet Briar College, Sweet Briar","Virginia, USA",₹19.16L/Yr,₹7.36L/Yr
+965, USA,"Southeastern Louisiana University, Hammond","Louisiana, USA",₹12.29L/Yr,₹7.41L/Yr
+966, USA,"Murray State University, Murray","Kentucky, USA",₹15.1L/Yr,₹8.1L/Yr
+967, USA,"Anderson University - Indiana, Anderson","Indiana, USA",₹29.64L/Yr,₹7.78L/Yr
+968, USA,"University of West Florida, Pensacola","Florida, USA",₹17.81L/Yr,₹12.73L/Yr
+969, USA,"St Francis College, Brooklyn","New York, USA",₹22.03L/Yr,₹9.98L/Yr
+970, USA,"Elmira College, Elmira","New York, USA",₹13.09L/Yr,₹8.01L/Yr
+971, USA,"Western Illinois University, Macomb","Illinois, USA",₹15.42L/Yr,₹8.98L/Yr
+972, USA,"Fisk University, Nashville","Tennessee, USA",₹18.59L/Yr,₹11.28L/Yr
+973, USA,"Morehouse College, Atlanta","Georgia, USA",₹22.37L/Yr,₹21.49L/Yr
+974, UK,"University for the Creative Arts, Farnham","England, UK",₹18.62L/Yr,NA
+975, UK,"University of the Arts London, London","England, UK",₹28.86L/Yr,₹6.86L/Yr
+976, UK,"Abertay University, Dundee","Scotland, UK",₹15.18L/Yr,₹13.39L/Yr
+977, UK,"Solent University, Southampton","England, UK",₹17.28L/Yr,NA
+978, UK,"Liverpool Hope University, Liverpool","England, UK",₹13.72L/Yr,₹18.4K/Yr
+979, UK,"University of Gloucestershire, Cheltenham","England, UK",₹14.83L/Yr,₹15.02L/Yr
+980, UK,"Falmouth University, Falmouth","England, UK",₹19.44L/Yr,₹28.07L/Yr
+981, UK,"York St John University, York","England, UK",₹13.48L/Yr,₹25.32L/Yr
+982, UK,"Buckinghamshire New University, High Wycombe","England, UK",₹16.07L/Yr,₹17.33L/Yr
+983, UK,"St Mary's University Twickenham, London","England, UK",₹15.93L/Yr,₹20.92L/Yr
+984, UK,"Bath Spa University, Bath","England, UK",₹15.92L/Yr,₹11.85L/Yr
+985, USA,"Savannah College of Art and Design, Savannah","Georgia, USA",₹33.72L/Yr,₹6.97L/Yr
+986, Canada,"Algoma University, Sault Ste. Marie","Ontario, Canada",₹13.11L/Yr,NA
+987, Canada,"OCAD University, Toronto","Ontario, Canada",₹18.32L/Yr,₹6.68L/Yr
+988, Canada,"The King's University, Edmonton","Alberta, Canada",₹9.57L/Yr,₹1.61L/Yr
+989, Canada,"University Canada West, Vancouver","British Columbia, Canada",₹11.27L/Yr,₹13.5L/Yr
+990, Canada,"Acadia University, Wolfville","Nova Scotia, Canada",₹12.54L/Yr,₹88.4K/Yr
+991, Canada,"Athabasca University, Athabasca","Alberta, Canada",₹8.15L/Yr,₹7.79L/Yr
+992, Canada,"Bishop's University, Sherbrooke","Quebec, Canada",₹17.07L/Yr,₹13.19L/Yr
+993, Canada,"Brandon University, Brandon","Manitoba, Canada",₹10.55L/Yr,₹7.78L/Yr
+994, Canada,"Brescia University College, London","Ontario, Canada",₹15.61L/Yr,₹4.57L/Yr
+995, Canada,"Campion College, Regina","Saskatchewan, Canada",₹19.03L/Yr,₹2.59L/Yr
+996, Canada,"Canadian Mennonite University, Winnipeg","Manitoba, Canada",₹11.66L/Yr,₹12.81L/Yr
+997, Canada,"Cape Breton University, Sydney","Nova Scotia, Canada",₹18.25L/Yr,₹23.41L/Yr
+998, Canada,"Capilano University, North Vancouver","British Columbia, Canada",₹11.99L/Yr,NA
+999, Canada,"Polytechnic School of Montreal, Montreal","Quebec, Canada",₹13.4L/Yr,NA
+1000, Canada,"Emily Carr University of Art & Design, Vancouver","British Columbia, Canada",₹16.96L/Yr,NA
+1001, Canada,"First Nations University of Canada, Regina","Saskatchewan, Canada",₹20.4L/Yr,NA
+1002, Canada,"Glendon College, North York","Ontario, Canada",₹22.29L/Yr,NA
+1003, Canada,"HEC Montreal, Montreal","Quebec, Canada",₹13.06L/Yr,₹6.86L/Yr
+1004, Canada,"King's University College, London","Ontario, Canada",₹27.94L/Yr,₹3.46L/Yr
+1005, Canada,"Kwantlen Polytechnic University, Surrey","British Columbia, Canada",₹14.19L/Yr,₹4.87L/Yr
+1006, Canada,"Lakehead University, Orilla Campus, Orillia","Ontario, Canada",₹18.56L/Yr,₹6.19L/Yr
+1007, Canada,"Luther College, Regina","Saskatchewan, Canada",₹19.92L/Yr,₹17.58L/Yr
+1008, Canada,"MacEwan University, Edmonton","Alberta, Canada",₹15.64L/Yr,₹4.43L/Yr
+1009, Canada,"Marine Institute of Memorial University of Newfoundland, St. John's","Newfoundland & Labrador, Canada",₹7.87L/Yr,₹14.66L/Yr
+1010, Canada,"Mount Allison University, Sackville","Newbrunswick, Canada",₹14.1L/Yr,₹12.52L/Yr
+1011, Canada,"Mount Royal University, Calgary","Alberta, Canada",₹15.95L/Yr,₹5.04L/Yr
+1012, Canada,"Mount Saint Vincent University, Halifax","Nova Scotia, Canada",₹11.4L/Yr,NA
+1013, Canada,"Nipissing University, North Bay","Ontario, Canada",₹17.24L/Yr,NA
+1014, Canada,"NSCAD University, Halifax","Nova Scotia, Canada",₹9.84L/Yr,₹8.25L/Yr
+1015, Canada,"Renison University College, Waterloo","Ontario, Canada",₹34.56L/Yr,NA
+1016, Canada,"Royal Military College of Canada, Kingston","Ontario, Canada",₹5.97L/Yr,₹12.57L/Yr
+1017, Canada,"Royal Roads University, Victoria","British Columbia, Canada",₹16.04L/Yr,NA
+1018, Canada,"Saint Paul University, Ottawa","Ontario, Canada",₹10.51L/Yr,₹14.14L/Yr
+1019, Canada,"St. Francis Xavier University, Antigonish","Nova Scotia, Canada",₹6.98L/Yr,NA
+1020, Canada,"St. Mary's University, Halifax","Nova Scotia, Canada",₹8.51L/Yr,NA
+1021, Canada,"St. Thomas More College, Saskatoon","Saskatchewan, Canada",₹20.95L/Yr,NA
+1022, Canada,"The University of British Columbia, Okanagan, Kelowna","British Columbia, Canada",₹19.43L/Yr,₹25.78L/Yr
+1023, Canada,"Thompson Rivers University, Kamloops","British Columbia, Canada",₹15.69L/Yr,₹16.24L/Yr
+1024, Canada,"Trinity College, Toronto","Ontario, Canada",₹37.91L/Yr,₹6.02L/Yr
+1025, Canada,"Trinity Western University, Langley","British Columbia, Canada",₹14.96L/Yr,NA
+1026, Canada,"University of Moncton, Moncton","Newbrunswick, Canada",₹9.05L/Yr,NA
+1027, Canada,"School of Higher Technology, University of Quebec, Montreal","Quebec, Canada",₹8.4L/Yr,₹2.15L/Yr
+1028, Canada,"University of Quebec at Rimouski, Rimouski","Quebec, Canada",₹13.14L/Yr,₹9.15L/Yr
+1029, Canada,"University of Quebec in Outaouais, Gatineau","Quebec, Canada",₹12.32L/Yr,₹1.57L/Yr
+1030, Canada,"University of Guelph, Ridgetown Campus, Ridgetown","Ontario, Canada",₹28.72L/Yr,₹3.96L/Yr
+1031, Canada,"University of Guelph, Humber Campus, Toronto","Ontario, Canada",₹18.22L/Yr,NA
+1032, Canada,"University of King's College, Halifax","Nova Scotia, Canada",₹20.92L/Yr,NA
+1033, Canada,"University of New Brunswick (Saint John), Saint John","Newbrunswick, Canada",₹8.51L/Yr,₹12.44L/Yr
+1034, Canada,"University of Prince Edward Island, Charlottetown","Prince Edward Island, Canada",₹6.13L/Yr,NA
+1035, Canada,"University of St. Michael's College, Toronto","Ontario, Canada",₹10.89L/Yr,₹4.36L/Yr
+1036, Canada,"University of the Fraser Valley, Abbotsford","British Columbia, Canada",₹4.11L/Yr,₹6.11L/Yr
+1037, Canada,"University of Toronto (Mississauga), Mississauga","Ontario, Canada",₹38.18L/Yr,₹2.79L/Yr
+1038, Canada,"University of Toronto (Scarborough), Scarborough","Ontario, Canada",₹37.44L/Yr,₹11.12L/Yr
+1039, Canada,"Algonquin College, Ottawa","Ontario, Canada",₹13.66L/Yr,₹2.48L/Yr
+1040, Canada,"Bow Valley College, Calgary","Alberta, Canada",₹10.04L/Yr,₹7.98L/Yr
+1041, Canada,"Cambrian College, Sudbury","Ontario, Canada",₹13.2L/Yr,₹9.25L/Yr
+1042, Canada,"Centennial College, Toronto","Ontario, Canada",₹10.52L/Yr,₹16.32L/Yr
+1043, Canada,"Humber College, Toronto","Ontario, Canada",₹12.42L/Yr,NA
+1044, Canada,"Northern Alberta Institute of Technology, Edmonton","Alberta, Canada",₹16.31L/Yr,NA
+1045, Canada,"Saskatchewan Polytechnic, Saskatoon","Saskatchewan, Canada",₹6.64L/Yr,₹4.69L/Yr
+1046, Canada,"St. Lawrence College, Kingston","Ontario, Canada",₹10.35L/Yr,NA
+1047, Canada,"Algonquin College (Perth), Perth","Ontario, Canada",₹13.66L/Yr,₹7.54L/Yr
+1048, Canada,"Assiniboine Community College, Brandon","Manitoba, Canada",₹10.8L/Yr,₹3.41L/Yr
+1049, Canada,"British Columbia Institute of Technology, Burnaby","British Columbia, Canada",₹6.69L/Yr,₹9.22L/Yr
+1050, Canada,"Camosun College, Victoria","British Columbia, Canada",₹5.59L/Yr,₹4.99L/Yr
+1051, Canada,"Canadore College, North Bay","Ontario, Canada",₹9.92L/Yr,₹2.6L/Yr
+1052, Canada,"Cegep Marie (Victorin), Montreal","Quebec, Canada",₹9.93L/Yr,NA
+1053, Canada,"Vanier College, Saint-Laurent","Quebec, Canada",₹14.09L/Yr,NA
+1054, Canada,"College Boreal, Sudbury","Ontario, Canada",₹9.93L/Yr,NA
+1055, Canada,"New Brunswick Community College, Fredericton","Newbrunswick, Canada",₹6.64L/Yr,₹4.45L/Yr
+1056, Canada,"College of New Caledonia, Prince George","British Columbia, Canada",₹12.48L/Yr,₹3.89L/Yr
+1057, Canada,"College of the North Atlantic, St. John's","Newfoundland & Labrador, Canada",₹7.42L/Yr,₹2.89L/Yr
+1058, Canada,"College of the Rockies, Cranbrook","British Columbia, Canada",₹2.5L/Yr,₹5.1L/Yr
+1059, Canada,"Columbia College, Vancouver","British Columbia, Canada",₹10.89L/Yr,₹9.43L/Yr
+1060, Canada,"Conestoga College, Kitchener","Ontario, Canada",₹11.14L/Yr,₹7.17L/Yr
+1061, Canada,"Confederation College, Thunder Bay","Ontario, Canada",₹10.63L/Yr,₹77.6K/Yr
+1062, Canada,"Coquitlam College, Coquitlam","British Columbia, Canada",₹8.94L/Yr,NA
+1063, Canada,"Cumberland College, Nipawin","Saskatchewan, Canada",₹7.76L/Yr,₹2.61L/Yr
+1064, Canada,"Dawson College, Montreal","Quebec, Canada",₹4.34L/Yr,₹8.38L/Yr
+1065, Canada,"Douglas College, New Westminster","British Columbia, Canada",₹12.7L/Yr,₹6.05L/Yr
+1066, Canada,"Durham College, Oshawa","Ontario, Canada",₹9.41L/Yr,₹6.64L/Yr
+1067, Canada,"Fanshawe College, London","Ontario, Canada",₹10.48L/Yr,₹2.95L/Yr
+1068, Canada,"Fleming College, Peterborough","Ontario, Canada",₹12.68L/Yr,₹6.68L/Yr
+1069, Canada,"George Brown College, Toronto","Ontario, Canada",₹12.72L/Yr,₹9.31L/Yr
+1070, Canada,"Georgian College, Barrie","Ontario, Canada",₹9.15L/Yr,NA
+1071, Canada,"Heritage College, Gatineau","Quebec, Canada",₹9.65L/Yr,₹6.65L/Yr
+1072, Canada,"Sheridan College, Oakville","Ontario, Canada",₹10.42L/Yr,₹4.44L/Yr
+1073, Canada,"St. Clair College, Windsor","Ontario, Canada",₹10.24L/Yr,₹4.69L/Yr
+1074, Canada,"Vancouver Community College, Vancouver","British Columbia, Canada",₹12.33L/Yr,NA
+1075, Canada,"Vanguard College, Edmonton","Alberta, Canada",₹6.84L/Yr,₹6.05L/Yr
+1076, Canada,"Yukon College, Whitehorse","Yukon, Canada",₹8.32L/Yr,NA
+1077, Canada,"Adler University (Vancouver), Vancouver","British Columbia, Canada",₹6.95L/Yr,₹6.82L/Yr
+1078, Canada,"Conrad Grebel University College, Waterloo","Ontario, Canada",₹34.14L/Yr,₹5.52L/Yr
+1079, Canada,"Dominican University College, Ottawa","Ontario, Canada",₹10.46L/Yr,NA
+1080, Canada,"Holland College, Charlottetown","Prince Edward Island, Canada",₹6.8L/Yr,₹5.34L/Yr
+1081, Canada,"Lambton College, Sarnia","Ontario, Canada",₹10.73L/Yr,₹7.03L/Yr
+1082, Canada,"Mohawk College, Hamilton","Ontario, Canada",₹11.23L/Yr,₹11.7L/Yr
+1083, Canada,"Red River College, Winnipeg","Manitoba, Canada",₹6.65L/Yr,₹6.19L/Yr
+1084, Canada,"Seneca College (Newnham Campus), North York","Ontario, Canada",₹10.17L/Yr,NA
+1085, Canada,"St. Stephen's University, Fredericton","Newbrunswick, Canada",₹7.36L/Yr,NA
+1086, Canada,"Institut National de Recherche Scientifique, Quebec City","Quebec, Canada",₹18.16L/Yr,₹42.6L/Yr
+1087, Canada,"Yorkville University, Fredericton","Newbrunswick, Canada",₹11.01L/Yr,₹6.29L/Yr
+1088, Canada,"CDI College, Montreal","Quebec, Canada",₹12.97L/Yr,NA
+1089, Canada,"LaSalle College - Vancouver, Vancouver","British Columbia, Canada",₹33L/Yr,₹2.44L/Yr
+1090, Canada,"Toronto Film School, Toronto","Ontario, Canada",₹16.04L/Yr,₹8.94L/Yr
+1091, Canada,"John Molson School of Business, Montreal","Quebec, Canada",₹14.46L/Yr,NA
+1092, Canada,"Goodman School of Business, St. Catharines","Ontario, Canada",₹20.65L/Yr,₹11.95L/Yr
+1093, Canada,"Sprott School of Business, Ottawa","Ontario, Canada",₹22.97L/Yr,NA
+1094, Canada,"Rowe School of Business, Halifax","Nova Scotia, Canada",₹21.11L/Yr,₹6.42L/Yr
+1095, Canada,"Desautels Faculty of Management, Montreal","Quebec, Canada",₹23.18L/Yr,NA
+1096, Canada,"Edwards School of Business, Saskatoon","Saskatchewan, Canada",₹26.51L/Yr,NA
+1097, Canada,"Haskayne School of Business, Calgary","Alberta, Canada",₹20.32L/Yr,NA
+1098, Canada,"DeGroote School of Business, Hamilton","Ontario, Canada",₹27.74L/Yr,NA
+1099, Canada,"Odette School of Business, Windsor","Ontario, Canada",₹10.89L/Yr,NA
+1100, Canada,"Stephen J.R. Smith School of Business, Kingston","Ontario, Canada",₹8.92L/Yr,₹7.61L/Yr
+1101, Canada,"Richard Ivey School of Business, London","Ontario, Canada",₹9.8L/Yr,₹3.72L/Yr
+1102, Canada,"Rotman School of Management, Toronto","Ontario, Canada",₹52.52L/Yr,₹2.79L/Yr
+1103, Canada,"Schulich School of Business, North York","Ontario, Canada",₹36.39L/Yr,NA
+1104, Canada,"Beedie School of Business, Vancouver","British Columbia, Canada",₹24.23L/Yr,NA
+1105, Canada,"Sobey School of Business, Halifax","Nova Scotia, Canada",₹36.04L/Yr,₹8.05L/Yr
+1106, Canada,"Ted Rogers School of Management, Toronto","Ontario, Canada",₹23.53L/Yr,NA
+1107, Canada,"Telfer School of Management, Ottawa","Ontario, Canada",₹18.49L/Yr,₹18.43L/Yr
+1108, Canada,"Sauder School of Business, Vancouver","British Columbia, Canada",₹28.7L/Yr,NA
+1109, Canada,"School of Management Science, University of Quebec at Montreal, Montreal","Quebec, Canada",₹13.23L/Yr,NA
+1110, Canada,"School of Business, University of Alberta, Edmonton","Alberta, Canada",₹20.73L/Yr,₹5.45L/Yr
+1111, Canada,"I.H. Asper School of Business, Winnipeg","Manitoba, Canada",₹12.09L/Yr,NA
+1112, Canada,"Peter B. Gustavson School of Business, Victoria","British Columbia, Canada",₹17.79L/Yr,NA
+1113, Canada,"Lazaridis School of Business & Economics, Waterloo","Ontario, Canada",₹17.02L/Yr,NA
+1114, Canada,"Dalhousie Medical School, Halifax","Nova Scotia, Canada",₹14.71L/Yr,NA
+1115, Canada,"Northern Ontario School of Medicine, Sudbury","Ontario, Canada",₹14.43L/Yr,NA
+1116, Canada,"College of Medicine, University of Saskatchewan, Saskatoon","Saskatchewan, Canada",₹25.51L/Yr,NA
+1117, Canada,"Schulich School of Medicine & Dentistry, London","Ontario, Canada",₹11.47L/Yr,NA
+1118, Canada,"Ontario Institute for Studies in Education, Toronto","Ontario, Canada",₹14.41L/Yr,NA
+1119, Canada,"Schulich School of law, Halifax","Nova Scotia, Canada",₹22.13L/Yr,NA
+1120, Canada,"Osgoode Hall Law School, North York","Ontario, Canada",₹31.7L/Yr,₹2.68L/Yr
+1121, Canada,"Okanagan College, Kelowna","British Columbia, Canada",₹6.51L/Yr,NA
+1122, Canada,"Justice Institute of British Columbia, New Westminster","British Columbia, Canada",₹4.62L/Yr,NA
+1123, Canada,"Lakeland College, Vermilion","Alberta, Canada",₹10.61L/Yr,₹49.7K/Yr
+1124, Canada,"Langara College, Vancouver","British Columbia, Canada",₹11.11L/Yr,NA
+1125, Canada,"Lethbridge College, Lethbridge","Alberta, Canada",₹4.2L/Yr,₹3.35L/Yr
+1126, Canada,"Loyalist College, Belleville","Ontario, Canada",₹10.13L/Yr,₹5.7L/Yr
+1127, Canada,"Medicine Hat College, Medicine Hat","Alberta, Canada",₹11.19L/Yr,₹8.99L/Yr
+1128, Canada,"NorQuest College, Edmonton","Alberta, Canada",₹11.41L/Yr,NA
+1129, Canada,"Northern College of Applied Arts & Technology, South Porcupin","Ontario, Canada",₹10.03L/Yr,₹6.7L/Yr
+1130, Canada,"Northern Lakes College, Slave lake","Alberta, Canada",₹2.59L/Yr,NA
+1131, Canada,"Northern Lights College, Dawson Creek","British Columbia, Canada",₹7.7L/Yr,₹6.14L/Yr
+1132, Canada,"Coast Mountain College, Terrace","British Columbia, Canada",₹9.87L/Yr,₹8.01L/Yr
+1133, Canada,"Nova Scotia Community College, Halifax","Nova Scotia, Canada",₹7.9L/Yr,NA
+1134, Canada,"Parkland College, Yorkton","Saskatchewan, Canada",₹5.6L/Yr,NA
+1135, Canada,"Portage College, Lac la Biche","Alberta, Canada",₹10.39L/Yr,NA
+1136, Canada,"Red Deer College, Red Deer","Alberta, Canada",₹12.76L/Yr,NA
+1137, Canada,"SAIT Polytechnic, Calgary","Alberta, Canada",₹11.66L/Yr,₹5.42L/Yr
+1138, Canada,"Sault College, Sault Ste. Marie","Ontario, Canada",₹10.85L/Yr,₹6.42L/Yr
+1139, Canada,"Selkirk College, Castlegar","British Columbia, Canada",₹8.93L/Yr,₹13.34L/Yr
+1140, Australia,"Melbourne Business School, Melbourne","Victoria, Australia",₹31.89L/Yr,NA
+1141, Germany,"Carl Benz School, Karlsruhe","Baden-Wurttemberg, Germany",₹1.37L/Yr,NA
+1142, Germany,"RWTH International Academy, Aachen","North Rhine-Westphalia, Germany",₹20.11L/Yr,NA
+1143, Germany,"RWTH Business School, Aachen","North Rhine-Westphalia, Germany",₹2.39L/Yr,₹3.04L/Yr
+1144, Germany,"Technical University Freiberg, Freiburg","Baden-Wurttemberg, Germany",₹17.2K/Yr,NA
+1145, Netherlands,"Rotterdam School of Management, Erasmus University (RSM), Rotterdam","South Holland, Netherlands",₹19.73L/Yr,NA
+1146, Netherlands,"School of Business and Economics, Maastricht University, Maastricht","Limburg, Netherlands",₹16.89L/Yr,NA
+1147, UK,"Adam Smith Business School, University of Glasgow, Glasgow","Scotland, UK",₹28.59L/Yr,NA
+1148, Germany,"European Business School, Munich","Bavaria, Germany",₹15.86L/Yr,NA
+1149, UK,"Dundee Business School, Dundee","Scotland, UK",₹22.31L/Yr,₹13.22L/Yr
+1150, Germany,"WHU - Otto Beisheim School of Management, Vallendar","Rhineland-Palatinate, Germany",₹26.61L/Yr,NA
+1151, UK,"Brighton and Sussex Medical School, Brighton","England, UK",₹9.68L/Yr,₹6.52L/Yr
+1152, USA,"Northern State University, Aberdeen","South Dakota, USA",₹9.13L/Yr,₹6.32L/Yr
+1153, USA,"University of South Carolina, Aiken","South Carolina, USA",₹21.77L/Yr,₹10.28L/Yr
+1154, USA,"The College of Saint Rose, Albany","New York, USA",₹27.66L/Yr,₹10.35L/Yr
+1155, USA,"State University of New York Polytechnic Institute, Albany","New York, USA",₹19.71L/Yr,NA
+1156, USA,"Alfred State College, Alfred","New York, USA",₹9.7L/Yr,₹8.09L/Yr
+1157, USA,"Alcorn State University, Alcorn","Mississippi, USA",₹21.58L/Yr,NA
+1158, USA,"California Institute of Advanced Management, Alhambra","California, USA",₹19.96L/Yr,₹15.31L/Yr
+1159, USA,"Alliant International University, San Diego","California, USA",₹15.84L/Yr,₹10.12L/Yr
+1160, USA,"Soka University of America, Aliso Viejo","California, USA",₹29.38L/Yr,₹11.64L/Yr
+1161, USA,"California University of Management and Sciences, Anaheim","California, USA",₹8.11L/Yr,₹6.57L/Yr
+1162, USA,"Alaska Pacific University, Anchorage","Alaska, USA",₹16.1L/Yr,₹8.05L/Yr
+1163, USA,"Anderson University - South Carolina, Anderson","South Carolina, USA",₹24.93L/Yr,₹6.38L/Yr
+1164, USA,"Angelo State University, San Angelo","Texas, USA",₹21.25L/Yr,₹8.79L/Yr
+1165, USA,"Trine University, Angola","Indiana, USA",₹26.95L/Yr,₹5.82L/Yr
+1166, USA,"Henderson State University, Arkadelphia","Arkansas, USA",₹8.56L/Yr,₹11.45L/Yr
+1167, USA,"Southern Oregon University, Ashland","Oregon, USA",₹22.82L/Yr,₹7.19L/Yr
+1168, USA,"Concord University, Athens","West Virginia, USA",₹17.04L/Yr,NA
+1169, USA,"University of Georgia College of Engineering, Athens","Georgia, USA",₹21.09L/Yr,₹6.45L/Yr
+1170, USA,"Tennessee Wesleyan University, Athens","Tennessee, USA",₹22.56L/Yr,NA
+1171, USA,"Morehouse School of Medicine, Atlanta","Georgia, USA",₹15.97L/Yr,₹7.44L/Yr
+1172, USA,"Webber International University, Babson Park","Florida, USA",₹26.7L/Yr,₹11.62L/Yr
+1173, USA,"California State University, Bakersfield","California, USA",₹13.44L/Yr,₹7.1L/Yr
+1174, USA,"Bellevue University, Bellevue","Nebraska, USA",₹12.9L/Yr,₹10.99L/Yr
+1175, USA,"Bellevue College, Bellevue","Washington, USA",₹17.64L/Yr,₹6.79L/Yr
+1176, USA,"Bemidji State University, Bemidji","Minnesota, USA",₹8.96L/Yr,₹8.22L/Yr
+1177, USA,"Southern Nazarene University, Bethany","Oklahoma, USA",₹21.73L/Yr,₹12.39L/Yr
+1178, USA,"Endicott College, Beverly","Massachusetts, USA",₹33.97L/Yr,₹6.5L/Yr
+1179, USA,"Montana State University, Billings","Montana, USA",₹29L/Yr,₹8.72L/Yr
+1180, USA,"Bluffton University, Bluffton","Ohio, USA",₹29.53L/Yr,₹12.46L/Yr
+1181, USA,"Wheelock College of Education & Human Development, Boston","Massachusetts, USA",₹54.75L/Yr,₹15.21L/Yr
+1182, USA,"Boston Architectural College, Boston","Massachusetts, USA",₹22.34L/Yr,₹13.12L/Yr
+1183, USA,"Fisher College, Boston","Massachusetts, USA",₹30.07L/Yr,₹8.9L/Yr
+1184, USA,"Cambridge College, Boston","Massachusetts, USA",₹14.74L/Yr,₹9.56L/Yr
+1185, USA,"Naropa University, Boulder","Colorado, USA",₹29.95L/Yr,₹8.77L/Yr
+1186, USA,"Bowie State University, Bowie","Maryland, USA",₹15.24L/Yr,₹10.61L/Yr
+1187, USA,"Bridgewater State University, Bridgewater","Massachusetts, USA",₹18.51L/Yr,₹8.43L/Yr
+1188, USA,"Monroe College, Bronx","New York, USA",₹14.72L/Yr,NA
+1189, USA,"Brooklyn Law School, Brooklyn","New York, USA",₹50.84L/Yr,₹14.74L/Yr
+1190, USA,"New York City College of Technology, Brooklyn","New York, USA",₹15.47L/Yr,₹11.41L/Yr
+1191, USA,"Long Island University Post, Greenvale","New York, USA",₹36.03L/Yr,₹5.25L/Yr
+1192, USA,"Southern Virginia University, Buena Vista","Virginia, USA",₹16.46L/Yr,₹11.22L/Yr
+1193, USA,"Buffalo State, Buffalo","New York, USA",₹20.09L/Yr,₹10.77L/Yr
+1194, USA,"Niagara University, Niagara University","New York, USA",₹13.72L/Yr,₹9.82L/Yr
+1195, USA,"D'Youville College, Buffalo","New York, USA",₹22.29L/Yr,₹15.72L/Yr
+1196, USA,"New York Film Academy, Burbank","California, USA",₹27.22L/Yr,₹12.4L/Yr
+1197, USA,"Champlain College, Burlington","Vermont, USA",₹19.59L/Yr,₹8.58L/Yr
+1198, USA,"Slippery Rock University, Slippery Rock","Pennsylvania, USA",₹14.05L/Yr,₹8.46L/Yr
+1199, USA,"California University of Pennsylvania, California","Pennsylvania, USA",₹11.94L/Yr,₹14.1L/Yr
+1200, USA,"California State University - Channel Islands, Camarillo","California, USA",₹6.68L/Yr,₹16.5L/Yr
+1201, USA,"Hult International Business School, Cambridge","Massachusetts, USA",₹49.28L/Yr,₹11.55L/Yr
+1202, USA,"Longy School of Music, Cambridge","Massachusetts, USA",₹42.71L/Yr,₹7.25L/Yr
+1203, USA,"Southeast Missouri State University, Cape Girardeau","Missouri, USA",₹15.18L/Yr,₹8.56L/Yr
+1204, USA,"Castleton University, Castleton","Vermont, USA",₹27.28L/Yr,₹5.88L/Yr
+1205, USA,"Southern Utah University, Cedar City","Utah, USA",₹40.17L/Yr,₹7.79L/Yr
+1206, USA,"American Public University, Charles Town","West Virginia, USA",₹10.42L/Yr,₹8.1L/Yr
+1207, USA,"Eastern Illinois University, Charleston","Illinois, USA",₹12.43L/Yr,₹5.36L/Yr
+1208, USA,"University of Wisconsin, Whitewater","Wisconsin, USA",₹14.43L/Yr,₹9.56L/Yr
+1209, USA,"Eastern Washington University, Cheney","Washington, USA",₹15.37L/Yr,₹9.43L/Yr
+1210, USA,"Saint Xavier University, Chicago","Illinois, USA",₹27.98L/Yr,₹9.5L/Yr
+1211, USA,"Northeastern Illinois University, Chicago","Illinois, USA",₹28.73L/Yr,₹13.08L/Yr
+1212, USA,"University of Chicago Booth School of Business, Chicago","Illinois, USA",₹64.66L/Yr,₹11.34L/Yr
+1213, USA,"Columbia College Chicago, Chicago","Illinois, USA",₹25.56L/Yr,₹7.26L/Yr
+1214, USA,"Chicago State University, Chicago","Illinois, USA",₹16.66L/Yr,₹11.55L/Yr
+1215, USA,"School of Art Institute of Chicago, Chicago","Illinois, USA",₹45.51L/Yr,₹7.74L/Yr
+1216, USA,"North Park University, Chicago","Illinois, USA",₹27.97L/Yr,NA
+1217, USA,"John Marshall Law School, Chicago","Illinois, USA",₹42.43L/Yr,₹9.22L/Yr
+1218, USA,"Kendall College, Chicago","Illinois, USA",₹31.74L/Yr,NA
+1219, USA,"Keck Graduate Institute, Claremont","California, USA",₹45.67L/Yr,₹9.58L/Yr
+1220, USA,"Clarion University of Pennsylvania, Clarion","Pennsylvania, USA",₹14.04L/Yr,₹8.5L/Yr
+1221, USA,"Austin Peay State University, Clarksville","Tennessee, USA",₹14.95L/Yr,₹6.31L/Yr
+1222, USA,"Delta State University, Cleveland","Mississippi, USA",₹83.2K/Yr,₹6.72L/Yr
+1223, USA,"Lee University, Cleveland","Tennessee, USA",₹22.83L/Yr,₹6.65L/Yr
+1224, USA,"Columbia International University, Columbia","South Carolina, USA",₹11.98L/Yr,₹8.78L/Yr
+1225, USA,"Columbus State University, Columbus","Georgia, USA",₹39.99L/Yr,₹9.09L/Yr
+1226, USA,"Ohio Dominican University, Columbus","Ohio, USA",₹28.03L/Yr,₹15.04L/Yr
+1227, USA,"Franklin University, Columbus","Ohio, USA",₹14.89L/Yr,NA
+1228, USA,"University of Miami Online, Coral Gables","Florida, USA",₹47.38L/Yr,NA
+1229, USA,"Dallas Theological Seminary, Dallas","Texas, USA",₹16.47L/Yr,₹10.33L/Yr
+1230, USA,"Western Connecticut State University, Danbury","Connecticut, USA",₹16.53L/Yr,₹7.53L/Yr
+1231, USA,"University of Michigan, Dearborn","Michigan, USA",₹45.39L/Yr,₹16.92L/Yr
+1232, USA,"Metropolitan State University, Denver","Colorado, USA",₹24.52L/Yr,₹11.11L/Yr
+1233, USA,"Millennia Atlantic University, Doral","Florida, USA",₹16.02L/Yr,₹9.51L/Yr
+1234, USA,"Delaware State University, Dover","Delaware, USA",₹15.76L/Yr,₹14.6L/Yr
+1235, USA,"DeVry University, Naperville","Illinois, USA",₹17.61L/Yr,₹7.86L/Yr
+1236, USA,"University of Dubuque, Dubuque","Iowa, USA",₹35.65L/Yr,₹8.19L/Yr
+1237, USA,"North Carolina Central University, Durham","North Carolina, USA",₹20.37L/Yr,₹9.68L/Yr
+1238, USA,"New England Institute of Technology, Warwick","Rhode Island, USA",₹25.38L/Yr,₹7.31L/Yr
+1239, USA,"East Stroudsburg University, East Stroudsburg","Pennsylvania, USA",₹17L/Yr,₹9.33L/Yr
+1240, USA,"Edinboro University, Edinboro","Pennsylvania, USA",₹13.94L/Yr,₹6.31L/Yr
+1241, USA,"Oklahoma Christian University, Edmond","Oklahoma, USA",₹19.75L/Yr,NA
+1242, USA,"Salus University, Elkins Park","Pennsylvania, USA",₹36.12L/Yr,₹7.22L/Yr
+1243, USA,"Emporia State University, Emporia","Kansas, USA",₹12.47L/Yr,₹10.16L/Yr
+1244, USA,"Mercyhurst University, Erie","Pennsylvania, USA",₹37.02L/Yr,₹7.35L/Yr
+1245, USA,"University of Southern Indiana, Evansville","Indiana, USA",₹16.97L/Yr,₹5.49L/Yr
+1246, USA,"Fairfax University of America, Fairfax","Virginia, USA",₹12.09L/Yr,₹6.16L/Yr
+1247, USA,"Maharishi University of Management, Fairfield","Iowa, USA",₹15.17L/Yr,₹8.67L/Yr
+1248, USA,"Longwood University, Farmville","Virginia, USA",₹33.59L/Yr,₹8.88L/Yr
+1249, USA,"Fitchburg State University, Fitchburg","Massachusetts, USA",₹20.8L/Yr,₹6.23L/Yr
+1250, USA,"University of North Alabama, Florence","Alabama, USA",₹11.73L/Yr,₹6.61L/Yr
+1251, USA,"Francis Marion University, Florence","South Carolina, USA",₹8.82L/Yr,₹7.77L/Yr
+1252, USA,"Indiana University - Purdue University Fort Wayne, Fort Wayne","Indiana, USA",₹19.2L/Yr,₹7.49L/Yr
+1253, USA,"University of Saint Francis, Fort Wayne","Indiana, USA",₹29.47L/Yr,₹8.17L/Yr
+1254, USA,"Indiana Tech, Fort Wayne","Indiana, USA",₹23.15L/Yr,₹9.83L/Yr
+1255, USA,"Framingham State University, Framingham","Massachusetts, USA",₹16.03L/Yr,₹5.56L/Yr
+1256, USA,"Kentucky State University, Frankfort","Kentucky, USA",₹10.26L/Yr,₹13.6L/Yr
+1257, USA,"Dean College, Franklin County","Massachusetts, USA",₹37.19L/Yr,₹6.16L/Yr
+1258, USA,"Emmanuel College Boston, Boston","Massachusetts, USA",₹41.76L/Yr,₹10.39L/Yr
+1259, USA,"State University of New York Fredonia, Fredonia","New York, USA",₹14.88L/Yr,₹6.99L/Yr
+1260, USA,"Fresno Pacific University, Fresno","California, USA",₹26.5L/Yr,₹7.92L/Yr
+1261, USA,"Frostburg State University, Frostburg","Maryland, USA",₹18.08L/Yr,NA
+1262, USA,"Texas A&M University, Galveston","Texas, USA",₹34.27L/Yr,₹9.22L/Yr
+1263, USA,"Indiana University Northwest, Gary","Indiana, USA",₹32.59L/Yr,₹10.88L/Yr
+1264, USA,"College of DuPage, Glen Ellyn","Illinois, USA",₹14L/Yr,₹11.36L/Yr
+1265, USA,"Arcadia University, Glenside","Pennsylvania, USA",₹35.47L/Yr,₹8.93L/Yr
+1266, USA,"Colorado Mesa University, Grand Junction","Colorado, USA",₹21.64L/Yr,₹8.24L/Yr
+1267, USA,"Davenport University, Grand Rapids","Michigan, USA",₹19.66L/Yr,₹12.05L/Yr
+1268, USA,"Bard College at Simon's Rock, Great Barrington","Massachusetts, USA",₹52.52L/Yr,₹8.87L/Yr
+1269, USA,"Montana State University, Great Falls","Montana, USA",₹29.97L/Yr,₹6.08L/Yr
+1270, USA,"University of Wisconsin, Green Bay","Wisconsin, USA",₹17.42L/Yr,₹9.6L/Yr
+1271, USA,"Seton Hill University, Greensburg","Pennsylvania, USA",₹17.98L/Yr,₹5.53L/Yr
+1272, USA,"Bob Jones University, Greenville","South Carolina, USA",₹17.23L/Yr,₹6.32L/Yr
+1273, USA,"Purdue University - Northwest, Hammond","Indiana, USA",₹16.45L/Yr,₹5.38L/Yr
+1274, USA,"Montana State University - Northern, Havre","Montana, USA",₹29.97L/Yr,₹6.57L/Yr
+1275, USA,"Fort Hays State University, Hays","Kansas, USA",₹13.69L/Yr,₹11.54L/Yr
+1276, USA,"New England College, Henniker","New Hampshire, USA",₹27.9L/Yr,₹14.21L/Yr
+1277, USA,"Florida National University, Hialeah","Florida, USA",₹12.89L/Yr,₹11.81L/Yr
+1278, USA,"Hawaii Pacific University, Honolulu","Hawaii, USA",₹24.7L/Yr,₹13.08L/Yr
+1279, USA,"University of Houston - Downtown, Houston","Texas, USA",₹18.68L/Yr,₹6.86L/Yr
+1280, USA,"Houston Baptist University, Houston","Texas, USA",₹34.27L/Yr,₹9.87L/Yr
+1281, USA,"West Virginia State University, Institute","West Virginia, USA",₹13.69L/Yr,₹11.6L/Yr
+1282, USA,"Jacksonville University, Jacksonville","Florida, USA",₹34.17L/Yr,₹6.57L/Yr
+1283, USA,"Jacksonville State University, Jacksonville","Alabama, USA",₹18.79L/Yr,₹6.11L/Yr
+1284, USA,"University of Jamestown, Jamestown","North Dakota, USA",₹19.66L/Yr,₹12.75L/Yr
+1285, USA,"Saint Peter's University, Jersey City","New Jersey, USA",₹32.62L/Yr,NA
+1286, USA,"University of Kansas Medical Center, Kansas City","Kansas, USA",₹17.65L/Yr,₹7.11L/Yr
+1287, USA,"Avila University, Kansas City","Missouri, USA",₹25.6L/Yr,₹8.36L/Yr
+1288, USA,"University of Nebraska, Kearney","Nebraska, USA",₹15.74L/Yr,₹6.25L/Yr
+1289, USA,"University of Wisconsin - Parkside, Kenosha","Wisconsin, USA",₹18.73L/Yr,₹11.34L/Yr
+1290, USA,"Lake Washington Institute of Technology, Kirkland","Washington, USA",₹7.91L/Yr,₹9.22L/Yr
+1291, USA,"Indiana University Kokomo, Kokomo","Indiana, USA",₹18.3L/Yr,₹9.41L/Yr
+1292, USA,"Kutztown University, Kutztown","Pennsylvania, USA",₹11.8L/Yr,₹8.07L/Yr
+1293, USA,"Eastern Oregon University, La Grande","Oregon, USA",₹18.77L/Yr,₹12.18L/Yr
+1294, USA,"National University, La Jolla","California, USA",₹10.34L/Yr,₹9.17L/Yr
+1295, USA,"Saint Martin's University, Lacey","Washington, USA",₹37.6L/Yr,₹6.81L/Yr
+1296, USA,"McNeese State University, Lake Charles","Louisiana, USA",₹8.81L/Yr,₹9.07L/Yr
+1297, USA,"Florida Polytechnic University, Lakeland","Florida, USA",₹4.19L/Yr,₹6.79L/Yr
+1298, USA,"Texas A&M International University, Laredo","Texas, USA",₹17.44L/Yr,₹6.37L/Yr
+1299, USA,"New Mexico Highlands University, Las Vegas","Nevada, USA",₹12.87L/Yr,₹8.65L/Yr
+1300, USA,"St.  Andrews University, Laurinburg","North Carolina, USA",₹25.07L/Yr,₹4.53L/Yr
+1301, USA,"Cameron University, Lawton","Oklahoma, USA",₹15.21L/Yr,₹6.16L/Yr
+1302, USA,"Cumberland University, Lebanon","Tennessee, USA",₹16.64L/Yr,₹5.45L/Yr
+1303, USA,"Lewis - Clark State College, Lewiston","Idaho, USA",₹17.79L/Yr,₹5.89L/Yr
+1304, USA,"University of West Alabama, Livingston","Alabama, USA",₹18.49L/Yr,₹8.11L/Yr
+1305, USA,"Madonna University, Livonia","Michigan, USA",₹23.04L/Yr,₹10.65L/Yr
+1306, USA,"Bay Path University, Longmeadow","Massachusetts, USA",₹32.72L/Yr,₹8.21L/Yr
+1307, USA,"LeTourneau University, Longview","Texas, USA",₹28.85L/Yr,₹9.92L/Yr
+1308, USA,"Saint Francis University, Loretto","Pennsylvania, USA",₹34.12L/Yr,₹9.26L/Yr
+1309, USA,"Woodbury University, Burbank","California, USA",₹35.54L/Yr,NA
+1310, USA,"Dongguk University, Los Angeles","California, USA",₹39.17L/Yr,₹15.56L/Yr
+1311, USA,"Pacific States University, Los Angeles","California, USA",₹6.45L/Yr,₹12.88L/Yr
+1312, USA,"Southern California Institute of Architecture, Los Angeles","California, USA",₹28.56L/Yr,₹16.02L/Yr
+1313, USA,"DeVry University - California, Long Beach","California, USA",₹17.18L/Yr,₹8.72L/Yr
+1314, USA,"Sullivan University, Louisville","Kentucky, USA",₹14.28L/Yr,₹5.59L/Yr
+1315, USA,"Dakota State University, Madison","South Dakota, USA",₹9.53L/Yr,₹10.92L/Yr
+1316, USA,"Fairleigh Dickinson University, Madison","New Jersey, USA",₹28.35L/Yr,₹5.88L/Yr
+1317, USA,"Southern Arkansas University, Magnolia","Arkansas, USA",₹13.49L/Yr,₹10.21L/Yr
+1318, USA,"Southern New Hampshire University, Manchester","New Hampshire, USA",₹14.29L/Yr,₹11.6L/Yr
+1319, USA,"Fashion Institute of Technology, New York City","New York, USA",₹14.84L/Yr,₹8.59L/Yr
+1320, USA,"Northern Michigan University, Marquette","Michigan, USA",₹17.39L/Yr,₹6.5L/Yr
+1321, USA,"Southwest Minnesota State University, Marshall","Minnesota, USA",₹9.58L/Yr,₹4.97L/Yr
+1322, USA,"University of Tennessee Martin, Martin","Tennessee, USA",₹14.73L/Yr,₹7.25L/Yr
+1323, USA,"Northwest Missouri State University, Maryville","Missouri, USA",₹16.14L/Yr,₹5.58L/Yr
+1324, USA,"University of Wisconsin - Stout, Menomonie","Wisconsin, USA",₹16.44L/Yr,₹18.64L/Yr
+1325, USA,"Miami Dade College, Miami","Florida, USA",₹8.66L/Yr,₹13.16L/Yr
+1326, USA,"Atlantis University, Miami","Florida, USA",₹10.89L/Yr,₹7.05L/Yr
+1327, USA,"Midway University, Midway","Kentucky, USA",₹28.37L/Yr,₹8.9L/Yr
+1328, USA,"Walden University, Minneapolis","Minnesota, USA",₹20.4L/Yr,₹8.27L/Yr
+1329, USA,"Augsburg University, Minneapolis","Minnesota, USA",₹34.1L/Yr,₹5.28L/Yr
+1330, USA,"Minot State University, Minot","North Dakota, USA",₹14.83L/Yr,₹9.11L/Yr
+1331, USA,"Pfeiffer University, Misenheimer","North Carolina, USA",₹25.93L/Yr,₹8.49L/Yr
+1332, USA,"Western Oregon University, Monmouth","Oregon, USA",₹26.95L/Yr,NA
+1333, USA,"Middlebury Institute of International Studies at Monterey, Monterey","California, USA",₹54.73L/Yr,₹5.81L/Yr
+1334, USA,"Auburn University at Montgomery, Montgomery","Alabama, USA",₹23.98L/Yr,₹7.49L/Yr
+1335, USA,"Minnesota State University Moorhead, Moorhead","Minnesota, USA",₹25.17L/Yr,₹7.85L/Yr
+1336, USA,"Morehead State University, Morehead","Kentucky, USA",₹17.93L/Yr,NA
+1337, USA,"Clayton State University, Morrow","Georgia, USA",₹15.71L/Yr,₹7.38L/Yr
+1338, USA,"Stephen F. Austin State University, Nacogdoches","Texas, USA",₹30.85L/Yr,NA
+1339, USA,"Keller Graduate School of Management, Chicago","Illinois, USA",₹21.35L/Yr,₹9.83L/Yr
+1340, USA,"Central Connecticut State University, New Britain","Connecticut, USA",₹10.88L/Yr,₹9.18L/Yr
+1341, USA,"Muskingum University, New Concord","Ohio, USA",₹25.09L/Yr,₹7.47L/Yr
+1342, USA,"Southern University at New Orleans, New Orleans","Louisiana, USA",₹26.3L/Yr,NA
+1343, USA,"LIM College, New York City","New York, USA",₹24.83L/Yr,₹18.15L/Yr
+1344, USA,"Teachers College at Columbia University, New York City","New York, USA",₹28.22L/Yr,₹16.3L/Yr
+1345, USA,"School of Visual Arts, New York City","New York, USA",₹20.66L/Yr,₹11.7L/Yr
+1346, USA,"Salve Regina University, Newport","Rhode Island, USA",₹36.11L/Yr,₹12.31L/Yr
+1347, USA,"Lasell University, Newton","Massachusetts, USA",₹19.45L/Yr,₹8.56L/Yr
+1348, USA,"Norfolk State University, Norfolk","Virginia, USA",₹21.81L/Yr,₹9.8L/Yr
+1349, USA,"Kent State University Stark, North Canton","Ohio, USA",₹22.39L/Yr,₹8.4L/Yr
+1350, USA,"Manchester University, North Manchester","Indiana, USA",₹23.19L/Yr,₹10.56L/Yr
+1351, USA,"California College of the Arts, Oakland","California, USA",₹48.4L/Yr,₹10.65L/Yr
+1352, USA,"Holy Names University, Oakland","California, USA",₹29.76L/Yr,₹9.13L/Yr
+1353, USA,"University of Texas Permian Basin, Odessa","Texas, USA",₹22.91L/Yr,₹14.21L/Yr
+1354, USA,"New York Institute of Technology, New York City","New York, USA",₹35.9L/Yr,₹7.58L/Yr
+1355, USA,"Claflin University, Orangeburg","South Carolina, USA",₹13.6L/Yr,₹7.49L/Yr
+1356, USA,"South Carolina State University, Orangeburg","South Carolina, USA",₹17.29L/Yr,₹11.43L/Yr
+1357, USA,"State University of New York at Oswego, Oswego","New York, USA",₹15.81L/Yr,₹6.38L/Yr
+1358, USA,"Park University, Parkville","Missouri, USA",₹12.89L/Yr,₹16.65L/Yr
+1359, USA,"ArtCenter College of Design, Pasadena","California, USA",₹42.22L/Yr,₹7.42L/Yr
+1360, USA,"University of North Carolina, Pembroke","North Carolina, USA",₹8.56L/Yr,₹9.05L/Yr
+1361, USA,"Virginia State University, Petersburg","Virginia, USA",₹20.12L/Yr,₹13.09L/Yr
+1362, USA,"University of Sciences in Philadelphia, Philadelphia","Pennsylvania, USA",₹40.93L/Yr,₹11.28L/Yr
+1363, USA,"Curtis Institute of Music, Philadelphia","Pennsylvania, USA",₹5.07L/Yr,₹10.75L/Yr
+1364, USA,"Stevenson University, Owings Mills","Maryland, USA",₹32.98L/Yr,₹6.4L/Yr
+1365, USA,"Pittsburg State University, Pittsburg","Kansas, USA",₹17.11L/Yr,NA
+1366, USA,"Joseph M. Katz Graduate School of Business, University of Pittsburgh, Pittsburgh","Pennsylvania, USA",₹29.14L/Yr,₹9.33L/Yr
+1367, USA,"La Roche University, Pittsburgh","Pennsylvania, USA",₹27.76L/Yr,₹6.26L/Yr
+1368, USA,"University of Wisconsin, Platteville","Wisconsin, USA",₹16.4L/Yr,₹10.39L/Yr
+1369, USA,"State University of New York Plattsburgh, Plattsburgh","New York, USA",₹8.37L/Yr,₹9.12L/Yr
+1370, USA,"Plymouth State University, Plymouth","New Hampshire, USA",₹20.74L/Yr,₹5.79L/Yr
+1371, USA,"Eastern New Mexico University, Portales","New Mexico, USA",₹9.06L/Yr,₹8.13L/Yr
+1372, USA,"University of Southern Maine, Portland","Maine, USA",₹21.87L/Yr,₹7.95L/Yr
+1373, USA,"Shawnee State University, Portsmouth","Ohio, USA",₹15.08L/Yr,₹10.67L/Yr
+1374, USA,"State University of New York Potsdam, Potsdam","New York, USA",₹14.68L/Yr,₹11.49L/Yr
+1375, USA,"Johnson & Wales University, Providence","Rhode Island, USA",₹33.1L/Yr,₹14.74L/Yr
+1376, USA,"York College, Jamaica","New York, USA",₹15.47L/Yr,₹7.76L/Yr
+1377, USA,"Eastern Nazarene College, Quincy","Massachusetts, USA",₹21.96L/Yr,₹11.99L/Yr
+1378, USA,"Marymount California University, Rancho Palos Verdes","California, USA",₹31.2L/Yr,₹6.23L/Yr
+1379, USA,"National American University, Rapid City","South Dakota, USA",₹19.22L/Yr,₹9.46L/Yr
+1380, USA,"DigiPen Institute of Technology, Redmond","Washington, USA",₹33.9L/Yr,₹13.27L/Yr
+1381, USA,"University of Potomac, Washington","District Of Columbia, USA",₹11.9L/Yr,NA
+1382, USA,"Illinois Dominican University, River Forest","Illinois, USA",₹30.94L/Yr,₹6.86L/Yr
+1383, USA,"La Sierra University, Riverside","California, USA",₹27.53L/Yr,₹7.18L/Yr
+1384, USA,"California Baptist University, Riverside","California, USA",₹32.49L/Yr,₹7.27L/Yr
+1385, USA,"Winthrop University, Rock Hill","South Carolina, USA",₹26.03L/Yr,₹15.58L/Yr
+1386, USA,"Lewis University, Romeoville","Illinois, USA",₹29.34L/Yr,₹6.37L/Yr
+1387, USA,"Arkansas Tech University, Russellville","Arkansas, USA",₹11.83L/Yr,₹7.32L/Yr
+1388, USA,"Lindenwood University, Saint Charles","Missouri, USA",₹15.98L/Yr,₹5.26L/Yr
+1389, USA,"Dixie State University, Saint George","Utah, USA",₹9.17L/Yr,₹7.26L/Yr
+1390, USA,"Missouri Western State University, Saint Joseph","Missouri, USA",₹14.55L/Yr,₹7.28L/Yr
+1391, USA,"Concordia University - Saint Paul, Saint Paul","Minnesota, USA",₹20.08L/Yr,₹14.98L/Yr
+1392, USA,"Metropolitan State University, Saint Paul","Minnesota, USA",₹29.68L/Yr,₹7.36L/Yr
+1393, USA,"University of St. Thomas, Houston","Texas, USA",₹40.36L/Yr,₹10.81L/Yr
+1394, USA,"Salem State University, Salem","Massachusetts, USA",₹13.73L/Yr,₹8.05L/Yr
+1395, USA,"American National University, Salem","Virginia, USA",₹21.99L/Yr,₹6.22L/Yr
+1396, USA,"Salem University, Salem","West Virginia, USA",₹22.25L/Yr,₹12.18L/Yr
+1397, USA,"United States University, San Diego","California, USA",₹11.69L/Yr,₹11.08L/Yr
+1398, USA,"NewSchool of Architecture and Design, San Diego","California, USA",₹34.7L/Yr,₹12.5L/Yr
+1399, USA,"California Miramar University, San Diego","California, USA",₹25.24L/Yr,NA
+1400, USA,"University of California Hastings College of Law, San Francisco","California, USA",₹27.65L/Yr,₹13.14L/Yr
+1401, USA,"Academy of Art University, San Francisco","California, USA",₹33L/Yr,NA
+1402, USA,"California Institute of Integral Studies, San Francisco","California, USA",₹32.07L/Yr,NA
+1403, USA,"International Technological University, San Jose","California, USA",₹15.72L/Yr,₹11L/Yr
+1404, USA,"California State University, San Marcos","California, USA",₹15L/Yr,₹13.16L/Yr
+1405, USA,"Santa Monica College, Santa Monica","California, USA",₹8.32L/Yr,₹11.48L/Yr
+1406, USA,"University of South Florida - Sarasota-Manatee, Sarasota","Florida, USA",₹14.79L/Yr,₹7.98L/Yr
+1407, USA,"Lake Superior State University, Sault Ste Marie","Michigan, USA",₹14.52L/Yr,₹6.32L/Yr
+1408, USA,"Savannah State University, Savannah","Georgia, USA",₹15.65L/Yr,₹11.56L/Yr
+1409, USA,"Marywood University, Scranton","Pennsylvania, USA",₹29.36L/Yr,₹10.31L/Yr
+1410, USA,"California State University - Monterey Bay, Seaside","California, USA",₹19.76L/Yr,₹8.36L/Yr
+1411, USA,"City University of Seattle, Seattle","Washington, USA",₹20.17L/Yr,₹8.17L/Yr
+1412, USA,"Shepherd University, Shepherdstown","West Virginia, USA",₹15.27L/Yr,₹9.7L/Yr
+1413, USA,"Shippensburg University of Pennsylvania, Shippensburg","Pennsylvania, USA",₹18.4L/Yr,₹10.96L/Yr
+1414, USA,"Louisiana State University Shreveport, Shreveport","Louisiana, USA",₹18.63L/Yr,₹7.36L/Yr
+1415, USA,"Indiana University South Bend, South Bend","Indiana, USA",₹18.37L/Yr,₹6.93L/Yr
+1416, USA,"University of South Carolina - Upstate, Spartanburg","South Carolina, USA",₹23.95L/Yr,₹5.67L/Yr
+1417, USA,"Black Hills State University, Spearfish","South Dakota, USA",₹10.27L/Yr,₹8.12L/Yr
+1418, USA,"University of Illinois, Springfield","Illinois, USA",₹15.55L/Yr,₹6.68L/Yr
+1419, USA,"Drury University, Springfield","Missouri, USA",₹26.76L/Yr,₹9.13L/Yr
+1420, USA,"Eastern University, St. Davids","Pennsylvania, USA",₹28.33L/Yr,₹7.55L/Yr
+1421, USA,"North American University, Stafford","Texas, USA",₹18.7L/Yr,₹6.06L/Yr
+1422, USA,"University of Wisconsin, Stevens Point","Wisconsin, USA",₹14.93L/Yr,NA
+1423, USA,"Aquinas College, Grand Rapids","Michigan, USA",₹25.06L/Yr,₹8.86L/Yr
+1424, USA,"University of Washington, Tacoma","Washington, USA",₹31.61L/Yr,₹6.46L/Yr
+1425, USA,"Northeastern State University, Tahlequah","Oklahoma, USA",₹44.74L/Yr,₹7.81L/Yr
+1426, USA,"University of Advancing Technology, Tempe","Arizona, USA",₹20.26L/Yr,₹7.73L/Yr
+1427, USA,"Nicholls State University, Thibodaux","Louisiana, USA",₹24.44L/Yr,₹8.48L/Yr
+1428, USA,"Heidelberg University, Tiffin","Ohio, USA",₹29.04L/Yr,₹8.57L/Yr
+1429, USA,"Tiffin University, Tiffin","Ohio, USA",₹25.14L/Yr,₹6.56L/Yr
+1430, USA,"Washburn University, Topeka","Kansas, USA",₹18.65L/Yr,₹5.56L/Yr
+1431, USA,"Troy University, Troy","Alabama, USA",₹17.2L/Yr,NA
+1432, USA,"University of Tennessee Space Institute, Tullahoma","Tennessee, USA",₹12.33L/Yr,₹8.03L/Yr
+1433, USA,"Tuskegee University, Tuskegee","Alabama, USA",₹18.14L/Yr,₹7.87L/Yr
+1434, USA,"Saginaw Valley State University, University Center","Michigan, USA",₹18.61L/Yr,₹9.01L/Yr
+1435, USA,"Utica College, Utica","New York, USA",₹23.29L/Yr,₹6.77L/Yr
+1436, USA,"University of Houston, Victoria","Texas, USA",₹14.06L/Yr,₹10.4L/Yr
+1437, USA,"IGlobal University, Vienna","Virginia, USA",₹17.86L/Yr,₹10.23L/Yr
+1438, USA,"ECPI University, Richmond","Virginia, USA",₹49.27L/Yr,₹7.19L/Yr
+1439, USA,"University of Central Missouri, Warrensburg","Missouri, USA",₹14.74L/Yr,NA
+1440, USA,"Kogod School of Business, Washington","District Of Columbia, USA",₹49.21L/Yr,₹17.51L/Yr
+1441, USA,"University of the District of Columbia, Washington","District Of Columbia, USA",₹15.73L/Yr,₹9.41L/Yr
+1442, USA,"National Defense University, Washington","District Of Columbia, USA",NA,₹6.18L/Yr
+1443, USA,"William Paterson University of New Jersey, Wayne","New Jersey, USA",₹19.63L/Yr,₹4.57L/Yr
+1444, USA,"Wayne State College, Wayne","Nebraska, USA",₹13.98L/Yr,₹15.41L/Yr
+1445, USA,"Southwestern Oklahoma State University, Weatherford","Oklahoma, USA",₹13.26L/Yr,₹11.19L/Yr
+1446, USA,"University of New Haven, West Haven","Connecticut, USA",₹36.2L/Yr,₹8.89L/Yr
+1447, USA,"Monmouth University, West Long Branch","New Jersey, USA",₹37.34L/Yr,₹7.1L/Yr
+1448, USA,"Westfield State University, Westfield","Massachusetts, USA",₹16.39L/Yr,₹9.43L/Yr
+1449, USA,"Midwestern State University, Wichita Falls","Texas, USA",₹17.58L/Yr,₹6.48L/Yr
+1450, USA,"Pennsylvania College of Technology, Williamsport","Pennsylvania, USA",₹19.29L/Yr,NA
+1451, USA,"Goldey-Beacom College, Wilmington","Delaware, USA",₹15.37L/Yr,₹7.26L/Yr
+1452, USA,"Widener University-Delaware Law School, Wilmington","Delaware, USA",₹21.66L/Yr,₹9.07L/Yr
+1453, USA,"Winona State University, Winona","Minnesota, USA",₹13.97L/Yr,₹11.06L/Yr
+1454, USA,"Full Sail University, Winter Park","Florida, USA",₹62.03L/Yr,₹10.09L/Yr
+1455, USA,"Becker College, Worcester","Massachusetts, USA",₹28.56L/Yr,₹9.01L/Yr
+1456, USA,"Worcester State University, Worcester","Massachusetts, USA",₹10.26L/Yr,₹7.56L/Yr
+1457, USA,"York College of Pennsylvania, York","Nebraska, USA",₹18.26L/Yr,₹5.72L/Yr
+1458, USA,"Youngstown State University, Youngstown","Ohio, USA",₹11.53L/Yr,NA
+1459, Germany,"Osnabruck University, Osnabruck","Lower Saxony, Germany",₹60.8K/Yr,NA
+1460, Germany,"Bauhaus University, Weimar","Thuringia, Germany",₹26.92L/Yr,NA
+1461, Germany,"Berlin University of the Arts, Berlin","Berlin, Germany",₹67K/Yr,NA
+1462, Malaysia,"University of Nottingham Malaysia, semenyih","Selangor, Malaysia",₹4.5L/Yr,NA
+1463, Sweden,"Malardalen University, Vasteras","Vastmanland, Sweden",₹9.24L/Yr,NA
+1464, Sweden,"University of Gavle, Gavle","Gavleborg, Sweden",₹10.54L/Yr,₹24.88L/Yr
+1465, Sweden,"University of Skovde, Skovde","Vastergotland, Sweden",₹5.47L/Yr,NA
+1466, Netherlands,"Maastricht School of Management, Maastricht","Limburg, Netherlands",₹16.08L/Yr,NA
+1467, Netherlands,"Breda University of Applied Sciences, Breda","North Brabant, Netherlands",₹11.23L/Yr,₹42.42L/Yr
+1468, Netherlands,"Royal Academy of Art, The Hague, The Hague","South Holland, Netherlands",₹6.72L/Yr,NA
+1469, UK,"Royal Central School of Speech & Drama, London","England, UK",₹21.12L/Yr,NA
+1470, UK,"Falmouth College of Arts, Falmouth","England, UK",₹18.87L/Yr,NA
+1471, UK,"Glasgow School of Art, Glasgow","Scotland, UK",₹26.58L/Yr,NA
+1472, UK,"Ravensbourne University London, London","England, UK",₹17.48L/Yr,NA
+1473, UK,"Royal Academy of Music, London","England, UK",₹27.85L/Yr,NA
+1474, UK,"Royal College of Art, London","England, UK",₹37.94L/Yr,₹30.64L/Yr
+1475, UK,"Royal College of Music, London","England, UK",₹29.04L/Yr,NA
+1476, USA,"Harvard Law School, Cambridge","Massachusetts, USA",₹67.19L/Yr,₹7.31L/Yr
+1477, Sweden,"Sodertorn University, Stockholm","Uppland, Sweden",₹10.66L/Yr,NA
+1478, Germany,"Frankfurt School of Finance & Management, Frankfurt am Main","Hesse, Germany",₹26.44L/Yr,₹13.49L/Yr
+1479, Netherlands,"United International Business Schools, Amsterdam","North Holland, Netherlands",₹25.89L/Yr,NA
+1480, Germany,"International School of Management, Dortmund","North Rhine-Westphalia, Germany",₹13.36L/Yr,NA
+1481, Germany,"Munich Business School, Munich","Bavaria, Germany",₹25.05L/Yr,NA
+1482, Germany,"ESMT Berlin, Berlin","Berlin, Germany",₹37.02L/Yr,NA
+1483, UK,"GCU London, London","England, UK",₹17.76L/Yr,NA
+1484, UK,"Glasgow School for Business and Society, Glasgow","Scotland, UK",₹17.42L/Yr,NA
+1485, UK,"College of Health and Social Care, University of Derby, Derby","England, UK",₹11.44L/Yr,NA
+1486, UK,"Henley Business School, Henley-on-Thames","England, UK",₹18.38L/Yr,NA
+1487, UK,"INTO University of Exeter, Exeter","England, UK",₹26.32L/Yr,₹15.58L/Yr
+1488, UK,"Lancaster University - Management School, Lancaster","England, UK",₹23.51L/Yr,NA
+1489, UK,"Loughborough University London, London","England, UK",₹30.43L/Yr,NA
+1490, UK,"Newcastle University Business School, Newcastle upon Tyne","England, UK",₹27.18L/Yr,₹1.14L/Yr
+1491, UK,"University of Derby Arts, Humanities and Education College, Derby","England, UK",₹16.29L/Yr,NA
+1492, UK,"University of London, London","England, UK",₹21.69L/Yr,NA
+1493, USA,"College of Engineering, Carnegie Mellon University, Pittsburgh","Pennsylvania, USA",₹49.11L/Yr,NA
+1494, USA,"College of Fine Arts, Carnegie Mellon University, Pittsburgh","Pennsylvania, USA",₹41.93L/Yr,NA
+1495, Australia,"Blue Mountains International Hotel Management School, Sydney","New South Wales, Australia",₹30.89L/Yr,NA
+1496, Canada,"Redekop School of Business, Winnipeg","Manitoba, Canada",₹11.66L/Yr,NA
+1497, Canada,"University of Moncton, Shippagan Campus, Moncton","Newbrunswick, Canada",₹8.69L/Yr,NA
+1498, Canada,"University of Moncton, Edmundston Campus, Moncton","Newbrunswick, Canada",₹8.69L/Yr,₹4.65L/Yr
+1499, Australia,"Engineering Institute of Technology, Perth","Western Australia, Australia",₹14.36L/Yr,₹29K/Yr
+1500, Australia,"James Cook University (Brisbane Campus), Brisbane","Queensland, Australia",₹7.2L/Yr,NA
+1501, Australia,"Kaplan Business School, Adelaide","South Australia, Australia",₹13.17L/Yr,₹72.6K/Yr
+1502, Australia,"S P Jain School of Global Management, Sydney","New South Wales, Australia",₹22.65L/Yr,NA
+1503, Australia,"Torrens University Australia, Adelaide","South Australia, Australia",₹25.96L/Yr,NA
+1504, Germany,"FH Aachen - University of Applied Sciences, Aachen","North Rhine-Westphalia, Germany",₹29.7L/Yr,NA
+1505, Germany,"Aalen University, Aalen","Baden-Wurttemberg, Germany",₹2.74L/Yr,₹88.9K/Yr
+1506, Germany,"Ansbach University of Applied Sciences, Ansbach","Bavaria, Germany",₹12.2K/Yr,NA
+1507, Germany,"IU, International University of Applied Sciences, Bad Honnef","North Rhine-Westphalia, Germany",₹4.53L/Yr,NA
+1508, Germany,"BBW University of Applied Sciences, Berlin","Berlin, Germany",₹6.82L/Yr,NA
+1509, Germany,"Berlin School of Business and Innovation, Berlin","Berlin, Germany",₹6.97L/Yr,NA
+1510, Germany,"Beuth University of Applied Sciences, Berlin","Berlin, Germany",NA,NA
+1511, Germany,"CODE University of Applied Sciences, Berlin","Berlin, Germany",₹11.58L/Yr,NA
+1512, Germany,"GISMA Business School, Hannover","Lower Saxony, Germany",₹12.67L/Yr,NA
+1513, Germany,"HTW Berlin-University of Applied Sciences, Berlin","Berlin, Germany",₹1.21L/Yr,NA
+1514, Germany,"Macromedia University of Applied Sciences, Munich","Bavaria, Germany",₹10.36L/Yr,NA
+1515, Germany,"SRH Hochschule Berlin, Berlin","Berlin, Germany",₹11.88L/Yr,NA
+1516, Germany,"Anhalt University of Applied Sciences, Bernburg","Saxony, Germany",₹45.7K/Yr,NA
+1517, Germany,"Biberach University of Applied Science, Biberach an der Riss","Baden-Wurttemberg, Germany",₹16.8K/Yr,NA
+1518, Germany,"Coburg University of Applied Sciences and Arts, Coburg","Bavaria, Germany",₹1.86L/Yr,NA
+1519, Germany,"Darmstadt University of Applied Sciences, Darmstadt","Hesse, Germany",₹1.67L/Yr,NA
+1520, Germany,"Deggendorf Institute of Technology, Deggendorf","Bavaria, Germany",₹91.4K/Yr,NA
+1521, Germany,"Dresden International University, Dresden","Saxony, Germany",₹6.22L/Yr,NA
+1522, Germany,"University of Erfurt, Erfurt","Thuringia, Germany",₹2.93L/Yr,₹35.5K/Yr
+1523, Germany,"FOM University of Applied Sciences, Essen","North Rhine-Westphalia, Germany",₹7.6L/Yr,NA
+1524, Germany,"Esslingen University of Applied Sciences, Esslingen am Neckar","Baden-Wurttemberg, Germany",₹2.18L/Yr,₹16.7K/Yr
+1525, Germany,"Flensburg University of Applied Sciences, Flensburg","Schleswig-Holstein, Germany",₹46.4K/Yr,₹32K/Yr
+1526, Germany,"Fulda University of Applied Sciences, Fulda","Hesse, Germany",₹54.8K/Yr,NA
+1527, Germany,"Furtwangen University, Furtwangen im Schwarzwald","Baden-Wurttemberg, Germany",₹11.38L/Yr,NA
+1528, Germany,"HafenCity University Hamburg, Hamburg","Hamburg, Germany",₹58.5K/Yr,NA
+1529, Germany,"Hamburg University of Applied Sciences, Hamburg","Hamburg, Germany",₹71.8K/Yr,NA
+1530, Germany,"Kuehne Logistics University, Hamburg","Hamburg, Germany",₹13.14L/Yr,NA
+1531, Germany,"West Coast University of Applied Sciences, Heide","Schleswig-Holstein, Germany",₹13.71L/Yr,₹5.3L/Yr
+1532, Germany,"Heilbronn University, Heilbronn","Baden-Wurttemberg, Germany",₹41.13L/Yr,NA
+1533, Germany,"Hof University of Applied Sciences, Hof","Bavaria, Germany",₹5.91L/Yr,NA
+1534, Germany,"Karlsruhe University of Applied Sciences, Karlsruhe","Baden-Wurttemberg, Germany",₹2.74L/Yr,₹25.3K/Yr
+1535, Germany,"Kempten University of Applied Sciences, Kempten im Allgau","Bavaria, Germany",₹1.39L/Yr,NA
+1536, Germany,"Kiel University of Applied Sciences, Kiel","Schleswig-Holstein, Germany",₹50.26L/Yr,NA
+1537, Germany,"Rhein-Waal University of Applied Sciences, Kleve","North Rhine-Westphalia, Germany",₹58.7K/Yr,₹2.22L/Yr
+1538, Germany,"Cologne Business School, Cologne","North Rhine-Westphalia, Germany",₹8.46L/Yr,NA
+1539, Germany,"Konstanz University of Applied Sciences, Konstanz","Baden-Wurttemberg, Germany",₹2.74L/Yr,NA
+1540, Germany,"Landshut University of Applied Sciences, Landshut","Bavaria, Germany",NA,NA
+1541, Germany,"Leipzig University of Applied Sciences, Leipzig","Saxony, Germany",₹64K/Yr,NA
+1542, Germany,"Ostwestfalen - Lippe University of Applied Sciences, Lemgo","North Rhine-Westphalia, Germany",₹30.5K/Yr,₹9.92L/Yr
+1543, Germany,"Luebeck University of Applied Sciences, Lubeck","Schleswig-Holstein, Germany",₹54.8K/Yr,NA
+1544, Germany,"Mainz University of Applied Sciences, Mainz","Rhineland-Palatinate, Germany",₹60.3K/Yr,NA
+1545, Germany,"Mannheim Business School, Mannheim","Baden-Wurttemberg, Germany",₹10.05L/Yr,NA
+1546, Germany,"Neu Ulm University of Applied Sciences, Neu-Ulm","Bavaria, Germany",₹2.74L/Yr,NA
+1547, Germany,"Muenster University of Applied Sciences, Munster","North Rhine-Westphalia, Germany",₹62.7K/Yr,NA
+1548, Germany,"Nurtingen-Geislingen University, Nurtingen","Baden-Wurttemberg, Germany",₹2.74L/Yr,NA
+1549, Germany,"Hochschule Pforzheim, Pforzheim","Baden-Wurttemberg, Germany",₹89.7K/Yr,NA
+1550, Germany,"Regensburg University of Applied Sciences, Regensburg","Bavaria, Germany",₹39.3K/Yr,₹22.3K/Yr
+1551, Germany,"Reutlingen University, Reutlingen","Baden-Wurttemberg, Germany",₹3.05L/Yr,NA
+1552, Germany,"Rosenheim Technical University of Applied Sciences, Rosenheim","Bavaria, Germany",₹15.5K/Yr,NA
+1553, Germany,"Saarland University of Applied Sciences, Saarbrucken","Saarland, Germany",₹54.1K/Yr,NA
+1554, Germany,"Stralsund University of Applied Sciences, Stralsund","Mecklenburg-Vorpommern, Germany",₹1.92L/Yr,₹9.4L/Yr
+1555, Germany,"EBS University, Oestrich-Winkel","Hesse, Germany",₹29.66L/Yr,₹12.83L/Yr
+1556, Germany,"Worms University of Applied Sciences, Worms","Rhineland-Palatinate, Germany",NA,NA
+1557, Netherlands,"The Hague University of Applied Sciences, The Hague","South Holland, Netherlands",₹16.54L/Yr,NA
+1558, UK,"Alliance Manchester Business School, Manchester","England, UK",₹29.56L/Yr,₹8.62L/Yr
+1559, UK,"Cranfield School of Management, Bedford","England, UK",₹26.89L/Yr,NA
+1560, UK,"Nottingham University Business School, Nottingham","England, UK",₹35.78L/Yr,₹1.64L/Yr
+1561, UK,"Regent's University London, London","England, UK",₹27.38L/Yr,₹11.28L/Yr
+1562, UK,"University College Birmingham, Birmingham","England, UK",₹15.09L/Yr,NA
+1563, UK,"University of Bolton, Bolton","England, UK",₹14.76L/Yr,₹14.71L/Yr
+1564, UK,"University of Buckingham, Buckingham","England, UK",₹20.39L/Yr,₹14.71L/Yr
+1565, UK,"Warwick Business School, Coventry","England, UK",₹35.65L/Yr,NA
+1566, Singapore,"Singapore Institute of Management, Singapore","Singapore, Singapore",₹11.06L/Yr,₹8.91L/Yr
+1567, USA,"Harvard Extension School, Cambridge","Massachusetts, USA",₹32.14L/Yr,NA
+1568, USA,"Harvard Kennedy School, Cambridge","Massachusetts, USA",₹52.68L/Yr,₹18.66L/Yr
+1569, Canada,"The Gerald Schwartz School of Business, Antigonish","Nova Scotia, Canada",₹6.98L/Yr,₹15.25L/Yr
+1570, Australia,"Australian Graduate School of Management, Kensington","New South Wales, Australia",₹17.25L/Yr,₹17.6L/Yr
+1571, Singapore,"National University of Singapore Business School, Singapore","Singapore, Singapore",₹23.44L/Yr,₹11.13L/Yr
+1572, UK,"Said Business School, Oxford","England, UK",₹54.89L/Yr,₹19.75L/Yr
+1573, UK,"Cambridge Judge Business School, Cambridge","England, UK",₹62.74L/Yr,₹74.55L/Yr
+1574, UK,"Imperial College Business School, London","England, UK",₹40.96L/Yr,₹11.93L/Yr
+1575, UK,"Durham University Business School, Durham","England, UK",₹36.85L/Yr,₹18.86L/Yr
+1576, UK,"Cass Business School, London","England, UK",₹26.62L/Yr,₹12.24L/Yr
+1577, USA,"Stanford Graduate School of Business, Stanford","California, USA",₹41.53L/Yr,₹18.15L/Yr
+1578, USA,"Harvard Business School, Boston","Massachusetts, USA",₹64.12L/Yr,NA
+1579, USA,"The Wharton School, Philadelphia","Pennsylvania, USA",₹49.75L/Yr,₹18.48L/Yr
+1580, USA,"MIT Sloan School of Management, Cambridge","Massachusetts, USA",₹60.15L/Yr,₹13.35L/Yr
+1581, USA,"Columbia Business School, New York City","New York, USA",₹51.28L/Yr,₹13.09L/Yr
+1582, USA,"Haas School of Business, Berkeley","California, USA",₹39.73L/Yr,₹12.63L/Yr
+1583, USA,"Yale School of Management, New Haven","Connecticut, USA",₹58.73L/Yr,₹15.12L/Yr
+1584, USA,"Kellogg School of Management, Evanston","Illinois, USA",₹47L/Yr,NA
+1585, USA,"Tuck School of Business, Hanover","New Hampshire, USA",₹70.63L/Yr,₹17.97L/Yr
+1586, USA,"The Fuqua School of Business, Durham","North Carolina, USA",₹54.51L/Yr,₹12.68L/Yr
+1587, USA,"Darden School of Business, Charlottesville","Virginia, USA",₹40.47L/Yr,₹13.73L/Yr
+1588, USA,"Stern School of Business, New York City","New York, USA",₹55.09L/Yr,₹10.04L/Yr
+1589, USA,"Anderson School of Management, Los Angeles","California, USA",₹42.42L/Yr,₹14.93L/Yr
+1590, USA,"Johnson Graduate School of Management, Ithaca","New York, USA",₹60.25L/Yr,₹11.23L/Yr
+1591, USA,"Ross School of Business, Ann Arbor","Michigan, USA",₹54.12L/Yr,₹12.07L/Yr
+1592, USA,"McDonough School of Business, Washington","District Of Columbia, USA",₹49.84L/Yr,₹8.87L/Yr
+1593, USA,"Tepper School of Business, Pittsburgh","Pennsylvania, USA",₹50.87L/Yr,₹16.31L/Yr
+1594, USA,"McCombs School of Business, Austin","Texas, USA",₹28.5L/Yr,₹17.67L/Yr
+1595, USA,"Goizueta Business School, Atlanta","Georgia, USA",₹54.84L/Yr,₹15.49L/Yr
+1596, USA,"Kelley School of Business, Bloomington","Indiana, USA",₹29.71L/Yr,NA
+1597, USA,"Marshall Business School, Los Angeles","California, USA",₹20.46L/Yr,₹13.67L/Yr
+1598, USA,"Foster School of Business, Seattle","Washington, USA",₹27.09L/Yr,NA
+1599, USA,"UNC Kenan-Flagler Business School, Chapel Hill","North Carolina, USA",₹39.99L/Yr,₹12.34L/Yr
+1600, USA,"Owen Graduate School of Management, Nashville","Tennessee, USA",₹60.23L/Yr,NA
+1601, USA,"Olin Business School, St. Louis","Missouri, USA",₹45.42L/Yr,NA
+1602, USA,"Mendoza College of Business, Notre Dame","Indiana, USA",₹52.82L/Yr,NA
+1603, USA,"Scheller College of Business, Atlanta","Georgia, USA",₹35.62L/Yr,NA
+1604, USA,"W. P. Carey School of Business, Tempe","Arizona, USA",₹36.84L/Yr,NA
+1605, USA,"Smeal College of Business, University Park","Pennsylvania, USA",₹35L/Yr,NA
+1606, USA,"Eli Broad College of Business, East Lansing","Michigan, USA",₹26.05L/Yr,NA
+1607, USA,"Questrom School of Business, Boston","Massachusetts, USA",₹58.09L/Yr,₹16.49L/Yr
+1608, USA,"Robert H. Smith School of Business, College Park","Maryland, USA",₹27L/Yr,NA
+1609, USA,"Krannert School of Management, West Lafayette","Indiana, USA",₹19.9L/Yr,NA
+1610, USA,"Wisconsin School of Business, Madison","Wisconsin, USA",₹34.62L/Yr,NA
+1611, USA,"Carlson School of Management, Minneapolis","Minnesota, USA",₹34.3L/Yr,NA
+1612, USA,"Simon Business School, Rochester","New York, USA",₹52.16L/Yr,₹11.36L/Yr
+1613, USA,"Fisher College of Business, Columbus","Ohio, USA",₹62.88L/Yr,₹11.53L/Yr
+1614, USA,"Cox School of Business, Dallas","Texas, USA",₹41.39L/Yr,NA
+1615, USA,"Mays Business School, College Station","Texas, USA",₹31.15L/Yr,NA
+1616, Ireland,"Smurfit Graduate Business School, Dublin","Dublin, Ireland",₹21.71L/Yr,₹9.15L/Yr
+1617, UK,"Leeds University Business School, Leeds","England, UK",₹29.86L/Yr,NA
+1618, UK,"School of Management, University of Bath, Bath","England, UK",₹31.07L/Yr,₹4.58L/Yr
+1619, USA,"School of Business, University of Connecticut, Storrs","Connecticut, USA",₹36.39L/Yr,₹16.41L/Yr
+1620, USA,"Rutgers Business School, Piscataway","New Jersey, USA",₹32.86L/Yr,₹8.58L/Yr
+1621, Canada,"Crandall University, Moncton","Newbrunswick, Canada",₹13.89L/Yr,NA
+1622, Australia,"Deakin Business School, Melbourne","Victoria, Australia",₹20.34L/Yr,₹3.91L/Yr
+1623, Australia,"The University of Sydney Business School, Sydney","New South Wales, Australia",₹27.76L/Yr,NA
+1624, Australia,"Sydney Business School, University of Wollongong, Wollongong","New South Wales, Australia",₹14.3L/Yr,NA
+1625, Australia,"Curtin Business School, Perth","Western Australia, Australia",₹17.53L/Yr,NA
+1626, Australia,"La Trobe Business School, Melbourne","Victoria, Australia",₹21.28L/Yr,₹1.86L/Yr
+1627, Australia,"School of Business, University of Western Australia, Perth","Western Australia, Australia",₹23.69L/Yr,NA
+1628, Australia,"College of Business and Economics, Australian National University, Canberra","Australian Capital Territory , Australia",₹26.21L/Yr,NA
+1629, Australia,"Macquarie Graduate School of Management, Sydney","New South Wales, Australia",₹24.71L/Yr,NA
+1630, Australia,"Bond Business School, Gold Coast","Queensland, Australia",₹22.98L/Yr,₹2.72L/Yr
+1631, Australia,"Victoria Graduate School of Business, Victoria University, Melbourne","Victoria, Australia",₹20.99L/Yr,₹16.26L/Yr
+1632, Ireland,"Dublin City University Business School, Dublin","Dublin, Ireland",₹16.03L/Yr,NA
+1633, Netherlands,"Nyenrode Business Universiteit, Breukelen","Utrecht, Netherlands",₹26.74L/Yr,NA
+1634, New-Zealand,"Otago Business School, Dunedin","South Island, New-Zealand",₹21.03L/Yr,NA
+1635, UK,"Strathclyde Business School, Glasgow","Scotland, UK",₹27.5L/Yr,₹22.39L/Yr
+1636, UK,"School of Business and Economics, Loughborough University, Loughborough","England, UK",₹16.2L/Yr,₹36.16L/Yr
+1637, UK,"Surrey Business School, Guildford","England, UK",₹26.35L/Yr,NA
+1638, UK,"Oxford Brookes Business School, Oxford","England, UK",₹20.63L/Yr,NA
+1639, UK,"Sheffield University Management School, Sheffield","England, UK",₹26.43L/Yr,₹17.53L/Yr
+1640, UK,"Middlesex University Business School, London","England, UK",₹20.31L/Yr,NA
+1641, UK,"Brunel Business School, London","England, UK",₹24.58L/Yr,₹3.91L/Yr
+1642, UK,"University of Exeter Business School, Exeter","England, UK",₹26.15L/Yr,NA
+1643, UK,"Aston Business School, Birmingham","England, UK",₹23.71L/Yr,₹12.73L/Yr
+1644, UK,"University of Liverpool Management School, Liverpool","England, UK",₹23.76L/Yr,NA
+1645, UK,"School of Management, University of Bradford, Bradford","England, UK",₹20.39L/Yr,NA
+1646, UK,"Southampton Business School, Southampton","England, UK",₹27.67L/Yr,NA
+1647, USA,"Foisie Business School, Worcester","Massachusetts, USA",₹38.2L/Yr,NA
+1648, USA,"Gatton College of Business and Economics, Lexington","Kentucky, USA",₹28.89L/Yr,NA
+1649, USA,"College of Business, Oregon State University, Corvallis","Oregon, USA",₹30.46L/Yr,NA
+1650, USA,"Trulaske College of Business, University of Missouri, Columbia","Missouri, USA",₹27.11L/Yr,NA
+1651, USA,"Sam M. Walton College of Business, Fayetteville","Arkansas, USA",₹21.24L/Yr,NA
+1652, USA,"Coles College of Business, Kennesaw State University, Kennesaw","Georgia, USA",₹26.09L/Yr,₹9.07L/Yr
+1653, USA,"Zicklin School of Business, New York City","New York, USA",₹14.16L/Yr,NA
+1654, USA,"College of Business and Economics, Lehigh University, Bethlehem","Pennsylvania, USA",₹41.96L/Yr,NA
+1655, USA,"College of Business, University of Michigan-Dearborn, Dearborn","Michigan, USA",₹51.12L/Yr,NA
+1656, USA,"Hough Graduate School of Business, Gainesville","Florida, USA",₹23.51L/Yr,NA
+1657, USA,"Beacom School of Business, Vermillion","South Dakota, USA",₹16.11L/Yr,NA
+1658, USA,"College of Business, Albany State University, Albany","Georgia, USA",₹14L/Yr,NA
+1659, USA,"Fox School of Business and Management, Philadelphia","Pennsylvania, USA",₹28.05L/Yr,NA
+1660, USA,"Alfred Lerner College of Business and Economics, The University of Delaware, Newark","Delaware, USA",₹34.86L/Yr,NA
+1661, USA,"Rady School of Management, La Jolla","California, USA",₹29.41L/Yr,NA
+1662, USA,"Weatherhead School of Management, Cleveland","Ohio, USA",₹40.01L/Yr,NA
+1663, USA,"Darla Moore School of Business, Columbia","South Carolina, USA",₹23.89L/Yr,NA
+1664, USA,"Sawyer Business School, Boston","Massachusetts, USA",₹37.17L/Yr,NA
+1665, USA,"A. Gary Anderson Graduate School of Management, Riverside","California, USA",₹15.55L/Yr,NA
+1666, USA,"College of Business, Northern Illinois University, DeKalb","Illinois, USA",₹18.08L/Yr,₹12.22L/Yr
+1667, USA,"Muma College of Business, University of South Florida, Tampa","Florida, USA",₹14.24L/Yr,NA
+1668, USA,"Carroll School of Management, Chestnut Hill","Massachusetts, USA",₹22.83L/Yr,NA
+1669, USA,"Neeley School of Business, Fort Worth","Texas, USA",₹38.72L/Yr,NA
+1670, USA,"Haub School of Business, Philadelphia","Pennsylvania, USA",₹38.38L/Yr,₹8.8L/Yr
+1671, USA,"Masagung Graduate School of Management, San Francisco","California, USA",₹32.47L/Yr,NA
+1672, USA,"Tobin College of Business, Jamaica","New York, USA",₹35.11L/Yr,NA
+1673, USA,"Jack Welch Management Institute, Herndon","Virginia, USA",₹38.43L/Yr,₹16.54L/Yr
+1674, USA,"College of Business, University of Texas at Arlington, Arlington","Texas, USA",₹23.17L/Yr,NA
+1675, USA,"Saunders College of Business, Rochester","New York, USA",₹47.95L/Yr,₹2.86L/Yr
+1676, USA,"Miami Business School, Coral Gables","Florida, USA",₹47.93L/Yr,NA
+1677, USA,"School of Business, Wake Forest University, Winston-Salem","North Carolina, USA",₹46.46L/Yr,NA
+1678, USA,"Golden Gate University, San Francisco","California, USA",₹19.53L/Yr,₹83.7K/Yr
+1679, Canada,"Booth University College, Winnipeg","Manitoba, Canada",₹8.06L/Yr,₹4.81L/Yr
+1680, Australia,"Murdoch Institute of Technology, Perth","Western Australia, Australia",₹17.22L/Yr,NA
+1681, Australia,"Australia Institute of Business and Technology, Brisbane","Queensland, Australia",₹7.13L/Yr,₹12.8K/Yr
+1682, Australia,"Curtin College, Perth","Western Australia, Australia",₹16.56L/Yr,₹3.91L/Yr
+1683, Australia,"La Trobe College, Melbourne","Victoria, Australia",₹19.19L/Yr,NA
+1684, Australia,"Macleay College, Sydney","New South Wales, Australia",₹11.75L/Yr,NA
+1685, Australia,"Sydney Institute of Business and Technology, Sydney","New South Wales, Australia",₹17.21L/Yr,NA
+1686, Australia,"UOW College, Wollongong","New South Wales, Australia",₹18.41L/Yr,NA
+1687, Australia,"Box Hill Institute, Melbourne","Victoria, Australia",₹9.68L/Yr,NA
+1688, USA,"California State University-Dominguez Hills, Carson","California, USA",₹9.99L/Yr,NA
+1689, Australia,"Monash College, Melbourne","Victoria, Australia",₹17.53L/Yr,NA
+1690, Ireland,"Waterford Institute of Technology, Waterford","Waterford, Ireland",₹9.52L/Yr,NA
+1691, Australia,"Asia Pacific International College, Sydney","New South Wales, Australia",₹21.43L/Yr,NA
+1692, Australia,"TAFE Queensland, South Bank","Queensland, Australia",₹11.04L/Yr,NA
+1693, Australia,"TAFE NSW, Sydney","New South Wales, Australia",₹8.26L/Yr,NA
+1694, Australia,"Sae Institute, South Bank","Queensland, Australia",₹11.81L/Yr,₹6.35L/Yr
+1695, Australia,"Deakin College, Melbourne","Victoria, Australia",₹18.27L/Yr,NA
+1696, Australia,"Excelsia College, Port Macquarie","New South Wales, Australia",₹11.68L/Yr,NA
+1697, Australia,"Holmes Institute (Cairns), Cairns","Queensland, Australia",₹6.98L/Yr,NA
+1698, Australia,"Griffith College, Southport","Queensland, Australia",₹3.91L/Yr,NA
+1699, Australia,"Holmes Institute - Melbourne, Melbourne","Victoria, Australia",₹16.77L/Yr,NA
+1700, Australia,"Melbourne Institute of Technology, Melbourne","Victoria, Australia",₹16.25L/Yr,₹8.06L/Yr
+1701, Australia,"Whitehouse Institute of Design, Sydney","New South Wales, Australia",₹39.39L/Yr,₹62.3K/Yr
+1702, Canada,"Acsenda School of Management, Vancouver","British Columbia, Canada",₹7.94L/Yr,NA
+1703, Canada,"Evergreen College, Toronto","Ontario, Canada",₹18.11L/Yr,₹22.5K/Yr
+1704, Canada,"Niagara College Canada Welland, Toronto","Ontario, Canada",₹11.34L/Yr,NA
+1705, Canada,"Oulton College, Moncton","Newbrunswick, Canada",NA,NA
+1706, Canada,"Vancouver Film School, Vancouver","British Columbia, Canada",₹22.68L/Yr,NA
+1707, Canada,"Brighton College, Burnaby","British Columbia, Canada",₹7.93L/Yr,₹99.4K/Yr
+1708, UK,"London School Of Business And Finance, London","England, UK",₹6.16L/Yr,₹4.26L/Yr
+1709, USA,"Concordia University Chicago, River Forest","Illinois, USA",₹25.52L/Yr,₹2.6K/Yr
+1710, Canada,"Cypress College, Medicine Hat","Alberta, Canada",₹10.03L/Yr,₹6.07L/Yr
+1711, USA,"Foothill College, Los Altos Hills","California, USA",₹10.71L/Yr,₹74.5K/Yr
+1712, Malaysia,"Monash University Malaysia, Subang Jaya","Selangor, Malaysia",₹9.49L/Yr,₹9.98L/Yr
+1713, Germany,"City University of Applied Sciences, Bremen","Bremen, Germany",₹34.7K/Yr,NA
+1714, Ireland,"Griffith College Dublin, Dublin","Dublin, Ireland",₹11.93L/Yr,NA
+1715, USA,"Thomas College, Waterville","Maine, USA",₹27.19L/Yr,₹13.08L/Yr
+1716, Canada,"Toronto School Of Management, Toronto","Ontario, Canada",₹8.37L/Yr,₹14.73L/Yr
+1717, USA,"New York University Tandon School of Engineering, Brooklyn","New York, USA",₹39.39L/Yr,₹6.8L/Yr
+1718, USA,"Nexford University, Washington","District Of Columbia, USA",₹1.35L/Yr,₹7.3K/Yr
+1719, Canada,"Trebas Institute, Montreal","Quebec, Canada",₹12.95L/Yr,₹43.7K/Yr
+1720, UK,"Amity University [IN], London","England, UK",₹16.89L/Yr,₹12.3K/Yr
+1721, UAE,"Amity University, Dubai","Dubai, UAE",₹5.62L/Yr,NA
+1722, UAE,"BITS Pilani, Dubai","Dubai, UAE",₹19.42L/Yr,NA
+1723, UAE,"University of Birmingham Dubai, Dubai","Dubai, UAE",₹5.36L/Yr,₹20.28L/Yr
+1724, UAE,"University of Wollongong Dubai, Dubai","Dubai, UAE",₹13.04L/Yr,₹1.69L/Yr
+1725, UAE,"Middlesex University Dubai, Dubai","Dubai, UAE",₹11.29L/Yr,NA
+1726, UAE,"Westford University College, Sharjah","Sharjah, UAE",₹2.42L/Yr,₹3.71L/Yr
+1727, Singapore,"Amity Global Institue, Singapore","Singapore, Singapore",₹4.89L/Yr,₹88.7K/Yr
+1728, UAE,"Manipal Academy of Higher Education, Dubai","Dubai, UAE",₹11.12L/Yr,₹2.1L/Yr
+1729, UAE,"IMT Business School Dubai, Dubai","Dubai, UAE",₹9.89L/Yr,NA
+1730, UAE,"Gulf Medical University, Ajman","Ajman, UAE",₹17.35L/Yr,NA
+1731, Canada,"Canadian College of Technology and Business, Vancouver","British Columbia, Canada",₹9.85L/Yr,NA
+1732, France,"EDHEC Business School, Lille","Hauts-De-France, France",₹24.79L/Yr,NA
+1733, France,"Neoma Business School, Paris","Ile-De-France, France",₹15.92L/Yr,₹21K/Yr
+1734, France,"EMLYON Business School, Lyon","Auvergne-Rhone-Alpes, France",₹11.61L/Yr,NA
+1735, France,"KEDGE Business School, Talence","New Aquitaine, France",₹6.17L/Yr,NA
+1736, France,"Ecole Polytechnique, Valence","Auvergne-Rhone-Alpes, France",₹14.75L/Yr,NA
+1737, France,"Paris School of Business, Paris","Ile-De-France, France",₹13.06L/Yr,₹6.95L/Yr
+1738, France,"Rennes School of Business, Valence","Auvergne-Rhone-Alpes, France",₹19.13L/Yr,NA
+1739, France,"Audencia Business School, Valence","Auvergne-Rhone-Alpes, France",₹22.49L/Yr,NA
+1740, France,"IESEG School of Management, Lille","Hauts-De-France, France",₹14.45L/Yr,NA
+1741, France,"INSEAD Business School, Evry","Ile-De-France, France",₹85.35L/Yr,₹14.53L/Yr
+1742, Canada,"Fairleigh Dickinson University, Vancouver","British Columbia, Canada",₹16.41L/Yr,NA
+1743, UAE,"De Montfort University, Dubai","Dubai, UAE",₹3.51L/Yr,₹82.3K/Yr
+1744, France,"Skema Business School, Paris","Ile-De-France, France",₹18.28L/Yr,NA
+1745, France,"IDRAC Business School, Paris","Ile-De-France, France",₹7.95L/Yr,NA
+1746, Grenada,"St. George’s University School of Medicine, Grenada, true blue","St. George'S, Grenada",₹23.16L/Yr,₹31.63L/Yr
+1747, Italy,"Accademia Costume e Moda, Rome","Lazio, Italy",₹18.8L/Yr,NA
+1748, Italy,"IULM University, Milan","Apulia, Italy",₹8.84L/Yr,NA
+1749, Italy,"Milano Fashion Institute, Milan","Apulia, Italy",₹15.36L/Yr,NA
+1750, Italy,"ALMA, The International School of Italian Cuisine, Parma","Abruzzo, Italy",₹8.31L/Yr,NA
+1751, USA,"Cornell Tech, Ithaca","New York, USA",₹58.77L/Yr,NA
+1752, Canada,"Niagara College Canada, Niagara on the Lake, Toronto","Ontario, Canada",₹12.81L/Yr,NA
+1753, Singapore,"James Cook University, Singapore","Singapore, Singapore",₹21.87L/Yr,NA
+1754, UK,"London Met University Online, London","England, UK",₹5.1L/Yr,NA
+1755, Hong-Kong,"The Hong Kong Polytechnic University, School of Design, Hung Hom","Hong Kong, Hong-Kong",₹22.62L/Yr,NA
+1756, Canada,"New York Institute of Technology - Vancouver Campus, Vancouver","British Columbia, Canada",₹38.43L/Yr,NA
+1757, New-Zealand,"Wellington Institute of Technology, Petone","North Island, New-Zealand",₹14.74L/Yr,NA
+1758, UK,"London Institute of Banking and Finance, London","England, UK",₹2.34L/Yr,NA
+1759, Singapore,"London School Of Business And Finance, Singapore","Singapore, Singapore",₹9.93L/Yr,NA
+1760, Germany,"University of Europe for Applied Sciences, Iserlohn","North Rhine-Westphalia, Germany",₹10.57L/Yr,NA
+1761, USA,"Westcliff University, Irvine","California, USA",₹17.2L/Yr,NA
+1762, Canada,"IBT College Business Travel and Tourism Technology, Toronto","Ontario, Canada",NA,NA
+1763, Canada,"Eton College, Vancouver","British Columbia, Canada",₹12.72L/Yr,NA
+1764, Canada,"TAV College, Montreal","Quebec, Canada",₹9.34L/Yr,NA
+1765, UK,"The University Of Law, Guildford","England, UK",₹16.26L/Yr,NA
+1766, Canada,"Canadian Institute of Management and Technology, Toronto","Ontario, Canada",NA,NA
+1767, Switzerland,"Rushford Business School, Lucerne","Lucerne, Switzerland",₹5.35L/Yr,NA
+1768, USA,"Herzing University, Milwaukee","Wisconsin, USA",₹16.55L/Yr,NA
+1769, Antigua-And-Barbuda,"Manipal's American University of Antigua, College of Medicine, Osbourn","Antigua, Antigua-And-Barbuda",₹17.04L/Yr,NA
+1770, UAE,"University of Bolton, Al Qusaidat","Ras Al Khaimah, UAE",₹6.6L/Yr,NA
