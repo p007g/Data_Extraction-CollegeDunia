@@ -83,7 +83,15 @@ try:
                     # ecd.getfees(f_college_link)
                     
                     # courses offered--
-                    ecd.getCourses(f_college_link)
+                    # ecd.getCourses(f_college_link)
+                    
+                    f_collegeFaculty_link = f'https://collegedunia.com{college_link}/faculty'
+                    
+                    # faculty details--
+                    if f_collegeFaculty_link:
+                        ecd.getFaculty(f_collegeFaculty_link)
+                    else:
+                        print("!!!!!!!!!!!!!!!!!")
                     
                     print("-------------------------------------------------------------------------------")
                     

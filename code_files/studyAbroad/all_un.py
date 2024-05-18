@@ -8,13 +8,12 @@ import numpy as np
 university_country = []
 university_name = []
 university_place = []
-tuition_fees = []
-living_fees = []
+fees = []
 top_course = []
 exam_score = []
 
 try:
-    for i in range(1, 40):
+    for i in range(1, 31):
         #------getting the URL request----
         user_agents_list = [
         'Mozilla/5.0 (X11; CrOS x86_64 10066.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -35,12 +34,13 @@ try:
         
         try:
         #---write code here---
-            universities = data.find('tbody', class_="jsx-1597785535").find_all('tr', class_="jsx-3255989801 automate_client_img_snippet")
+            universities = data.find('tbody', class_="jsx-4182613765").find_all('tr', class_="jsx-3255989801 automate_client_img_snippet")
 
 
             for university in universities:
                 
                 try:
+                    # 1st block--
                     university_info = university.find('span', class_="jsx-3255989801 flex-fill")
 
                     name = university_info.find('h3').text
@@ -49,41 +49,76 @@ try:
                     place = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text
                     university_place.append(place)
 
-                    country = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text.split(',')[1]
+                    country = university_info.find('span', class_="jsx-3255989801 text-gray text-md mr-2 text-capitalize").text.split(',')[1].strip()
                     university_country.append(country)
-
-                    tuition = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column")
-                    t = tuition.text.split()[1]
-                    if t.startswith("₹") and tuition is not None:
-                        tuition_fees.append(tuition.text.split()[1])
-                    else:
-                        tuition_fees.append('')
                     
-
-                    living = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column")
-                    l = living.text.split()[3]
-                    if l.startswith("₹") and living is not None:
-                        living_fees.append(living.text.split()[3])
-                    else:
-                        living_fees.append('')
+                    # 2nd block--
+                    tl_fee = university.find('span', class_="jsx-3255989801 col-fees d-flex flex-column")
+                    
+                    if tl_fee is not None:
+                        info = tl_fee.find_all('span', class_="jsx-3255989801 d-flex align-items-baseline mb-1 text-nowrap")
                         
+                        tab = {}
+                        for i in range(0, len(info)):
+                            
+                            cond = info[i].find('span', class_="jsx-3255989801 text-black ml-2").text.strip()
                     
-                    tc = university.find('span', class_="jsx-3255989801 d-flex flex-column justify-content-between")
-                    if tc is not None:
-                        top_course.append(tc.a.span.text.strip())
+                            stat = info[i].find('span', class_="jsx-3255989801 font-weight-bold text-success").text.strip()
+                        
+                            
+                            if cond == 'Tuition:':
+                                tab['Tuition'] = stat
+                                
+                            if cond == 'Living:':
+                                tab['Living'] = stat
+                                
+                                
+                        if not tab:
+                            fees.append("---")
+                        else:
+                            fees.append(tab)
+                            
                     else:
-                        top_course.append('')
+                        fees.append(None)
+                        
+                        
+                    # 3rd block
+                    tc = university.find('span', class_="jsx-3255989801 d-flex flex-column justify-content-between").find('a', class_="jsx-3255989801 text-black font-weight-medium text-lg mb-2")
+                    if tc is not None:
+                        top_course.append(tc.span.text.strip())
+                    else:
+                        top_course.append(None)
                     
                     try:
-                        scores = university.find('span', class_="jsx-3255989801 d-flex align-items-center").find_all('span', class_="jsx-3255989801 text-md d-flex align-items-center mr-2")
+                        span = university.find('span', class_="jsx-3255989801 d-flex align-items-center")
                         
-                        ns = []
-                        for score in scores:
-                            en = score.find('span', class_="jsx-3255989801 text-gray mr-1").text
-                            es = score.find('span', class_="jsx-3255989801 text-primary font-weight-bold").text
-                            ns.append(f'{en} - {es}')
-                        
-                        exam_score.append(ns)
+                        if span is not None:
+                            scores = span.find_all('span', class_="jsx-3255989801 text-md d-flex align-items-center mr-2")
+                            
+                            es = ""
+                            for i in range(0, len(scores)):
+                                
+                                exam_name = scores[i].find('span', class_="jsx-3255989801 text-gray mr-1").text.strip()
+                                score = float(scores[i].find('span', class_="jsx-3255989801 text-primary font-weight-bold").text.strip())
+                                
+                                es += f'{exam_name}- {score}, '
+                                
+                                
+                            exam_score.append(es.rstrip(", "))
+                            
+                            
+                            # ns = []
+                            # for score in scores:
+                                
+                            #     en = score.find('span', class_="jsx-3255989801 text-gray mr-1").text
+                            #     es = score.find('span', class_="jsx-3255989801 text-primary font-weight-bold").text
+                            #     ns.append(f'{en} - {es}')
+                                    
+                            
+                            # exam_score.append(ns)
+                            
+                        else:
+                            exam_score.append(None)
                         
                     except:
                         print('')
@@ -100,13 +135,12 @@ except Exception as e:
         
 try:        
     info = {
-        "Country":university_country,
-        "Universities Names":university_name, 
-        "University Place":university_place,
-        "Tuition Fees":tuition_fees,
-        "Living Fees":living_fees,
-        "Top Course":top_course,
-        "Exam Score":exam_score
+        "Country_Name":university_country,
+        "Universities_Name":university_name, 
+        "University_Place":university_place,
+        "Fees":fees,
+        "Top_Course":top_course,
+        "Exams_Score":exam_score
         }
 
     df = pd.DataFrame.from_dict(info, orient='index')
@@ -117,9 +151,15 @@ try:
 except Exception as e:
     print(e)
 
-# print(len(university_country), len(university_name), len(university_place), len(tuition_fees), len(living_fees))
-# print(df)
+
+# print(len(university_country), len(university_name), len(university_place), len(tuition_fees), len(top_course), len(exam_score))
+print(df)
+
 
 # Save to files------
-excel_file = 'Abroad Universities all Data.csv'
-df.to_csv(excel_file)
+
+json_file_path = f'Abroad Universities Data.json'
+df.to_json(json_file_path, orient='records')
+
+csv_file_path = f'Abroad Universities Data.csv'
+df.to_csv(csv_file_path, index=False)

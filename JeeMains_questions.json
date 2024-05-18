@@ -1,0 +1,281 @@
+[
+ {
+   "Question No.": 1,
+   "Question": "Which of the following is the primary fuel for nuclear fission reactors?",
+   "Option(A)": "Uranium-238",
+   "Option(B)": "Plutonium-239",
+   "Option(C)": "Uranium-235",
+   "Option(D)": "Thorium-232",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 2,
+   "Question": "What is the derivative of sin(x) with respect to x?",
+   "Option(A)": "cos(x)",
+   "Option(B)": "−sin(x)",
+   "Option(C)": "−cos(x)",
+   "Option(D)": "tan(x)",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 3,
+   "Question": "If the sequence ��=�2+�+1an​=n2+n+1 is an arithmetic sequence, what is n?",
+   "Option(A)": "1",
+   "Option(B)": "2",
+   "Option(C)": "0",
+   "Option(D)": "None of these",
+   "Answer": "D"
+ },
+ {
+   "Question No.": 4,
+   "Question": "Which compound exhibits sp2 hybridization?",
+   "Option(A)": "Methane",
+   "Option(B)": "Ethene",
+   "Option(C)": "Ammonia",
+   "Option(D)": "Water",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 5,
+   "Question": "Which gas is most commonly used in the floatation process in mining?",
+   "Option(A)": "Hydrogen",
+   "Option(B)": "Nitrogen",
+   "Option(C)": "Oxygen",
+   "Option(D)": "Carbon dioxide",
+   "Answer": "D"
+ },
+ {
+   "Question No.": 6,
+   "Question": "The sum of the first 50 natural numbers is:",
+   "Option(A)": "1250",
+   "Option(B)": "1275",
+   "Option(C)": "1300",
+   "Option(D)": "1325",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 7,
+   "Question": "What is the molecular formula of Benzene?",
+   "Option(A)": "C6H6",
+   "Option(B)": "C6H12",
+   "Option(C)": "C6H14",
+   "Option(D)": "C6H10",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 8,
+   "Question": "For a parallel plate capacitor with air between the plates, if the distance between the plates is halved, the capacitance will:",
+   "Option(A)": "Double",
+   "Option(B)": "Remain the same",
+   "Option(C)": "Half",
+   "Option(D)": "Quadruple",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 9,
+   "Question": "The number of valence electrons in an atom of Chlorine is:",
+   "Option(A)": "5",
+   "Option(B)": "7",
+   "Option(C)": "8",
+   "Option(D)": "10",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 10,
+   "Question": "Which of the following is NOT a colligative property?",
+   "Option(A)": "Boiling point elevation",
+   "Option(B)": "Freezing point depression",
+   "Option(C)": "Viscosity",
+   "Option(D)": "Osmotic pressure",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 11,
+   "Question": "The primary quantum number indicates which of the following?",
+   "Option(A)": "The shape of the orbital",
+   "Option(B)": "he size of the orbital",
+   "Option(C)": "The orientation of the orbital",
+   "Option(D)": "The spin of the electron",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 12,
+   "Question": "Which of these is an example of a heterogeneous mixture?",
+   "Option(A)": "Salt Water",
+   "Option(B)": "Air",
+   "Option(C)": "Sand and iron fillings",
+   "Option(D)": "Vinegar",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 13,
+   "Question": "The pH of a 0.01 M HCl solution is:",
+   "Option(A)": "1",
+   "Option(B)": "2",
+   "Option(C)": "3",
+   "Option(D)": "4",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 14,
+   "Question": "Which of these compounds is a strong electrolyte?",
+   "Option(A)": "Acetic acid",
+   "Option(B)": "Sodium chloride",
+   "Option(C)": "Ethanol",
+   "Option(D)": "Sugar",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 15,
+   "Question": "The maximum number of electrons that can occupy the third shell of an atom is:",
+   "Option(A)": "2",
+   "Option(B)": "8",
+   "Option(C)": "18",
+   "Option(D)": "32",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 16,
+   "Question": "Which law states that the volume of a given mass of gas held at constant pressure is directly proportional to its Kelvin temperature?",
+   "Option(A)": "Boyle's Law",
+   "Option(B)": "Charles' Law",
+   "Option(C)": "Gay-Lussac's Law",
+   "Option(D)": "Avogadro's Law",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 17,
+   "Question": "The angle between the two sp2 hybrid orbitals is:",
+   "Option(A)": "90 degrees",
+   "Option(B)": "109.5 degrees",
+   "Option(C)": "120 degrees",
+   "Option(D)": "180 degrees",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 18,
+   "Question": "What is the product of the reaction between sodium metal and water?",
+   "Option(A)": "Sodium hydroxide and hydrogen gas",
+   "Option(B)": "Sodium chloride and water",
+   "Option(C)": "Sodium carbonate and oxygen gas",
+   "Option(D)": "Sodium bicarbonate and hydrogen gas",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 19,
+   "Question": "A solution that resists changes in pH when small quantities of an acid or a base are added is called:",
+   "Option(A)": "A buffer",
+   "Option(B)": "A catalyst",
+   "Option(C)": "A solvent",
+   "Option(D)": "A reagent",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 20,
+   "Question": "The process by which plants make their food using sunlight, water, and carbon dioxide is called:",
+   "Option(A)": "Respiration",
+   "Option(B)": "Photosynthesis",
+   "Option(C)": "Transpiration",
+   "Option(D)": "Fermentation",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 21,
+   "Question": "Which mathematical concept is used to find the shortest path in networking or graph theory?",
+   "Option(A)": "Integration",
+   "Option(B)": "Differentiation",
+   "Option(C)": "Dijkstra's algorithm",
+   "Option(D)": "Pythagorean theorem",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 22,
+   "Question": "What is the molecular geometry of water (H2O)?",
+   "Option(A)": "Linear",
+   "Option(B)": "Bent",
+   "Option(C)": "Tetrahedral",
+   "Option(D)": "Octahedral",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 23,
+   "Question": "The electric resistance of a typical conducting wire is most affected by:",
+   "Option(A)": "The wire's color",
+   "Option(B)": "The wire's length and cross-sectional area",
+   "Option(C)": "The wire's material only",
+   "Option(D)": "The temperature of the environment only",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 24,
+   "Question": "Which force is responsible for the binding of protons and neutrons in a nucleus?",
+   "Option(A)": "Gravitational force",
+   "Option(B)": "Electromagnetic force",
+   "Option(C)": "Strong nuclear force",
+   "Option(D)": "Weak nuclear force",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 25,
+   "Question": "If a mirror produces an image that is virtual, upright, and enlarged, the mirror is most likely:",
+   "Option(A)": "Plane",
+   "Option(B)": "Convex",
+   "Option(C)": "Concave",
+   "Option(D)": "Sperical",
+   "Answer": "C"
+ },
+ {
+   "Question No.": 26,
+   "Question": "The primary purpose of the stomata in plant leaves is to:",
+   "Option(A)": "Absorb light",
+   "Option(B)": "Exchange gases",
+   "Option(C)": "Capture insects",
+   "Option(D)": "Store nutrients",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 27,
+   "Question": "What is the main product in the Fischer esterification reaction?",
+   "Option(A)": "An Alcohol",
+   "Option(B)": "An ester",
+   "Option(C)": "An acid",
+   "Option(D)": "A ketone",
+   "Answer": "B"
+ },
+ {
+   "Question No.": 28,
+   "Question": "A small toy starts moving from the position of rest under a constant acceleration. If it travels a distance of 10m in t s, the distance travelled by the toy in the next t s will be:",
+   "Option(A)": "10",
+   "Option(B)": "20",
+   "Option(C)": "30",
+   "Option(D)": "40",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 29,
+   "Question": "If temperature of a liquid is increased, choose the correct option regarding change in its surface tension and viscosity.",
+   "Option(A)": "Surface tension decreases while viscosity increases",
+   "Option(B)": "Surface tension increases while viscosity decreases",
+   "Option(C)": "Both increases",
+   "Option(D)": "Both decreases",
+   "Answer": "D"
+ },
+ {
+   "Question No.": 30,
+   "Question": "In the depression of freezing point experiment ",
+   "Option(A)": "Vapour pressure of the solution is less than that of pure solvent",
+   "Option(B)": "Vapour pressure of the solution is more than that of pure solvent ",
+   "Option(C)": "Only solute molecules solidify at the freezing point ",
+   "Option(D)": "Only solvent molecules solidify at the freezing point ",
+   "Answer": "A"
+ },
+ {
+   "Question No.": 31,
+   "Question": "In which of the following pairs of elements electron gain enthalpy difference is highest?",
+   "Option(A)": "Cl, Ar",
+   "Option(B)": "Cl, Ne",
+   "Option(C)": "F, Ar",
+   "Option(D)": "F, Ne",
+   "Answer": "B"
+ }
+]

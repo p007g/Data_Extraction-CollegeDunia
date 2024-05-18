@@ -7,9 +7,9 @@ import time
 from selenium import webdriver
 import each_college_details as ecd
 
-# clg_name = []
-# clg_location = []
-clg_detail = []
+clg_name = []
+clg_location = []
+# clg_detail = []
 logo_link = []
 
 
@@ -24,8 +24,18 @@ cService = webdriver.ChromeService(executable_path=path_to_chromedriver)
 driver = webdriver.Chrome(service = cService)
 
 # Open the web page
-state = 'goa-colleges'
-driver.get(f'https://collegedunia.com/{state}')
+
+# indian_states = ["andhra-pradesh", "arunachal-pradesh", "assam", "andaman-and-nicobar-islands", "bihar", "chandigarh", "chhattisgarh", 
+#                  "daman-and-diu", "delhi-ncr", "goa", "gujarat", "haryana", "himachal-pradesh", 
+#                  "jammu-and-kashmir", "jharkhand", "karnataka", "kerala", "madhya-pradesh", "maharashtra", "manipur", 
+#                  "meghalaya", "mizoram", "nagaland", "odisha", "punjab", "puducherry", "rajasthan", "sikkim", "tamil-nadu", 
+#                  "telangana", "tripura", "uttar-pradesh", "uttarakhand",
+#                  "west-bengal"]
+
+
+state = 'delhi-ncr'
+
+driver.get(f'https://collegedunia.com/{state}-colleges')
 
 
 # Wait for the dynamic content to load
@@ -72,16 +82,16 @@ try:
                 
                 name = cc.find('a', class_="jsx-1948362374 college_name underline-on-hover")
                 if name is not None:
-                    details['Name'] = name.find('h3').text.split(',')[0]
+                    clg_name.append(name.find('h3').text.split(',')[0])
                 
                 
                 loc = cc.find('span', class_="jsx-1948362374 pr-1 location")
                 if loc is not None:
-                    details['Location'] = loc.text.strip()
+                    clg_location.append(loc.text.strip())
                     
                     
-                if details:
-                    clg_detail.append(details)
+                # if details:
+                #     clg_detail.append(details)
                 
                 
                 #---link
@@ -107,8 +117,8 @@ driver.quit()
 
 try:        
     fields = {
-        "College Name and Place":clg_detail,
-        # "Place":clg_location,
+        "College Name":clg_name,
+        "Place":clg_location,
         "Logo Link":logo_link
         }
 
@@ -131,8 +141,6 @@ try:
 except Exception as e:
     print(e)
 
-# print(len(ecd.college_name), len(ecd.college_place), len(ecd.college_approval), len(ecd.college_establishment), len(ecd.college_universityType), len(ecd.college_rating), len(ecd.college_detail))
-# print(new_df)
 
 
 # Save to files------

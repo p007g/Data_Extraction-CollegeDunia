@@ -104,88 +104,101 @@ try:
         
             college_fees_eligibility.append(all_courses)
         else:
-            college_fees_eligibility.append("--------------")
+            college_fees_eligibility.append(None)
             
             
         
         # courses offered by colleges -----
         
-        course_cards = soup.find('div', class_="jsx-2596245605 course-card-list").find_all('div', class_="jsx-819542916 course-body page_center_body_listing bg-white my-4 mx-5")
+        cr_cards = soup.find('div', class_="jsx-2596245605 course-card-list")
         
-        college_courses = []
-        for course_card in course_cards:
-            each_course_details = {}
+        if cr_cards is not None:
             
-            # 1st row--
-            course_name = course_card.find('h3', class_="jsx-819542916 text-title text-lg font-weight-bold mb-0 pr-5")
-            if course_name is not None:
-                each_course_details['CN'] = course_name.text.strip()
-            else:
-                each_course_details['CN'] = ""
+            course_cards = cr_cards.find_all('div', class_="jsx-819542916 course-body page_center_body_listing bg-white my-4 mx-5")
+            college_courses = []
             
-            course_year = course_card.find('span', class_="jsx-819542916 year d-flex font-weight-medium text-sm mr-2")
-            if course_year is not None:
-                each_course_details['CY'] = course_year.text.strip()
-            else:
-                each_course_details['CY'] = ""
+            for course_card in course_cards:
+                each_course_details = {}
                 
+                # 1st row--
+                course_name = course_card.find('h3', class_="jsx-819542916 text-title text-lg font-weight-bold mb-0 pr-5")
+                if course_name is not None:
+                    each_course_details['Course Name'] = course_name.text.strip()
+                # else:
+                #     each_course_details['Course Name'] = ""
+                
+                course_year = course_card.find('span', class_="jsx-819542916 year d-flex font-weight-medium text-sm mr-2")
+                if course_year is not None:
+                    each_course_details['Course Duration'] = course_year.text.strip()
+                # else:
+                #     each_course_details['Course Duration'] = ""
+                    
 
-            
-            course_degree = course_card.find('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
-            if course_degree is not None:
-                each_course_details['CD'] = course_degree.text.strip()
-            else:
-                each_course_details['CD'] = ""
-            
-            course_grad = course_card.find('span', class_="jsx-819542916 graduation d-flex font-weight-medium text-sm mr-2 text-silver")
-            if course_grad is not None:
-                each_course_details['CG'] = course_grad.text.strip()
-            else:
-                each_course_details['CG'] = ""
-            
-            
-            course_time = course_card.find('span', class_="jsx-819542916 type d-flex font-weight-medium text-sm mr-2 text-college-link")
-            if course_time is not None:
-                each_course_details['CT'] = course_time.text.strip()
-            else:
-                each_course_details['CT'] = ""
-            
-            # 2nd row---
-            
-            course_rating = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base")
-            if course_rating is not None:
-                each_course_details['CR'] = course_rating.text.split('/')[0]
-            else:
-                each_course_details['CR'] = ""
+                
+                course_degree = course_card.find('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
+                if course_degree is not None:
+                    each_course_details['Course Degree'] = course_degree.text.strip()
+                # else:
+                #     each_course_details['Course Degree'] = ""
+                
+                course_grad = course_card.find('span', class_="jsx-819542916 graduation d-flex font-weight-medium text-sm mr-2 text-silver")
+                if course_grad is not None:
+                    each_course_details['Course Graduation'] = course_grad.text.strip()
+                # else:
+                #     each_course_details['Course Graduation'] = ""
                 
                 
-            # crated = course_card.p.find('span', class_="text-title")
-            # each_cd['CRText'] = crated.text.strip()
-            
-            exam_accept = course_card.find('p', class_="jsx-819542916 mb-2")
-            if exam_accept is not None:
-                each_course_details['EA'] = exam_accept.find('a', class_="jsx-819542916 font-weight-medium hover-underline").text.strip()
-            else:
-                each_course_details['EA'] = "-"
+                course_time = course_card.find('span', class_="jsx-819542916 type d-flex font-weight-medium text-sm mr-2 text-college-link")
+                if course_time is not None:
+                    each_course_details['Course Time'] = course_time.text.strip()
+                # else:
+                #     each_course_details['Course Time'] = ""
                 
-            
-            application_date = course_card.find('div', class_="jsx-819542916 course-details").find('span', class_="jsx-819542916 course-details-item-data text-title")
-            if application_date is not None:
-                each_course_details['AD'] = application_date.text.strip()
-            else:
-                each_course_details['AD'] = "-"
-            
-            
-            application_fees = course_card.find('div', class_="jsx-819542916 ml-auto fees text-silver text-right font-weight-medium text-md")
-            if application_fees is not None:
-                each_course_details['AF'] = application_fees.text.strip()
-            else:
-                each_course_details['AF'] = ""
+                # 2nd row---
                 
-            college_courses.append(each_course_details)        
-        
-        
-        courses_details.append(college_courses)
+                course_rating = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base")
+                if course_rating is not None:
+                    each_course_details['Course Rating'] = course_rating.text.split('/')[0]
+                # else:
+                #     each_course_details['Course Rated'] = ""
+                    
+                    
+                # crated = course_card.p.find('span', class_="text-title")
+                # each_cd['CRText'] = crated.text.strip()
+                
+                
+                course_review = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base").find('a', class_="jsx-819542916 text-base text-college-link")
+                if course_review is not None:
+                    each_course_details['Course Review'] = course_review.text.strip()
+                
+                
+                exam_accept = course_card.find('p', class_="jsx-819542916 mb-2")
+                if exam_accept is not None:
+                    each_course_details['Exam Accepted'] = exam_accept.find('a', class_="jsx-819542916 font-weight-medium hover-underline").text.strip()
+                # else:
+                #     each_course_details['Exam Accepted'] = "-"
+                    
+                
+                application_date = course_card.find('div', class_="jsx-819542916 course-details").find('span', class_="jsx-819542916 course-details-item-data text-title")
+                if application_date is not None:
+                    each_course_details['Application Date'] = application_date.text.strip()
+                # else:
+                #     each_course_details['Application Date'] = "-"
+                
+                
+                application_fees = course_card.find('div', class_="jsx-819542916 ml-auto fees text-silver text-right font-weight-medium text-md")
+                if application_fees is not None:
+                    each_course_details['Application Fees'] = application_fees.text.strip()
+                # else:
+                #     each_course_details['Application Fees'] = ""
+                    
+                college_courses.append(each_course_details)        
+            
+            
+            courses_details.append(college_courses)
+            
+        else:
+            courses_details.append(None)
         
 
         

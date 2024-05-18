@@ -143,29 +143,34 @@ def getCourses(co_link):
         course_degree = course_card.find('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
         if course_degree is not None:
             each_course_details['CD'] = course_degree.text.strip()
-        else:
-            each_course_details['CD'] = ""
+        # else:
+        #     each_course_details['CD'] = ""
         
         course_grad = course_card.find('span', class_="jsx-819542916 graduation d-flex font-weight-medium text-sm mr-2 text-silver")
         if course_grad is not None:
             each_course_details['CG'] = course_grad.text.strip()
-        else:
-            each_course_details['CG'] = ""
+        # else:
+        #     each_course_details['CG'] = ""
         
         
         course_time = course_card.find('span', class_="jsx-819542916 type d-flex font-weight-medium text-sm mr-2 text-college-link")
         if course_time is not None:
             each_course_details['CT'] = course_time.text.strip()
-        else:
-            each_course_details['CT'] = ""
+        # else:
+        #     each_course_details['CT'] = ""
         
         # 2nd row---
         
         course_rating = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base")
         if course_rating is not None:
             each_course_details['CR'] = course_rating.text.split('/')[0]
-        else:
-            each_course_details['CR'] = ""
+        # else:
+        #     each_course_details['CR'] = ""
+            
+            
+        course_review = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base").find('a', class_="jsx-819542916 text-base text-college-link")
+        if course_review is not None:
+            each_course_details['review'] = course_review.text.strip()
             
             
         # crated = course_card.p.find('span', class_="text-title")
@@ -174,28 +179,83 @@ def getCourses(co_link):
         exam_accept = course_card.find('p', class_="jsx-819542916 mb-2")
         if exam_accept is not None:
             each_course_details['EA'] = exam_accept.find('a', class_="jsx-819542916 font-weight-medium hover-underline").text.strip()
-        else:
-            each_course_details['EA'] = "-"
+        # else:
+        #     each_course_details['EA'] = "-"
             
         
         application_date = course_card.find('div', class_="jsx-819542916 course-details").find('span', class_="jsx-819542916 course-details-item-data text-title")
         if application_date is not None:
             each_course_details['AD'] = application_date.text.strip()
-        else:
-            each_course_details['AD'] = "-"
+        # else:
+        #     each_course_details['AD'] = "-"
         
         
         application_fees = course_card.find('div', class_="jsx-819542916 ml-auto fees text-silver text-right font-weight-medium text-md")
         if application_fees is not None:
             each_course_details['AF'] = application_fees.text.strip()
-        else:
-            each_course_details['AF'] = ""
+        # else:
+        #     each_course_details['AF'] = ""
             
             
         print(each_course_details)
+        
+        '''
+def getFaculty(faculty_link):
+    
+    soup = beautiful_soup.Soup(faculty_link)
+    
+    card = soup.find('div', class_="jsx-2968715513 detail card-body p-4")
+    
+    if card is not None:
+        head = {}
+        
+        head_name = card.find('span', class_="jsx-2968715513 name text-capitalize font-weight-bold text-lg text-primary d-block mb-1")
+        head_position = card.find('span', class_="jsx-2968715513 text-silver text-md font-weight-bold text-capitalize")
+        
+        if head_name is not None:
+            head['Head Name'] = head_name.text
+            
+        if head_position is not None:
+            head['Position'] = head_position.text
+        
+        print(head)
+        
+        other_faculties = soup.find('div', class_="jsx-2968715513 faculties pt-4").find_all('div', class_="jsx-2968715513 faculty-card d-flex align-items-start p-2")
+        
+        for f in other_faculties:
+            
+            f_details = {}
+            
+            f_name = f.find('h5', class_="jsx-2968715513 name text-success font-weight-bold text-capitalize mb-1")
+            if f_name is not None:
+                f_details['Name'] = f_name.text.strip()
+            
+            f_position = f.find('p', class_="jsx-2968715513 deprt text-primary font-weight-bold text-capitalize text-md mb-1")
+            if f_position is not None:
+                f_details['Position'] = f_position.text.strip()
+            
+            qual = f.find('span', class_="jsx-2968715513 text-silver")
+            if qual is not None:
+                f_details['Q'] = qual.text.strip()
+            
+            s_expertise = f.find('span', class_="jsx-2968715513 text-capitalize text-silver")
+            if s_expertise is not None:
+                f_details['SE'] = s_expertise.text.strip()
+            
+            email = f.find('p', class_="jsx-2968715513 email text-secondary font-weight-bold text-capitalize text-md mb-1 d-flex").find('span', class_="jsx-2968715513 text-silver text-lowercase")
+            if email is not None:
+                f_details['email'] = email.text.strip()
+                    
+                
+            print(f_details)
+            
+    else:
+        print("!!!!!!!!!!!!!!!!!!")
+    '''
 
 
 # -------------------Main Function------------
-# getCollegeDetails("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
+getCollegeDetails("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
 # getfees("https://collegedunia.com/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai")
-# getCourses("https://collegedunia.com/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai")=[]'
+getCourses("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
+# getFaculty("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad/faculty")

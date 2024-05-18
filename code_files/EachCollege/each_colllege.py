@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import timeit
 import time
+import csv
 from selenium import webdriver
 import each_college_details as ecd
 
@@ -18,8 +19,21 @@ driver = webdriver.Chrome(service = cService)
 
 
 # Open the web page
-state = 'sikkim-colleges'
-driver.get(f'https://collegedunia.com/{state}')
+# indian_states = ["andhra-pradesh"--, "arunachal-pradesh"--, "assam"--, "andaman-and-nicobar-islands"--, "bihar"--, "chandigarh"--, "chhattisgarh",-- 
+#                  "daman-and-diu",-- "delhi-ncr"--, "goa"--, "gujarat"--, "haryana"--, "himachal-pradesh", 
+#                  "jammu-and-kashmir", "jharkhand", "karnataka", "kerala", "madhya-pradesh", "maharashtra", "manipur", 
+#                  "meghalaya", "mizoram", "nagaland", "odisha", "punjab", "puducherry", "rajasthan", "sikkim", "tamil-nadu", 
+#                  "telangana", "tripura", "uttar-pradesh", "uttarakhand",
+#                  "west-bengal"]
+
+# states =["assam", "andaman-and-nicobar-islands"]
+
+
+# for state in states:
+state = "kerala"
+
+
+driver.get(f'https://collegedunia.com/{state}-colleges')
 
 
 # Wait for the dynamic content to load
@@ -35,7 +49,7 @@ try:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         
         # Wait for new content to load
-        time.sleep(4)
+        time.sleep(5)
         
         # Calculate new scroll height and compare with last scroll height
         new_height = driver.execute_script("return document.body.scrollHeight")
@@ -89,13 +103,13 @@ driver.quit()
 
 try:        
     fields = {
-        "College Name":ecd.college_name,
-        "Logo URL":ecd.college_logo,
-        "Upper Section Details":ecd.upper_section_details,
-        "College Rating":ecd.college_rating,
-        "College Summary":ecd.college_summary,
-        "Fees and Eligibility":ecd.college_fees_eligibility,
-        "Courses Details":ecd.courses_details
+        "College_Name":ecd.college_name,
+        "College_Logo":ecd.college_logo,
+        "Upper_Section_Details":ecd.upper_section_details,
+        "College_Rating":ecd.college_rating,
+        "College_Summary":ecd.college_summary,
+        "Fees_and_Eligibility":ecd.college_fees_eligibility,
+        "Courses_Details":ecd.courses_details
         }
 
     df = pd.DataFrame.from_dict(fields, orient='index')
@@ -105,20 +119,29 @@ try:
     # df = df.set_index('Sr-No')
     
     
-    
+        
     chunk_size = 300  # Adjust the number of rows per file as needed
     num_chunks = len(df) // chunk_size + (1 if len(df) % chunk_size else 0)
 
     for i in range(num_chunks):
         new_df = df[i*chunk_size:(i+1)*chunk_size]
-        new_df.to_csv(f'extracted_files\statewise_colleges\{state}_data_{i+1}_12.csv', index=False)
+        
+        # csv_file_path = f'extracted_files\statewise_colleges\{state}_data_{i+1}.csv'
+        # new_df.to_csv(csv_file_path, index=False)
+        
+        json_file_path = f'extracted_files\States_chunks_Data\{state}_data_{i+1}.json'
+        new_df.to_json(json_file_path, orient='records')
+        
+    # json_file_path = f'extracted_files\state_colleges\{state}_data.json'
+    # df.to_json(json_file_path, orient='records')
+        
         
     
 except Exception as e:
     print(e)
 
 # print(len(ecd.college_name), len(ecd.college_place), len(ecd.college_approval), len(ecd.college_establishment), len(ecd.college_universityType), len(ecd.college_rating), len(ecd.college_detail))
-print(new_df)
+print(df)
 
 
 # Save to files------

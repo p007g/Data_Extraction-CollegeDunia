@@ -1,0 +1,51 @@
+Country_Name,Universities_Name,University_Place,Fees,Top_Course,Exams_Score
+Uk,"University of Oxford, Oxford","England, Uk",---,M.Sc Advanced Computer Science,"GRE- 314.0, TOEFL- 100.0, PTE- 66.0"
+Usa,"Stanford University, Stanford","California, Usa",---,M.B.A,"GMAT- 730.0, TOEFL- 113.0, PTE- 68.0"
+Usa,"Massachusetts Institute of Technology, Cambridge","Massachusetts, Usa",---,M.B.A,"GRE- 311.0, TOEFL- 90.0"
+Usa,"Harvard University, Cambridge","Massachusetts, Usa",---,M.S Data Science,"GRE- 292.0, TOEFL- 100.0"
+Uk,"University of Cambridge, Cambridge","England, Uk",---,M.B.A,"GMAT- 630.0, TOEFL- 110.0"
+Usa,"Princeton University, Princeton","New Jersey, Usa",---,M.S Computer Science,"GRE- 298.0, TOEFL- 100.0"
+Usa,"California Institute of Technology, Pasadena","California, Usa",---,M.S Computer Science,"GRE- 296.0, TOEFL- 110.0"
+Uk,"Imperial College London, London","England, Uk",---,M.Sc Finance,"Duolingo- 125.0, TOEFL- 100.0"
+Usa,"University of California, Berkeley","California, Usa",---,M.S Computer Science,"IELTS- 7.0, PTE- 54.0"
+Usa,"Yale University, New Haven","Connecticut, Usa",---,M.S Statistics and Data Science,"GRE- 322.0, IELTS- 7.0, PTE- 70.0"
+Switzerland,"ETH Zurich, Zurich","Zurich, Switzerland",---,M.S Computer Science,"TOEFL- 100.0, PTE- 68.0"
+Usa,"University of Chicago, Chicago","Illinois, Usa",---,M.S Analytics,TOEFL- 102.0
+Usa,"Johns Hopkins University, Baltimore","Maryland, Usa",---,M.B.A Healthcare Organizational ...,"GRE- 314.0, TOEFL- 100.0"
+Usa,"University of Pennsylvania, Philadelphia","Pennsylvania, Usa",---,M.S Engineering - Data Science,"Duolingo- 135.0, TOEFL- 100.0"
+Usa,"Columbia University, New York City","New York, Usa",---,M.S Data Science,"GRE- 326.0, TOEFL- 101.0"
+Usa,"University of California, Los Angeles","California, Usa",---,M.S Computer Science,"GRE- 315.0, IELTS- 7.0"
+Singapore,"National University of Singapore, Singapore","Singapore, Singapore",---,M.Sc. Data Science and Machine L...,TOEFL- 85.0
+Usa,"Cornell University, Ithaca","New York, Usa",---,M.B.A,"GMAT- 710.0, IELTS- 7.0"
+Canada,"University of Toronto, Toronto","Ontario, Canada",---,M.S Computer Science,TOEFL- 93.0
+Uk,"University College London, London","England, Uk",---,M.B.A,"Duolingo- 115.0, IELTS- 6.5, PTE- 75.0"
+Usa,"University of Michigan, Ann Arbor","Michigan, Usa",---,M.S Data Science,IELTS- 6.5
+Usa,"Carnegie Mellon University, Pittsburgh","Pennsylvania, Usa",---,M.S Computer Science,IELTS- 7.5
+Usa,"University of Washington, Seattle","Washington, Usa",---,M.S Data Science,"Duolingo- 125.0, TOEFL- 106.0"
+Usa,"Duke University, Durham","North Carolina, Usa",---,Master Interdisciplinary Data Sc...,"Duolingo- 115.0, IELTS- 7.0"
+Usa,"New York University, New York City","New York, Usa",---,M.S Data Science,TOEFL- 100.0
+Usa,"Northwestern University, Evanston","Illinois, Usa",---,M.S Project Management,IELTS- 7.0
+Germany,"Technical University Munich, Munich","Bavaria, Germany",---,M.Sc. Computational Science and ...,"TOEFL- 88.0, PTE- 65.0"
+Uk,"University of Edinburgh, Edinburgh","Scotland, Uk",---,M.Sc Data Science,"IELTS- 7.0, PTE- 70.0"
+Singapore,"Nanyang Technological University, Singapore","Singapore, Singapore",---,M.B.A,"GMAT- 660.0, IELTS- 6.0, PTE- 55.0"
+Usa,"University of California, San Diego","California, Usa",---,M.S Data Science,"IELTS- 7.0, PTE- 65.0"
+Hong Kong,"The University of Hong Kong, Pokfulam","Hong Kong, Hong Kong",---,M.S Computer Science,"IELTS- 6.5, PTE- 64.0"
+Usa,"Georgia Institute of Technology, Atlanta","Georgia, Usa",---,M.S Computer Science,IELTS- 7.5
+Australia,"University of Melbourne, Melbourne","Victoria, Australia",---,M.B.A,"GMAT- 560.0, TOEFL- 94.0, PTE- 65.0"
+Germany,"Ludwig Maximilian University of Munich, Munich","Bavaria, Germany",---,M.S Data Science,IELTS- 5.5
+Uk,"King's College London, London","England, Uk",---,L.L.M,"IELTS- 7.5, PTE- 75.0"
+Canada,"The University of British Columbia, Vancouver","British Columbia, Canada",---,M.S Computer Science,"IELTS- 6.5, PTE- 65.0"
+Usa,"University of Illinois, Urbana","Illinois, Usa",---,M.S Computer Science,TOEFL- 104.0
+Uk,"London School of Economics and Political Science, London","England, Uk",---,L.L.M,"IELTS- 7.5, PTE- 69.0"
+Germany,"Heidelberg University, Heidelberg","Baden-Wurttemberg, Germany",---,M.S Computer Engineering,IELTS- 6.5
+Netherlands,"Delft University of Technology, Delft","South Holland, Netherlands",---,"M.S Architecture, Urbanism and B...",TOEFL- 90.0
+Canada,"McGill University, Montreal","Quebec, Canada",---,M.S Computer Science,"GRE- 300.0, IELTS- 6.5"
+Sweden,"Karolinska Institute, Stockholm","Uppland, Sweden",---,M.S Bioentrepreneurship,"IELTS- 6.5, PTE- 62.0"
+Uk,"The University of Manchester, Manchester","England, Uk",---,M.B.A,"GMAT- 550.0, IELTS- 6.5, PTE- 59.0"
+Usa,"University of Texas, Austin","Texas, Usa",---,M.S Computer Science,"GRE- 316.0, IELTS- 6.5"
+Hong Kong,"Chinese University of Hong Kong, Shatin","Hong Kong, Hong Kong",---,M.B.A,TOEFL- 79.0
+Australia,"Monash University, Melbourne","Victoria, Australia",---,M.B.A,"GMAT- 650.0, TOEFL- 79.0, PTE- 58.0"
+Usa,"University of California, Davis","California, Usa",---,M.S Business Analytics,TOEFL- 100.0
+Australia,"The University of Sydney, Sydney","New South Wales, Australia",---,M.S Data Science,"IELTS- 6.5, PTE- 61.0"
+Netherlands,"University of Amsterdam, Amsterdam","North Holland, Netherlands",---,M.B.A,"GMAT- 680.0, TOEFL- 92.0"
+Usa,"University of Wisconsin, Madison","Wisconsin, Usa",---,M.S Biomedical Data Science,IELTS- 6.5
