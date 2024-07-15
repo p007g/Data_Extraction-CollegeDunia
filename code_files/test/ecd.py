@@ -110,55 +110,53 @@ def getCourses(co_link):
     
     soup = beautiful_soup.Soup(co_link)
     
-    course_cards = soup.find('div', class_="jsx-2596245605 course-card-list").find_all('div', class_="jsx-819542916 course-body page_center_body_listing bg-white my-4 mx-5")
+    course_cards = soup.find('section').find_all('div', class_="jsx-1671751200 course-card border border-gray-5 rounded-8 p-4 mt-4")
+    # print(course_cards)
     
     for course_card in course_cards:
-        each_course_details = {}
+        each_course_details = {'CN': "", 'CY': "", 'CT': ""}
         
         # 1st row--
-        course_name = course_card.find('h3', class_="jsx-819542916 text-title text-lg font-weight-bold mb-0 pr-5")
+        course_name = course_card.find('div', class_="jsx-1671751200 course-detail d-flex justify-content-between")
         if course_name is not None:
-            each_course_details['CN'] = course_name.text.strip()
-        else:
-            each_course_details['CN'] = ""
-        
-        course_year = course_card.find('span', class_="jsx-819542916 year d-flex font-weight-medium text-sm mr-2")
-        if course_year is not None:
-            each_course_details['CY'] = course_year.text.strip()
-        else:
-            each_course_details['CY'] = ""
-        
-        # i=0
-        # cdcs = course_card.find_all('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
-        
-        # for cdc in cdcs:
-        #     i+=1
-            
-        #     if cdc.find('span', class_="jsx-819542916 mr-1 icon book-svg course-info-svg-list"):
-        #         each_cd['CD'] = cdc.text.strip()
-        #     if cdc.find('span', class_="jsx-819542916 mr-1 icon campus-svg course-info-svg-list"):
-        #         each_cd['CC'] = cdc.text.strip()
+            each_course_details['CN'] = course_name.a.text.strip()
 
         
-        course_degree = course_card.find('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
-        if course_degree is not None:
-            each_course_details['CD'] = course_degree.text.strip()
-        # else:
-        #     each_course_details['CD'] = ""
+        course_year = course_card.find('div', class_="jsx-1671751200 fs-14 font-weight-normal text-dark-grey d-flex")
+        if course_year is not None:
+            
+            sp = course_year.find_all('span', class_="jsx-1671751200 course-separater pl-3 ml-2 position-relative")
+            for s in sp:
+                txt = s.text.strip()
+                # print(txt)
+                if "years" and "year" in txt.lower():
+                    each_course_details['CY'] = txt
+                    
+                elif "time" in txt.lower():
+                    each_course_details['CT'] = txt
+
         
-        course_grad = course_card.find('span', class_="jsx-819542916 graduation d-flex font-weight-medium text-sm mr-2 text-silver")
-        if course_grad is not None:
-            each_course_details['CG'] = course_grad.text.strip()
-        # else:
-        #     each_course_details['CG'] = ""
+    #     course_degree = course_card.find('span', class_="jsx-819542916 degree d-flex font-weight-medium text-sm mr-2")
+    #     if course_degree is not None:
+    #         each_course_details['CD'] = course_degree.text.strip()
+    #     # else:
+    #     #     each_course_details['CD'] = ""
+        
+    #     course_grad = course_card.find('span', class_="jsx-819542916 graduation d-flex font-weight-medium text-sm mr-2 text-silver")
+    #     if course_grad is not None:
+    #         each_course_details['CG'] = course_grad.text.strip()
+    #     # else:
+    #     #     each_course_details['CG'] = ""
         
         
-        course_time = course_card.find('span', class_="jsx-819542916 type d-flex font-weight-medium text-sm mr-2 text-college-link")
-        if course_time is not None:
-            each_course_details['CT'] = course_time.text.strip()
-        # else:
-        #     each_course_details['CT'] = ""
+    #     course_time = course_card.find('span', class_="jsx-819542916 type d-flex font-weight-medium text-sm mr-2 text-college-link")
+    #     if course_time is not None:
+    #         each_course_details['CT'] = course_time.text.strip()
+    #     # else:
+    #     #     each_course_details['CT'] = ""
+        print(each_course_details)
         
+'''
         # 2nd row---
         
         course_rating = course_card.find('p', class_="jsx-819542916 m-0 text-primary font-weight-medium text-base")
@@ -196,10 +194,10 @@ def getCourses(co_link):
         # else:
         #     each_course_details['AF'] = ""
             
-            
-        print(each_course_details)
+        '''    
+        # print(each_course_details)
         
-        '''
+'''
 def getFaculty(faculty_link):
     
     soup = beautiful_soup.Soup(faculty_link)
@@ -255,7 +253,7 @@ def getFaculty(faculty_link):
 
 
 # -------------------Main Function------------
-getCollegeDetails("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
+# getCollegeDetails("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
 # getfees("https://collegedunia.com/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai")
-getCourses("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
+# getCourses("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
 # getFaculty("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad/faculty")

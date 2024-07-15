@@ -36,17 +36,18 @@ try:
         
         try:
         #---write code here---
-            blocks = data.find('div', class_="jsx-3117672527 row px-0 gap-14").find_all('div', class_="jsx-3117672527 col-12")
+            blocks = data.find('div', class_="jsx-3067688746 row px-0 gap-14").find_all('div', class_="jsx-3067688746 col-12")
+            # print(blocks)
             
             for block in blocks:
-            
-                link = block.find('div', class_="jsx-2127947714 cover-image")
+                # print(block)
+                link = block.find('div', class_="jsx-1986188473 cover-image position-relative")
                 # print(link)
                 
                 if link is not None:
                     institute_link = link.find('a').get('href')
                     f_institute_link = f'https://collegedunia.com{institute_link}'
-                    print(f_institute_link)
+                    # print(f_institute_link)
                     
                     # finder course details @link---
                     id.getInstituteDetails(f_institute_link)
@@ -55,10 +56,10 @@ try:
                     # ecd.getfees(f_college_link)
                     
                     
-                centres = block.find('div', class_="jsx-2127947714 centers d-flex")
+                centres = block.find('div', class_="jsx-1986188473 centers d-flex")
                 
                 if centres is not None:
-                    cn = centres.find('span', class_="jsx-2127947714 text-dark f-14 lh-20 font-weight-medium mx-1").text
+                    cn = centres.find('span', class_="jsx-1986188473 text-dark f-14 lh-20 font-weight-medium mx-1").text
                     print(cn)
                 
                 

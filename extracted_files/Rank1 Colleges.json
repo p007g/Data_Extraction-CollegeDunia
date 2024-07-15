@@ -1,0 +1,233 @@
+[
+ {
+   "Stream": "Management",
+   "College Name": "IIMA - Indian Institute of Management, Ahmedabad",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1701684988Screenshot20231204at3.46.10PM.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25494_IIMA_AppImage.jpg?h=240&w=1000&mode=crop",
+   "Location": "Ahmedabad, Gujarat",
+   "Affiliation": "Autonomous University",
+   "Rating": 4.5,
+   "Course": "PGPM",
+   "Fees": "₹25 Lakhs (Total Fees)"
+ },
+ {
+   "Stream": "Science",
+   "College Name": "St Stephen's College, New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/14919074881412841375Logo.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/14919074884953SSCNew.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "DU, New Delhi",
+   "Rating": 4.4,
+   "Course": "B.Sc {Hons.}",
+   "Fees": "₹24,670 (1st Year Fees)"
+ },
+ {
+   "Stream": "Engineering",
+   "College Name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1509430807cover.jpg?h=240&w=1000&mode=crop",
+   "Location": "Chennai, Tamil Nadu",
+   "Affiliation": "Autonomous University",
+   "Rating": 4.2,
+   "Course": "B.Tech",
+   "Fees": "₹2.15 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Arts",
+   "College Name": "Lady Shri Ram College for Women - [LSR], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "DU, New Delhi",
+   "Rating": 4.3,
+   "Course": "BA {Hons.}",
+   "Fees": "₹19,170 (1st Year Fees)"
+ },
+ {
+   "Stream": "Commerce",
+   "College Name": "Shri Ram College of Commerce - [SRCC], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/14916429701410765919srcclogo.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/4417_SRCC_New.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "DU, New Delhi",
+   "Rating": 4.4,
+   "Course": "B.Com {Hons.}",
+   "Fees": "₹29,350 (1st Year Fees)"
+ },
+ {
+   "Stream": "Computer Applications",
+   "College Name": "Christ University, Bangalore",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1505110433fvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1505110380ccaaaaaaaaaaaaaaaaaammmmmmmmmmmm.jpg?h=240&w=1000&mode=crop",
+   "Location": "Bangalore, Karnataka",
+   "Affiliation": "Deemed To Be University",
+   "Rating": 4.1,
+   "Course": "B.Sc",
+   "Fees": "₹84,000 (1st Year Fees)"
+ },
+ {
+   "Stream": "Education",
+   "College Name": "Lady Shri Ram College for Women - [LSR], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "DU, New Delhi",
+   "Rating": 4.2,
+   "Course": "BA {Hons.}",
+   "Fees": "₹19,170 (1st Year Fees)"
+ },
+ {
+   "Stream": "Madical",
+   "College Name": "All India Institute of Medical Sciences - [AIIMS], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/149154157555.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1507714139ccccccccccccccccccccccccccccccc.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "Autonomous University",
+   "Rating": 4.2,
+   "Course": "M.B.B.S. ",
+   "Fees": "₹1,628 (1st Year Fees)"
+ },
+ {
+   "Stream": "Pharmacy",
+   "College Name": "Jamia Hamdard University, New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1491828362col32795.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25459_JAMIAHAMDARD_APP.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "Deemed To Be University",
+   "Rating": 4.2,
+   "Course": "MBBS",
+   "Fees": "₹9.91 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Paramedical",
+   "College Name": "Christian Medical College - [CMC], Vellore",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1458024878logo.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/10343_CMC_New.jpg?h=240&w=1000&mode=crop",
+   "Location": "Vellore, Tamil Nadu",
+   "Affiliation": "TNMGRMU, Chennai",
+   "Rating": 4.4,
+   "Course": "MBBS",
+   "Fees": "₹41,895 (1st Year Fees)"
+ },
+ {
+   "Stream": "Law",
+   "College Name": "National Law School of India University - [NLSIU], Bangalore",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1411995789Capture3211.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25621_NLSIU.jpg?h=240&w=1000&mode=crop",
+   "Location": "Bangalore, Karnataka",
+   "Affiliation": "State University",
+   "Rating": 4.4,
+   "Course": "L.L.M",
+   "Fees": "₹4.13 Lakhs (Total Fees)"
+ },
+ {
+   "Stream": "Mass Communications",
+   "College Name": "Indian Institute of Mass Communication - [IIMC], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/14926834051425458817ascd4trgdgfcvgthumammta.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/14926834051443518270IIMCNEW.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "Deemed To Be University",
+   "Rating": 4,
+   "Course": "Post Graduate Diploma ",
+   "Fees": "₹55,500 (Total Fees)"
+ },
+ {
+   "Stream": "Design",
+   "College Name": "National Institute of Fashion Technology - [NIFT], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1412068623h_logo.gif?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/27897_NIFT_New.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "Autonomous University",
+   "Rating": 4,
+   "Course": "B.Des",
+   "Fees": "₹3.26 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Vocational Courses",
+   "College Name": "TISS Tata Institute of Social Sciences, Mumbai",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1450952592Untitled.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25729_TISS_APP.jpg?h=240&w=1000&mode=crop",
+   "Location": "Mumbai, Maharashtra",
+   "Affiliation": "Deemed To Be University",
+   "Rating": 4,
+   "Course": "M.H.A [Hospital]",
+   "Fees": "₹79,000 (1st Year Fees)"
+ },
+ {
+   "Stream": "Hotel Management",
+   "College Name": "Institute of Hotel Management, Catering and Nutrition - [IHM], Pusa, New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1492751950121.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/14927519501445245152IHMPUSANEW.jpg?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "IGNOU, New Delhi",
+   "Rating": 4.1,
+   "Course": "Bachelor of Science [B.Sc] (Hospitality and Hotel Administration) ",
+   "Fees": "₹1.52 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Agriculture",
+   "College Name": "Indian Agricultural Research Institute - [IARI], New Delhi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=240&w=1000&mode=crop",
+   "Location": "New Delhi, Delhi NCR",
+   "Affiliation": "Deemed To Be University",
+   "Rating": 4.4,
+   "Course": "Master of Science [M.Sc] ",
+   "Fees": "₹43,150 (1st Year Fees)"
+ },
+ {
+   "Stream": "Architecture",
+   "College Name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1489041138e2.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1488973535e1.jpg?h=240&w=1000&mode=crop",
+   "Location": "Kharagpur, West Bengal",
+   "Affiliation": "Autonomous University",
+   "Rating": 4.3,
+   "Course": "B.Tech",
+   "Fees": "₹2.26 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Animation",
+   "College Name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25703_IIT_New.jpg?h=240&w=1000&mode=crop",
+   "Location": "Mumbai, Maharashtra",
+   "Affiliation": "Autonomous University",
+   "Rating": 4.4,
+   "Course": "B.Tech",
+   "Fees": "₹2.31 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Dental",
+   "College Name": "King George's Medical University - [KGMU], Lucknow",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1498220102logo.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1498220102cvr.png?h=240&w=1000&mode=crop",
+   "Location": "Lucknow, Uttar Pradesh",
+   "Affiliation": "State University",
+   "Rating": 4,
+   "Course": "MBBS",
+   "Fees": "₹54,900 (1st Year Fees)"
+ },
+ {
+   "Stream": "Aviation",
+   "College Name": "Lovely Professional University - [LPU], Jalandhar",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1705314547logo.png?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/1705314883unnamed.jpg?h=240&w=1000&mode=crop",
+   "Location": "Jalandhar, Punjab",
+   "Affiliation": "Private University",
+   "Rating": 4.2,
+   "Course": "B.Tech",
+   "Fees": "₹2.8 Lakhs (1st Year Fees)"
+ },
+ {
+   "Stream": "Veterinary Sciences",
+   "College Name": "Banaras Hindu University - [BHU], Varanasi",
+   "College Logo": "https://images.collegedunia.com/public/college_data/images/logos/1434627772BHU.jpg?h=71.17&w=71.17&mode=stretch",
+   "College Background Image": "https://images.collegedunia.com/public/college_data/images/appImage/25924_BHU_APP.jpg?h=240&w=1000&mode=crop",
+   "Location": "Varanasi, Uttar Pradesh",
+   "Affiliation": "Central University",
+   "Rating": 3.9,
+   "Course": "MBA",
+   "Fees": "₹50,007 (1st Year Fees)"
+ }
+]

@@ -1,0 +1,607 @@
+,
+    {
+        "College_Country_Name": "GERMANY",
+        "College_City": "Berlin",
+        "College_Name": "IU, International University of Applied Sciences - Online, Berlin",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_3677_02-17:01_college_2400_07-10_26_iu_Campus.png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": [
+            "Master of Business Administration [M.B.A] Finance and Accounting",
+            "Master of Business Administration [M.B.A] Supply Chain Management"
+        ],
+        "Courses Years": [
+            "2 years",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            3.2,
+            3.2
+        ],
+        "id": null
+    },
+    {
+        "College_Country_Name": "ZAMBIA",
+        "College_City": "Lusaka",
+        "College_Name": "Unicaf University, Kazungula",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_3692_11-10:15_UNICAF-high-res-transparent-(1).png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": null,
+        "Courses Years": null,
+        "Courses Degree": null,
+        "Courses Languages": null,
+        "Courses Timing": null,
+        "Courses Fees": null,
+        "id": null
+    },
+    {
+        "College_Country_Name": "MALAYSIA",
+        "College_City": "Selangor",
+        "College_Name": "Universiti Kebangsaan Malaysia, Bangi",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_3693_19-13:40_Universiti-Kebangsaan-Malaysia-(UKM).png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": null,
+        "Courses Years": null,
+        "Courses Degree": null,
+        "Courses Languages": null,
+        "Courses Timing": null,
+        "Courses Fees": null,
+        "id": null
+    },
+    {
+        "College_Country_Name": "NETHERLANDS",
+        "College_City": "North Brabant",
+        "College_Name": "Tilburg University, Tilburg",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_3694_24-11:59_logo.png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": null,
+        "Courses Years": null,
+        "Courses Degree": null,
+        "Courses Languages": null,
+        "Courses Timing": null,
+        "Courses Fees": null,
+        "id": null
+    },
+    {
+        "College_Country_Name": "GERMANY",
+        "College_City": "Berlin",
+        "College_Name": "IU, International University of Applied Sciences, Berlin",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2400_07-10:26_iu_Campus.png?h=90&w=90&mode=stretch",
+        "College_Rating": 7.9,
+        "Courses": null,
+        "Courses Years": null,
+        "Courses Degree": null,
+        "Courses Languages": null,
+        "Courses Timing": null,
+        "Courses Fees": null,
+        "id": null
+    },
+    {
+        "College_Country_Name": "AUSTRALIA",
+        "College_City": "New South Wales",
+        "College_Name": "Torrens University Australia, Sydney",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2388_06-18:13_torren.png?h=90&w=90&mode=stretch",
+        "College_Rating": 7.1,
+        "Courses": null,
+        "Courses Years": null,
+        "Courses Degree": null,
+        "Courses Languages": null,
+        "Courses Timing": null,
+        "Courses Fees": null,
+        "id": null
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Illinois",
+        "College_Name": "Knox College, Galesburg",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1340_06-14:20_300x300.jpeg?h=90&w=90&mode=stretch",
+        "College_Rating": 6.8,
+        "Courses": [
+            "Master of Science [M.S] Nurse Anesthesia",
+            "Master of Business Administration [M.B.A] Business Analytics"
+        ],
+        "Courses Years": [
+            "3 years",
+            "3 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            36.6,
+            20.2
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Florida",
+        "College_Name": "Florida International University, Miami",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/404164 logo.jpg?h=90&w=90&mode=stretch",
+        "College_Rating": 8.1,
+        "Courses": [
+            "Master of Science [M.Sc] Data Science and Artificial Intelligence",
+            "Master of Science [M.S] Computer Science"
+        ],
+        "Courses Years": [
+            "1 year",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            15.4,
+            15.4
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Delaware",
+        "College_Name": "University of Delaware, Newark",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72131 logo.png?h=90&w=90&mode=stretch",
+        "College_Rating": 8.9,
+        "Courses": [
+            "Master of Science [M.S] Data Science",
+            "Master of Business Administration [M.B.A]"
+        ],
+        "Courses Years": [
+            "1 year",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            25.8,
+            25.8
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "New Jersey",
+        "College_Name": "New Jersey Institute of Technology, Newark",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72067 logo.jpg?h=90&w=90&mode=stretch",
+        "College_Rating": 8.0,
+        "Courses": [
+            "Master of Science [M.S] Data Science",
+            "Master of Science [M.S] Computer Science"
+        ],
+        "Courses Years": [
+            "2 years",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            29.5,
+            29.5
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Pennsylvania",
+        "College_Name": "Lincoln University, Philadelphia",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/3435 logo.png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": [
+            "Master of Business Administration [M.B.A] Human Resources Management",
+            "Bachelor of Science [B.S] Nursing"
+        ],
+        "Courses Years": [
+            "2 years",
+            "4 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            16.0,
+            17.9
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Bachelor"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Florida",
+        "College_Name": "University of Central Florida, Orlando",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72125 logo.jpg?h=90&w=90&mode=stretch",
+        "College_Rating": 7.5,
+        "Courses": [
+            "Master of Science [M.S] Statistics and Data Science",
+            "Master of Science [M.S] Computer Science"
+        ],
+        "Courses Years": [
+            "2 years",
+            "1 year"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            29.9,
+            29.9
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Missouri",
+        "College_Name": "Missouri University of Science and Technology, Rolla",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74199 logo.png?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": [
+            "Master of Science [M.S] Computer Science",
+            "Master of Science [M.S] Information Science and Technology"
+        ],
+        "Courses Years": [
+            "1 year",
+            "1 year"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            22.6,
+            22.6
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Missouri",
+        "College_Name": "Saint Louis University, Saint Louis",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1943_27-10:56_logowithyear_rgb.jpeg?h=90&w=90&mode=stretch",
+        "College_Rating": 7.2,
+        "Courses": [
+            "Master of Science [M.S] Computer Science",
+            "Master of Science [M.S] Applied Analytics"
+        ],
+        "Courses Years": [
+            "2 years",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            35.1,
+            35.1
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "New York",
+        "College_Name": "Syracuse University, Syracuse",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72106 Logo.png?h=90&w=90&mode=stretch",
+        "College_Rating": 7.2,
+        "Courses": [
+            "Master of Science [M.S] Applied Data Science",
+            "Master of Science [M.S] Computer Science"
+        ],
+        "Courses Years": [
+            "1 year",
+            "1 year"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            53.2,
+            46.9
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "USA",
+        "College_City": "New York",
+        "College_Name": "Rensselaer Polytechnic Institute, Troy",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72091 logo.JPG?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": [
+            "Master of Science [M.S] Electrical, Computer and Systems Engineering",
+            "Master of Science [M.S] Management"
+        ],
+        "Courses Years": [
+            "2 years",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            50.4,
+            50.4
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "ITALY",
+        "College_City": "Tuscany",
+        "College_Name": "University of Pisa, Pisa",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_3637_15-16:40_university-of-pisa-logo.jpeg?h=90&w=90&mode=stretch",
+        "College_Rating": "",
+        "Courses": [
+            "Master of Science [M.S] Data science and Business Informatics",
+            "Master of Science [M.Sc} Cyber Security"
+        ],
+        "Courses Years": [
+            "2 years",
+            "3 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            2.1,
+            2.1
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "UK",
+        "College_City": "England",
+        "College_Name": "University of Bedfordshire, Luton",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_853_02-11:48_3.png?h=90&w=90&mode=stretch",
+        "College_Rating": 7.7,
+        "Courses": [
+            "Master of Science [M.Sc] Computer Science",
+            "Master of Business Administration [M.B.A]"
+        ],
+        "Courses Years": [
+            "1 year",
+            "15 months"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            16.5,
+            18.0
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },
+    {
+        "College_Country_Name": "UK",
+        "College_City": "England",
+        "College_Name": "Teesside University, Middlesbrough",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_856_02-11:48_6.jpeg?h=90&w=90&mode=stretch",
+        "College_Rating": 6.5,
+        "Courses": [
+            "Master of Business Administration [M.B.A]",
+            "Master of Public Health [M.P.H]"
+        ],
+        "Courses Years": [
+            "16 months",
+            "1 year"
+        ],
+        "Courses Degree": [
+            "Online, On Campus",
+            "Online"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            15.1,
+            9.5
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    }
+    {
+        "College_Country_Name": "USA",
+        "College_City": "Connecticut",
+        "College_Name": "University of Bridgeport, Bridgeport",
+        "College_Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72123 logo.jpg?h=90&w=90&mode=stretch",
+        "College_Rating": 6.1,
+        "Courses": [
+            "Master of Science [M.S] Computer Science",
+            "Master of Science [M.S] Integrated Marketing Communications"
+        ],
+        "Courses Years": [
+            "2 years",
+            "2 years"
+        ],
+        "Courses Degree": [
+            "On Campus",
+            "On Campus"
+        ],
+        "Courses Languages": [
+            "English",
+            "English"
+        ],
+        "Courses Timing": [
+            "Full Time",
+            "Full Time"
+        ],
+        "Courses Fees": [
+            40.2,
+            40.2
+        ],
+        "id": null,
+        "Course_Degree_Type": [
+            "Master",
+            "Master"
+        ]
+    },

@@ -17,12 +17,12 @@ try:
         soup = bs.Soup(c_link)
         
         # institute title--------
-        name = soup.find('h1', class_="jsx-3706751501 text-white font-weight-bolder mt-0 mb-1 text-lg").text
+        name = soup.find('h1', class_="jsx-2553403396 fs-24 font-weight-bold text-white").text
         institute_name.append(name)
         
         
         # institute logo--------
-        logo = soup.find('a', class_="jsx-3706751501 college-logo bg-white p-1")
+        logo = soup.find('a', class_="jsx-2553403396 institute-college-logo bg-white")
         if logo is not None:
             url = logo.find('img').get('data-src')
             institute_logo.append(url)
@@ -31,19 +31,19 @@ try:
             
             
         # institute location--
-        loc = soup.find('div', class_="jsx-3706751501 extra-info").find('span', class_="jsx-3706751501 text-white text-uppercase font-weight-bold text-sm mr-3")
+        loc = soup.find('div', class_="jsx-2553403396 extra-info mt-2 d-flex").find('span', class_="jsx-2553403396 fs-14 font-weight-normal text-white d-flex align-items-center")
         if loc is not None:
-            institute_location.append(loc.text.strip())
+            institute_location.append(loc.text.split(',')[0].strip())
             
         # Rating----------
-        rating = soup.find('span', class_="jsx-3706751501 rating-val font-weight-bolder d-inline-block")
+        rating = soup.find('div', class_="jsx-2553403396 fs-16 font-weight-semi marginr-2")
         if rating is not None:
             institute_rating.append(float(rating.text.split('/')[0]))
             
             
             
         # Institute details------
-        content = soup.find('div', class_="jsx-1484856324 jsx-1400000905 article-body content-side college-content-section")
+        content = soup.find('div', class_="jsx-1274291169 jsx-3815267175 article-body content-side content_box college-content-section wrap-body-small")
         
         if content is not None:
             
@@ -59,9 +59,12 @@ try:
                 if para == "":
                     # Get the text from the second 'p' tag
                     para = p_tag[1].text  # Index 1 corresponds to the second element
+                    
                 
-                
-                institute_summary.append(para)
+                if "table of content" or "table of contents" in para:
+                    institute_summary.append("")
+                else:
+                    institute_summary.append(para)
                 
             else:
                 institute_summary.append("")
@@ -110,34 +113,38 @@ try:
         
         # courses offered by Institutes -----
         
-        cr_cards = soup.find('div', class_="jsx-1280987842 courses")
+        cr_cards = soup.find('div', class_="jsx-1280987842 course-reserve-height")
         
         if cr_cards is not None:
             
-            course_cards = cr_cards.find_all('div', class_="jsx-1096428961 program-card mt-4 bg-white")
+            course_cards = cr_cards.find_all('div', class_="jsx-3128659336 course-card border border-gray-5 rounded-8 p-4 mt-4")
             institute_courses = []
             
             for course_card in course_cards:
                 each_course_details = {}
                 
                 # 1st row--
-                course_name = course_card.find('h3', class_="jsx-1096428961 text-secondary h2 mb-0")
+                course_name = course_card.find('div', class_="jsx-3128659336 course-detail d-flex justify-content-between")
                 if course_name is not None:
-                    each_course_details['Course Name'] = course_name.a.text.strip()
+                    cn = course_name.a.text.strip()
+                    if ':' in cn:
+                        each_course_details['Course Name'] = course_name.a.text.split(':')[1].strip()
+                    else:
+                        each_course_details['Course Name'] = course_name.a.text.strip()
                     
                     
-                course_fees = course_card.find('div', class_="jsx-1096428961 fees")
+                course_fees = course_card.find('div', class_="jsx-3128659336 text-end ml-4 white-space-nowrap")
                 if course_fees is not None:
-                    each_course_details['Course Fees'] = course_fees.span.text.strip()
+                    each_course_details['Course Fees'] = course_fees.find('span', class_="jsx-3128659336 fs-18 font-weight-semi text-primary-green ml-1").text.strip()
                     
                     
                 # 2nd row--
-                course_time = course_card.find('span', class_="jsx-1096428961 year align-items-center font-weight-bold text-sm mr-6")
+                course_time = course_card.find('span', class_="jsx-3128659336 position-relative")
                 if course_time is not None:
                     each_course_details['Course Time'] = course_time.text.strip()
                 
                 
-                course_type = course_card.find('span', class_="jsx-1096428961 d-block sub-head text-silver")
+                course_type = course_card.find('span', class_="jsx-3128659336 course-separater pl-3 ml-2 position-relative")
                 if course_type is not None:
                     each_course_details['Program Type'] = course_type.text.strip()
 

@@ -60,21 +60,21 @@ data = BeautifulSoup(driver.page_source, 'lxml')
 
 try:
     #---write code here---
-    blocks = data.find('div', class_="jsx-2796823646 jsx-1933831621 table-view-wrapper india real position-relative w-100").find_all('div', class_="jsx-2796823646 jsx-1933831621 table-wrapper")
+    blocks = data.find('div', class_="jsx-4033392124 jsx-1933831621 table-view-wrapper india real position-relative w-100").find_all('div', class_="jsx-4033392124 jsx-1933831621 table-wrapper")
     
     for block in blocks:
             
         try:
-            ccs = block.find('tbody', class_="jsx-2796823646 jsx-1933831621").find_all('tr')
+            ccs = block.find('tbody', class_="jsx-4033392124 jsx-1933831621").find_all('tr')
             
             for cc in ccs:
-                link = cc.find('a', class_="jsx-1948362374 clg-logo d-block mr-2")
+                link = cc.find('a', class_="jsx-3749532717 clg-logo d-block mr-2")
                 # print(link)
                 
                 if link is not None:
                     college_link = link.get('href')
                     f_college_link = f'https://collegedunia.com{college_link}'
-                    # print(f_college_link)
+                    print(f_college_link)
                     
                     # finder course details @link---
                     ecd.getCollegeDetails(f_college_link)
@@ -83,15 +83,15 @@ try:
                     # ecd.getfees(f_college_link)
                     
                     # courses offered--
-                    # ecd.getCourses(f_college_link)
+                    ecd.getCourses(f_college_link)
                     
-                    f_collegeFaculty_link = f'https://collegedunia.com{college_link}/faculty'
+                    # f_collegeFaculty_link = f'https://collegedunia.com{college_link}/faculty'
                     
-                    # faculty details--
-                    if f_collegeFaculty_link:
-                        ecd.getFaculty(f_collegeFaculty_link)
-                    else:
-                        print("!!!!!!!!!!!!!!!!!")
+                    # # faculty details--
+                    # if f_collegeFaculty_link:
+                    #     ecd.getFaculty(f_collegeFaculty_link)
+                    # else:
+                    #     print("!!!!!!!!!!!!!!!!!")
                     
                     print("-------------------------------------------------------------------------------")
                     

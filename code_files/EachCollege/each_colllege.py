@@ -5,7 +5,8 @@ import timeit
 import time
 import csv
 from selenium import webdriver
-import each_college_details as ecd
+# import each_college_details as ecd
+import clg_details as ecd
 
 # start timer
 start_time = timeit.default_timer()
@@ -19,18 +20,18 @@ driver = webdriver.Chrome(service = cService)
 
 
 # Open the web page
-# indian_states = ["andhra-pradesh"--, "arunachal-pradesh"--, "assam"--, "andaman-and-nicobar-islands"--, "bihar"--, "chandigarh"--, "chhattisgarh",-- 
-#                  "daman-and-diu",-- "delhi-ncr"--, "goa"--, "gujarat"--, "haryana"--, "himachal-pradesh", 
-#                  "jammu-and-kashmir", "jharkhand", "karnataka", "kerala", "madhya-pradesh", "maharashtra", "manipur", 
-#                  "meghalaya", "mizoram", "nagaland", "odisha", "punjab", "puducherry", "rajasthan", "sikkim", "tamil-nadu", 
-#                  "telangana", "tripura", "uttar-pradesh", "uttarakhand",
-#                  "west-bengal"]
+# indian_states = ["andhra-pradesh--", "arunachal-pradesh--", "assam--", "andaman-and-nicobar-islands--", "bihar--", "chandigarh--", "chhattisgarh--", 
+#                  "daman-and-diu--", "delhi-ncr--", "goa--", "gujarat--", "haryana"--, "himachal-pradesh--", 
+#                  "jammu-and-kashmir--", "jharkhand--", "karnataka--", "kerala--", "madhya-pradesh--", "maharashtra--", "manipur--", 
+#                  "meghalaya--", "mizoram--", "nagaland--", "odisha--", "punjab--", "puducherry--", "rajasthan--", "sikkim--", "tamil-nadu", 
+#                  "telangana--", "tripura--", "uttar-pradesh", "uttarakhand--",
+#                  "west-bengal--"]
 
 # states =["assam", "andaman-and-nicobar-islands"]
 
 
 # for state in states:
-state = "kerala"
+state = "punjab"
 
 
 driver.get(f'https://collegedunia.com/{state}-colleges')
@@ -66,15 +67,15 @@ data = BeautifulSoup(driver.page_source, 'lxml')
 
 try:
     #---write code here---
-    blocks = data.find('div', class_="jsx-2796823646 jsx-1933831621 table-view-wrapper india real position-relative w-100").find_all('div', class_="jsx-2796823646 jsx-1933831621 table-wrapper")
+    blocks = data.find('div', class_="jsx-4033392124 jsx-1933831621 table-view-wrapper india real position-relative w-100").find_all('div', class_="jsx-4033392124 jsx-1933831621 table-wrapper")
     
     for block in blocks:
             
         try:
-            ccs = block.find('tbody', class_="jsx-2796823646 jsx-1933831621").find_all('tr')
+            ccs = block.find('tbody', class_="jsx-4033392124 jsx-1933831621").find_all('tr')
             
             for cc in ccs:
-                link = cc.find('a', class_="jsx-1948362374 clg-logo d-block mr-2")
+                link = cc.find('a', class_="jsx-3749532717 clg-logo d-block mr-2")
                 
                 if link is not None:
                     college_link = link.get('href')
@@ -83,8 +84,6 @@ try:
                     # finder course details @link---
                     ecd.getCollegeDetails(f_college_link)
                     
-                    # course fees and eligibility---
-                    # ecd.getfees(f_college_link)
                     
                                         
                 else:
@@ -104,19 +103,19 @@ driver.quit()
 try:        
     fields = {
         "College_Name":ecd.college_name,
-        "College_Logo":ecd.college_logo,
-        "Upper_Section_Details":ecd.upper_section_details,
-        "College_Rating":ecd.college_rating,
-        "College_Summary":ecd.college_summary,
-        "Fees_and_Eligibility":ecd.college_fees_eligibility,
-        "Courses_Details":ecd.courses_details
+        # "College_Logo":ecd.college_logo,
+        # "Upper_Section_Details":ecd.upper_section_details,
+        # "College_Rating":ecd.college_rating,
+        # "College_Summary":ecd.college_summary,
+        # "Fees_and_Eligibility":ecd.college_fees_eligibility,
+        # "Courses_Details":ecd.courses_details
+        "Course_Name":ecd.Courses_Name,
+        "Course_Year":ecd.Courses_Year,
+        "Course_Time":ecd.Courses_Time
         }
 
     df = pd.DataFrame.from_dict(fields, orient='index')
     df = df.transpose()
-    # df.index = np.arange(1, len(df) + 1)
-    # df["Sr-No"] = np.arange(1, len(df) + 1)
-    # df = df.set_index('Sr-No')
     
     
         
@@ -126,10 +125,10 @@ try:
     for i in range(num_chunks):
         new_df = df[i*chunk_size:(i+1)*chunk_size]
         
-        # csv_file_path = f'extracted_files\statewise_colleges\{state}_data_{i+1}.csv'
+        # csv_file_path = f'extracted_files\state_wise_college_course_details\{state}_data_{i+1}.csv'
         # new_df.to_csv(csv_file_path, index=False)
         
-        json_file_path = f'extracted_files\States_chunks_Data\{state}_data_{i+1}.json'
+        json_file_path = f'extracted_files\state_wise_college_course_details_2\{state}_data_{i+1}.json'
         new_df.to_json(json_file_path, orient='records')
         
     # json_file_path = f'extracted_files\state_colleges\{state}_data.json'

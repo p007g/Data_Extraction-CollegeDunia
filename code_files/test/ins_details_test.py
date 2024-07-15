@@ -9,34 +9,34 @@ try:
         
         
         # institute title--------
-        institute_name = soup.find('h1', class_="jsx-3706751501 text-white font-weight-bolder mt-0 mb-1 text-lg").text
+        institute_name = soup.find('h1', class_="jsx-2553403396 fs-24 font-weight-bold text-white").text
         print(institute_name)
         
         
         # institute logo--------
-        logo = soup.find('a', class_="jsx-3706751501 college-logo bg-white p-1")
+        logo = soup.find('a', class_="jsx-2553403396 institute-college-logo bg-white")
         if logo is not None:
             url = logo.find('img').get('data-src')
             print(url)
 
             
-            
+                    
         # institute location--
-        loc = soup.find('div', class_="jsx-3706751501 extra-info").find('span', class_="jsx-3706751501 text-white text-uppercase font-weight-bold text-sm mr-3")
+        loc = soup.find('div', class_="jsx-2553403396 extra-info mt-2 d-flex").find('span', class_="jsx-2553403396 fs-14 font-weight-normal text-white d-flex align-items-center")
         if loc is not None:
-            print(loc.text.strip())
+            print(loc.text.split(',')[0].strip())
             
             
         # Rating----------
-        rating = soup.find('span', class_="jsx-3706751501 rating-val font-weight-bolder d-inline-block")
+        rating = soup.find('div', class_="jsx-2553403396 fs-16 font-weight-semi marginr-2")
         if rating is not None:
             print(float(rating.text.split('/')[0]))
             
             
             
         # Institute details------
-        content = soup.find('div', class_="jsx-1484856324 jsx-1400000905 article-body content-side college-content-section")
-        
+        content = soup.find('div', class_="jsx-1274291169 jsx-3815267175 article-body content-side content_box college-content-section wrap-body-small")
+        # print(content)
         if content is not None:
             
             p1 = content.find('p')
@@ -61,59 +61,72 @@ try:
             
             if inf is not None:
                 info = inf.tbody.find_all('tr')
+                # print(info)
                 
-                tab = {'Institute Type': '', "Official Website": '', "Email": ''}
+                tab = {}
                 
                 for i in range(0, len(info)):
                     
                     cond = info[i].find_all('td')[0].text
+                    # print(cond)
                     stat = info[i].find_all('td')[1].text.strip()
-                    
+                        
                     if cond == 'Institute Type':
                         tab['Institute Type'] = stat
                         
-                    elif cond == 'Official Website':
+                    if cond == 'Established in':
+                        tab['Established in'] = stat
+                        
+                    if cond == 'Official Website':
                         tab['Official Website'] = stat
                         
-                    elif cond == 'Email':
+                    if cond == 'Email':
                         tab['Email'] = stat
-                
+                        
+                    if cond == 'Study Material':
+                        tab['Study Material'] = stat
+                    
                 print(tab)
         
         else:
             print("No Info") 
     
-    # COurses----
+    # Courses----
         
-        course_cards = soup.find('div', class_="jsx-1280987842 courses").find_all('div', class_="jsx-1096428961 program-card mt-4 bg-white")
+        course_cards = soup.find('div', class_="jsx-1280987842 course-reserve-height").find_all('div', class_="jsx-3128659336 course-card border border-gray-5 rounded-8 p-4 mt-4")
         
         for course_card in course_cards:
             each_course_details = {}
             
             # 1st row--
-            course_name = course_card.find('h3', class_="jsx-1096428961 text-secondary h2 mb-0")
+            course_name = course_card.find('div', class_="jsx-3128659336 course-detail d-flex justify-content-between")
+            # print(course_name)
             if course_name is not None:
-                each_course_details['CN'] = course_name.a.text.strip()
+                cn = course_name.a.text.strip()
+                if ':' in cn:
+                    each_course_details['CN'] = course_name.a.text.split(':')[1].strip()
+                else:
+                    each_course_details['CN'] = course_name.a.text.strip()
             else:
                 each_course_details['CN'] = "--------"
                 
                 
-            course_fees = course_card.find('div', class_="jsx-1096428961 fees")
+            course_fees = course_card.find('div', class_="jsx-3128659336 text-end ml-4 white-space-nowrap")
             if course_fees is not None:
-                each_course_details['CF'] = course_fees.span.text.strip()
+                each_course_details['CF'] = course_fees.find('span', class_="jsx-3128659336 fs-18 font-weight-semi text-primary-green ml-1").text.strip()
             else:
                 each_course_details['CF'] = "::::::::::::"
                 
                 
-            # 2nd row--
-            course_time = course_card.find('span', class_="jsx-1096428961 year align-items-center font-weight-bold text-sm mr-6")
+            # # 2nd row--
+            course_time = course_card.find('span', class_="jsx-3128659336 position-relative")
             if course_time is not None:
                 each_course_details['CT'] = course_time.text.strip()
             else:
                 each_course_details['CT'] = "|||||||||||"
             
             
-            course_type = course_card.find('span', class_="jsx-1096428961 d-block sub-head text-silver")
+            course_type = course_card.find('span', class_="jsx-3128659336 course-separater pl-3 ml-2 position-relative")
             if course_type is not None:
                 each_course_details['CType'] = course_type.text.strip()
             else:
@@ -121,7 +134,7 @@ try:
 
                 
             print(each_course_details)
-            
+                        
 except Exception as e:
     print(e)
 
@@ -130,6 +143,3 @@ except Exception as e:
 # -------------------Main Function------------
 # getInstituteDetails("https://collegedunia.com/institute/3716-ardent-computech-pvt-ltd-kolkata")
 # getInstituteDetails("https://collegedunia.com/institute/3148-the-chennai-school-of-banking-and-management-chennai")
-# getfees("https://collegedunia.com/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai")
-# getCourses("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad")
-# getFaculty("https://collegedunia.com/college/18041-imt-institute-of-management-technology-ghaziabad/faculty")

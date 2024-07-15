@@ -23,6 +23,8 @@ path_to_chromedriver = "C:\Program Files (x86)\chromedriver.exe"
 cService = webdriver.ChromeService(executable_path=path_to_chromedriver)
 driver = webdriver.Chrome(service = cService)
 
+driver.fin
+
 # Open the web page
 
 # indian_states = ["andhra-pradesh", "arunachal-pradesh", "assam", "andaman-and-nicobar-islands", "bihar", "chandigarh", "chhattisgarh", 
